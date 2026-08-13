@@ -1,0 +1,304 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📦🆓 Maigret",
+          "description": "Collect user account information from various public sources by username.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-27T03:36:32Z",
+            "owner": "w0h1v",
+            "repo": "mcp-maigret",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦💰 Xquik",
+          "description": "X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:06:26Z",
+            "owner": "Xquik-dev",
+            "repo": "x-twitter-scraper",
+            "stars": 178
+          }
+        }
+      ],
+      "title": "SOCMINT"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📦🆓💰 Shodan",
+          "description": "Query the Shodan API and CVEDB for IP reconnaissance, DNS operations, vulnerability tracking, and device discovery. Free tier available with limited queries, requires Shodan API key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-31T18:08:46Z",
+            "owner": "w0h1v",
+            "repo": "mcp-shodan",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓💰 ZoomEye",
+          "description": "Obtain network asset information by querying ZoomEye using dorks and other search parameters. 7-day free trial available, requires ZoomEye API key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-27T01:39:56Z",
+            "owner": "zoomeye-ai",
+            "repo": "mcp_zoomeye",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 DNSTwist",
+          "description": "DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-03T06:57:46Z",
+            "owner": "w0h1v",
+            "repo": "mcp-dnstwist",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓💰 ContrastAPI",
+          "description": "Security intelligence server with 49 tools: domain recon (DNS, WHOIS, SSL, subdomains, WAF, Wayback) plus orchestrated , IP reputation plus orchestrated (Shodan + AbuseIPDB + ASN), CVE/EPSS/KEV lookup plus (CVSS+EPSS+KEV+PoC fusion) and (50/call), (MITRE/GHSA pre-NVD), IOC enrichment plus (50/call), threat intel, MITRE ATLAS (167 AI/ML attack techniques + bulk drill) and D3FEND defenses (149 techniques + coverage report), web intelligence (robots.txt, redirect chain, email validation, brand assets, SEO audit), (requirements.txt / package.json audit), and code security scanning. Anonymous tier + Pro tier with API key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T02:10:39Z",
+            "owner": "UPinar",
+            "repo": "contrastapi",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🆓💰 CrawlGraph",
+          "description": "Passive web footprinting via the Common Crawl webgraph - mapping which sites reference a target, without ever touching the target (passive, no active scanning). Two tools for OSINT research: inbound linking to target and link-gap between two or more targets. . Free sign up for 15 targets/mo ; paid lifetime API for higher limits and link-gap research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T15:39:38Z",
+            "owner": "pucilpet",
+            "repo": "crawlgraph-mcp",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Network Scanning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🆓💰 OpenRegistry",
+          "description": "Real-time access to 27 national corporate registries worldwide (UK Companies House, France Sirene, Germany Handelsregister, South Korea OPENDART, Australia ABR, Canada Corporations, etc.) via a unified JSON schema. Returns company profiles, officers, shareholders, beneficial ownership, filings, and raw documents. Free tier: 20 rpm without signup, 30 rpm with email. Paid up to $29/mo. OAuth 2.1, no API keys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-20T01:48:09Z",
+            "owner": "sophymarine",
+            "repo": "openregistry",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦💰 Checko MCP",
+          "description": "Unofficial wrapper for the Russian Checko.ru API: verify counterparties (companies, sole proprietors, individuals) via EGRUL/EGRIP, arbitration cases, government contracts (44-FZ/223-FZ), Rosstat financials, inspections, Fedresurs and EFRSB bankruptcy records. 12 tools and 6 ready-made workflow prompts. Requires paid .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T08:47:45Z",
+            "owner": "Nymaxxx",
+            "repo": "checko-mcp",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓💰 CompanyScope",
+          "description": "Company intelligence aggregating data from 8 public sources (Wikipedia, SEC EDGAR, OpenCorporates, RDAP, GitHub, and more) for corporate reconnaissance. Free tier 25 calls/day, pay-per-use tier on Apify.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-04-12T09:37:12Z",
+            "owner": "Stewyboy1990",
+            "repo": "companyscope-mcp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 StockScope",
+          "description": "SEC EDGAR financial intelligence for stock research. Revenue, net income, margins, filings, and company comparisons for any US public company. Free, no API key needed.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-04-12T09:37:12Z",
+            "owner": "Stewyboy1990",
+            "repo": "companyscope-mcp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🆓 Fylings",
+          "description": "African company intelligence across 18+ official national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM, and more) via a unified schema, with the official registry source and a last-verified date on every record. Company search & verification, beneficial ownership, government-contract awards, and sanctions screening. Free, no API key. Hosted MCP: https://www.fylings.com/api/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-27T02:45:58Z",
+            "owner": "HeyZod",
+            "repo": "fylings-mcp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦💰 US Business Data",
+          "description": "Search Secretary of State business registrations across 17 US states, building permits in 400+ cities, and Yellow Pages business leads. Returns entity details, filing status, and registered agents.",
+          "children": []
+        }
+      ],
+      "title": "Company Intelligence"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📦🆓 OpenOSINT",
+          "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:34:50Z",
+            "owner": "OpenOSINT",
+            "repo": "OpenOSINT",
+            "stars": 1397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 VirusTotal",
+          "description": "Analyze URLs, files (by hash), IPs, and domains with detailed relationship mapping. Free API tier available, requires .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-24T03:00:04Z",
+            "owner": "w0h1v",
+            "repo": "mcp-virustotal",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 VulneraMCP",
+          "description": "AI-powered bug bounty MCP server with recon (subfinder, httpx, gau, ffuf), vulnerability testing (XSS/SQLi/IDOR/CSRF), API/auth/cloud scanning, knowledge-graph analysis, and Markdown reporting. Integrates OWASP ZAP and CLI tools with PostgreSQL storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T12:26:50Z",
+            "owner": "telmon95",
+            "repo": "VulneraMCP",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 osint-agent-skills",
+          "description": "23 MCP tools (DNS, Shodan InternetDB, crt.sh, Wayback CDX, GitHub code search, OTX, HIBP, Etherscan, Mastodon) with zero-dependency Node.js server for Claude Code, Cursor, and Ollama.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T14:40:52Z",
+            "owner": "frangelbarrera",
+            "repo": "osint-agent-skills",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 Clearfront",
+          "description": "Self-OSINT footprint scanner exposing 30 tools over MCP: username enumeration (Sherlock, Maigret, WhatsMyName), email and breach checks (holehe, HIBP, Hudson Rock infostealer logs), domain and IP recon (crt.sh, Shodan, Censys, GreyNoise, Wayback Machine), and EXIF/GPS extraction. Correlates findings into an evidence graph and rates each by source, confidence and severity. Configurable sweep depth and a local web console. , runs locally, most tools keyless.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T09:21:41Z",
+            "owner": "scottmartinanderson",
+            "repo": "clearfront",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 ScanMalware",
+          "description": "Submit a URL for sandboxed browser analysis, then pivot across the scan archive: search by domain, IP, ASN, JARM, favicon mmh3, TLSH/ssdeep fuzzy hash, screenshot hash, OCR text, or JavaScript fingerprint. Also exposes YARA matches, TLS/RDAP records, Certificate Transparency pivots, detected technologies, and pastejacking/clipboard events. 128 tools, no API key required. MCP: https://mcp.scanmalware.com/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T14:52:42Z",
+            "owner": "scanmalware",
+            "repo": "mcp-server",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Threat Intelligence"
+    },
+    {
+      "description": "Contributions are welcome! Please open a pull request to add a new OSINT MCP server to the list.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "MIT",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:37.194Z",
+    "original_repository": "soxoj/awesome-osint-mcp-servers",
+    "original_repository_sha": "d140e7a2374825a62747ee0d617fe63df6f9c2b3",
+    "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
+    "enhanced_repository_description": null,
+    "title": "Awesome OSINT MCP Servers with stars"
+  }
+}
