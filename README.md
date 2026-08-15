@@ -31,8 +31,10 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## SOCMINT
 
-* 📦🆓 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 257 | 🐛 7 | 🌐 JavaScript | 📅 2026-01-27 — Collect user account information from various public sources by username.
-* 📦💰 [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-14 — X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.
+* 📦🆓 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 258 | 🐛 7 | 🌐 JavaScript | 📅 2026-01-27 — Collect user account information from various public sources by username.
+* 📦🆓 [OSINT Tools MCP](https://github.com/frishtik/osint-tools-mcp-server) ⭐ 230 | 🐛 2 | 🌐 Python | 📅 2025-08-07 — Wraps seven classic OSINT CLIs behind one server: Sherlock and Blackbird (usernames), Maigret, Holehe (email), GHunt (Google accounts), theHarvester (domains) and SpiderFoot. Python, installs the underlying tools itself.
+* 📦💰 [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) ⭐ 181 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 — X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.
+* 📦🆓 [LinkedIn MCP](https://github.com/eliasbiondo/linkedin-mcp-server) ⭐ 175 | 🐛 1 | 🌐 Python | 📅 2026-03-08 — Search LinkedIn people, companies and jobs, and pull structured profile, company and post data. Uses your own session cookie; no API key.
 * 💰 [Expose Team](https://expose.team?utm_source=github.com\&utm_campaign=soxoj_awesome_osint_mcp_servers) — AI-powered OSINT at lightspeed. Credit-based plans from $8/month.
 
 ## Network Scanning
@@ -40,6 +42,7 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 * 📦🆓💰 [Shodan](https://github.com/BurtTheCoder/mcp-shodan) ⭐ 153 | 🐛 5 | 🌐 TypeScript | 📅 2026-03-31 — Query the Shodan API and CVEDB for IP reconnaissance, DNS operations, vulnerability tracking, and device discovery. Free tier available with limited queries, requires Shodan API key.
 * 📦🆓💰 [ZoomEye](https://github.com/zoomeye-ai/mcp_zoomeye) ⭐ 80 | 🐛 2 | 🌐 Python | 📅 2025-11-27 — Obtain network asset information by querying ZoomEye using dorks and other search parameters. 7-day free trial available, requires ZoomEye API key.
 * 📦🆓 [DNSTwist](https://github.com/BurtTheCoder/mcp-dnstwist) ⭐ 51 | 🐛 7 | 🌐 JavaScript | 📅 2025-03-03 — DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
+* 📦🆓 [IPInfo](https://github.com/briandconnelly/mcp-server-ipinfo) ⭐ 44 | 🐛 12 | 🌐 Python | 📅 2026-08-05 — IP geolocation, ASN and network details, Tor exit-node checks, and interactive maps for sets of IPs via ipinfo.io. Free API token required.
 * 📦🆓💰 [ContrastAPI](https://github.com/UPinar/contrastapi) ⭐ 32 | 🐛 3 | 🌐 Python | 📅 2026-08-10 — Security intelligence server with 49 tools: domain recon (DNS, WHOIS, SSL, subdomains, WAF, Wayback) plus orchestrated `audit_domain`, IP reputation plus orchestrated `threat_report` (Shodan + AbuseIPDB + ASN), CVE/EPSS/KEV lookup plus `calculate_risk_score` (CVSS+EPSS+KEV+PoC fusion) and `bulk_cve_lookup` (50/call), `cve_leading` (MITRE/GHSA pre-NVD), IOC enrichment plus `bulk_ioc_lookup` (50/call), threat intel, MITRE ATLAS (167 AI/ML attack techniques + bulk drill) and D3FEND defenses (149 techniques + coverage report), web intelligence (robots.txt, redirect chain, email validation, brand assets, SEO audit), `check_dependencies` (requirements.txt / package.json audit), and code security scanning. Anonymous tier + Pro tier with API key.
 * 🆓💰 [CrawlGraph](https://github.com/pucilpet/crawlgraph-mcp) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-03 — Passive web footprinting via the Common Crawl webgraph - mapping which sites reference a target, without ever touching the target (passive, no active scanning). Two tools for OSINT research: inbound linking to target and link-gap between two or more targets. `npx -y crawlgraph-mcp`. Free sign up for 15 targets/mo ; paid lifetime API for higher limits and link-gap research.
 * 📦🆓 [OSINT Toolkit](https://www.pulsemcp.com/servers/himanshusanecha-osint-toolkit) — Unified interface for network reconnaissance with parallel execution of WHOIS, Nmap, DNS lookups, and typosquatting detection.
@@ -48,12 +51,14 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Web Scraping
 
+* 📦🆓💰 [Bright Data](https://github.com/brightdata/brightdata-mcp) ⭐ 2,592 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-12 — Real-time web search, scraping, and structured data extraction from 60+ sources (Amazon, LinkedIn, TikTok, Google Maps, etc.) with CAPTCHA and anti-bot bypass. Free tier: 5,000 requests/month.
+* 📦🆓 [Wayback Machine MCP](https://github.com/Mearman/mcp-wayback-machine) ⭐ 44 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-10 — Query and save Internet Archive snapshots: check archive status, fetch archived URLs, search the CDX index, and compare two snapshots of a page. No API key for reads. `npx -y mcp-wayback-machine`
 * 🆓💰 [AnySite](https://docs.anysite.io/mcp-server/overview) — Structured data access to 115+ endpoints across 40+ platforms (LinkedIn, Instagram, X, Reddit, YouTube, GitHub, Amazon, etc.) via five meta-tools. 7-day free trial with 1,000 credits.
-* 📦🆓💰 [Bright Data](https://github.com/brightdata/brightdata-mcp) ⭐ 2,590 | 🐛 23 | 🌐 JavaScript | 📅 2026-08-12 — Real-time web search, scraping, and structured data extraction from 60+ sources (Amazon, LinkedIn, TikTok, Google Maps, etc.) with CAPTCHA and anti-bot bypass. Free tier: 5,000 requests/month.
 * 🆓💰 [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) — Web search and page-content extraction (`web_search`, `web_fetch`) for LLM agents. Default endpoint works without an API key; an account with credits is needed for production rate limits. MCP: <https://search.parallel.ai/mcp>
 
 ## Company Intelligence
 
+* 📦🆓 [Companies House MCP](https://github.com/stefanoamorelli/companies-house-mcp) ⭐ 26 | 🐛 17 | 🌐 TypeScript | 📅 2026-06-21 — 38 tools over the UK Companies House API: company and officer search, profiles, filing history and documents, charges, insolvency, PSC/beneficial ownership and disqualifications. Free API key required. AGPL-3.0.
 * 🆓💰 [OpenRegistry](https://github.com/sophymarine/openregistry) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-20 — Real-time access to 27 national corporate registries worldwide (UK Companies House, France Sirene, Germany Handelsregister, South Korea OPENDART, Australia ABR, Canada Corporations, etc.) via a unified JSON schema. Returns company profiles, officers, shareholders, beneficial ownership, filings, and raw documents. Free tier: 20 rpm without signup, 30 rpm with email. Paid up to $29/mo. OAuth 2.1, no API keys.
 * 📦💰 [Checko MCP](https://github.com/Nymaxxx/checko-mcp) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-05-09 — Unofficial wrapper for the Russian Checko.ru API: verify counterparties (companies, sole proprietors, individuals) via EGRUL/EGRIP, arbitration cases, government contracts (44-FZ/223-FZ), Rosstat financials, inspections, Fedresurs and EFRSB bankruptcy records. 12 tools and 6 ready-made workflow prompts. Requires paid `CHECKO_API_KEY`.
 * 📦🆓💰 [CompanyScope](https://github.com/Stewyboy1990/companyscope-mcp) ⚠️ Archived — Company intelligence aggregating data from 8 public sources (Wikipedia, SEC EDGAR, OpenCorporates, RDAP, GitHub, and more) for corporate reconnaissance. Free tier 25 calls/day, pay-per-use tier on Apify.
@@ -69,8 +74,10 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Threat Intelligence
 
-* 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) ⭐ 1,402 | 🐛 13 | 🌐 Python | 📅 2026-08-11 — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
+* 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) ⭐ 1,412 | 🐛 13 | 🌐 Python | 📅 2026-08-11 — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
+* 📦🆓 [Darknet MCP](https://github.com/badchars/darknet-mcp-server) ⭐ 308 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-11 — 66 tools for dark web and breach intelligence: ransomware group tracking and victim listings, stealer logs, HIBP breach lookups, IntelX search, Tor .onion fetching and exit-node checks, MalwareBazaar/ThreatFox/URLhaus feeds, and Bitcoin address intel. Many tools work with no API key; premium sources unlock with your own keys. `npx darknet-mcp-server`
 * 📦🆓 [VirusTotal](https://github.com/BurtTheCoder/mcp-virustotal) ⭐ 143 | 🐛 6 | 🌐 TypeScript | 📅 2026-05-24 — Analyze URLs, files (by hash), IPs, and domains with detailed relationship mapping. Free API tier available, requires `VIRUSTOTAL_API_KEY`.
+* 📦🆓 [OpenCTI MCP](https://github.com/zxzinn/opencti-mcp) ⭐ 40 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-03 — Natural-language access to an OpenCTI instance: latest reports, campaigns by name, attack patterns, indicators, labels and marking definitions over the GraphQL API. Requires your own OpenCTI URL and token.
 * 📦🆓 [VulneraMCP](https://github.com/telmon95/VulneraMCP) ⭐ 38 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-24 — AI-powered bug bounty MCP server with recon (subfinder, httpx, gau, ffuf), vulnerability testing (XSS/SQLi/IDOR/CSRF), API/auth/cloud scanning, knowledge-graph analysis, and Markdown reporting. Integrates OWASP ZAP and CLI tools with PostgreSQL storage.
 * 📦🆓 [osint-agent-skills](https://github.com/frangelbarrera/osint-agent-skills) ⭐ 23 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-27 — 23 MCP tools (DNS, Shodan InternetDB, crt.sh, Wayback CDX, GitHub code search, OTX, HIBP, Etherscan, Mastodon) with zero-dependency Node.js server for Claude Code, Cursor, and Ollama.
 * 📦🆓 [Clearfront](https://github.com/scottmartinanderson/clearfront) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-08-05 — Self-OSINT footprint scanner exposing 30 tools over MCP: username enumeration (Sherlock, Maigret, WhatsMyName), email and breach checks (holehe, HIBP, Hudson Rock infostealer logs), domain and IP recon (crt.sh, Shodan, Censys, GreyNoise, Wayback Machine), and EXIF/GPS extraction. Correlates findings into an evidence graph and rates each by source, confidence and severity. Configurable sweep depth and a local web console. `pip install clearfront`, runs locally, most tools keyless.
@@ -89,7 +96,7 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 ## Blockchain Intelligence
 
 * 💰 [TWZRD Agent Intel](https://intel.twzrd.xyz) — Blockchain OSINT for AI agent trust scoring — reads public Solana on-chain data (wallet history, transaction patterns) to score agent trustworthiness. Free preflight + paid signed V5 trust receipts via x402 micropayments. MCP: <https://intel.twzrd.xyz/mcp>
-* 💰 [The Stall](https://github.com/thebrierfox/the-stall) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-29 — Multi-tool blockchain OSINT server: OFAC sanctions screening (19,000+ SDN entries, fuzzy name match + AKA aliases), wallet risk scoring, agent KYA trust scoring, EVM and Solana transaction intelligence, and token security analysis. Pay-per-call via x402 USDC micropayments on Base — no accounts or API keys. MCP: <https://the-stall.intuitek.ai/mcp>
+* 💰 [The Stall](https://github.com/thebrierfox/the-stall) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-29 — Multi-tool blockchain OSINT server: OFAC sanctions screening (19,000+ SDN entries, fuzzy name match + AKA aliases), wallet risk scoring, agent KYA trust scoring, EVM and Solana transaction intelligence, and token security analysis. Pay-per-call via x402 USDC micropayments on Base — no accounts or API keys. MCP: <https://the-stall.intuitek.ai/mcp>
 
 ## Market & Trading
 
@@ -105,4 +112,4 @@ Contributions are welcome! Please open a pull request to add a new OSINT MCP ser
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
