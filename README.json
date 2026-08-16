@@ -76,7 +76,7 @@
             "last_commit": "2026-03-31T18:08:46Z",
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 153
+            "stars": 155
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2026-08-11T17:34:50Z",
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1412
+            "stars": 1413
           }
         },
         {
@@ -310,7 +310,7 @@
             "last_commit": "2026-08-11T21:53:54Z",
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 308
+            "stars": 309
           }
         },
         {
@@ -352,7 +352,7 @@
             "last_commit": "2026-07-24T12:26:50Z",
             "owner": "telmon95",
             "repo": "VulneraMCP",
-            "stars": 38
+            "stars": 39
           }
         },
         {
@@ -412,7 +412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:58:35.383Z",
+    "last_updated": "2026-08-16T21:57:44.648Z",
     "original_repository": "soxoj/awesome-osint-mcp-servers",
     "original_repository_sha": "75e7653cfcef8eb2475d7b1718ef99e4f959d333",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
