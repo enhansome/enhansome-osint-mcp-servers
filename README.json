@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T19:35:43Z",
+            "last_commit": "2026-08-18T21:19:37Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
             "stars": 183
@@ -146,7 +146,7 @@
             "last_commit": "2026-08-17T19:44:35Z",
             "owner": "pucilpet",
             "repo": "crawlgraph-mcp",
-            "stars": 2
+            "stars": 3
           }
         }
       ],
@@ -166,7 +166,7 @@
             "last_commit": "2026-08-12T07:39:54Z",
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2596
+            "stars": 2598
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-10T03:55:00Z",
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
-            "stars": 44
+            "stars": 45
           }
         }
       ],
@@ -287,6 +287,54 @@
       "items": [
         {
           "node_type": "item",
+          "title": "📦🆓 Sift",
+          "description": "80 tools for cross-referencing public financial and corporate records across 9 sources: OpenSanctions, the ICIJ Offshore Leaks database (via Aleph), UK Companies House, SEC EDGAR, CourtListener, GLEIF, Wikidata and land registries. Ships 24 structural detection patterns (shell companies, nominee shields, phoenix companies, circular ownership) and interactive network graphs. Free OpenSanctions API key required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-16T00:38:35Z",
+            "owner": "mefos-lab",
+            "repo": "sift",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 Sanctions Screening MCP",
+          "description": "Screen names against the consolidated OFAC, EU, UK and UN sanctions lists, resolve companies to GLEIF LEIs, and trace ownership chains. Mirrors the lists into a local SQLite/FTS5 index, so matching runs offline with no API key and no rate limit; hits carry a raw Jaro-Winkler score and source provenance rather than a verdict.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T02:26:48Z",
+            "owner": "cyanheads",
+            "repo": "sanctions-screening-mcp-server",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦💰 Nummeropslag",
+          "description": "Privacy-first Danish phone-number intelligence using official CVR and telecom-register data. Look up registered companies, operators, number types, and community spam/trust signals without exposing private individuals' names. Requires a paid API key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T19:59:08Z",
+            "owner": "andrey-tut",
+            "repo": "nummeropslag-api",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Public Records & Compliance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
           "title": "📦🆓 OpenOSINT",
           "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI.",
           "children": [],
@@ -296,7 +344,7 @@
             "last_commit": "2026-08-17T10:33:06Z",
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1414
+            "stars": 1421
           }
         },
         {
@@ -310,7 +358,7 @@
             "last_commit": "2026-08-11T21:53:54Z",
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 309
+            "stars": 308
           }
         },
         {
@@ -324,7 +372,21 @@
             "last_commit": "2026-05-24T03:00:04Z",
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
-            "stars": 144
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 VulneraMCP",
+          "description": "AI-powered bug bounty MCP server with recon (subfinder, httpx, gau, ffuf), vulnerability testing (XSS/SQLi/IDOR/CSRF), API/auth/cloud scanning, knowledge-graph analysis, and Markdown reporting. Integrates OWASP ZAP and CLI tools with PostgreSQL storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T12:26:50Z",
+            "owner": "telmon95",
+            "repo": "VulneraMCP",
+            "stars": 40
           }
         },
         {
@@ -339,20 +401,6 @@
             "owner": "zxzinn",
             "repo": "opencti-mcp",
             "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "📦🆓 VulneraMCP",
-          "description": "AI-powered bug bounty MCP server with recon (subfinder, httpx, gau, ffuf), vulnerability testing (XSS/SQLi/IDOR/CSRF), API/auth/cloud scanning, knowledge-graph analysis, and Markdown reporting. Integrates OWASP ZAP and CLI tools with PostgreSQL storage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-24T12:26:50Z",
-            "owner": "telmon95",
-            "repo": "VulneraMCP",
-            "stars": 39
           }
         },
         {
@@ -401,6 +449,54 @@
       "title": "Threat Intelligence"
     },
     {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📦🆓 World Intel MCP",
+          "description": "120 tools for real-time global situational awareness across 30+ domains: GDELT and 119 RSS news feeds, ACLED conflict events, military aircraft tracking (ADS-B/OpenSky), NGA maritime warnings, submarine cables and datacenters, OFAC sanctions, USGS/NASA disaster feeds, plus geospatial datasets for bases, ports, pipelines and nuclear facilities. All sources are free public APIs; optional free keys (FRED, EIA, NASA FIRMS, ACLED, OpenSky) unlock a few of them. Python, installed from source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-16T13:19:11Z",
+            "owner": "marc-shade",
+            "repo": "world-intel-mcp",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 GDELT MCP",
+          "description": "Search and analyse global news coverage through the GDELT Project: article search, coverage timelines and breakdowns, tone distribution, and US television transcripts with clip, context and trending queries. No API key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T13:06:04Z",
+            "owner": "cyanheads",
+            "repo": "gdelt-mcp-server",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 Satellite MCP",
+          "description": "171 tools across 27 categories of geospatial intelligence: Sentinel-2 and Landsat scene search, NASA FIRMS wildfire detections, night-lights change detection, aircraft and vessel tracking, military and conflict data, sanctions, terrain and OpenStreetMap queries, plus spectral and change-detection math. Most tools need no key; premium imagery (Planet, NASA Earthdata, N2YO) uses your own.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T16:36:44Z",
+            "owner": "badchars",
+            "repo": "satellite-mcp",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Geospatial & Geopolitical Intelligence"
+    },
+    {
       "description": "Contributions are welcome! Please open a pull request to add a new OSINT MCP server to the list.",
       "items": [],
       "title": "Contributing"
@@ -412,9 +508,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:01:44.577Z",
+    "last_updated": "2026-08-18T21:59:50.392Z",
     "original_repository": "soxoj/awesome-osint-mcp-servers",
-    "original_repository_sha": "75e7653cfcef8eb2475d7b1718ef99e4f959d333",
+    "original_repository_sha": "2d13c319a4598225df330c0e43dfa96ba56c5bcd",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
