@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 902701610,
             "language": "JavaScript",
             "last_commit": "2026-01-27T03:36:32Z",
             "owner": "w0h1v",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1033877893,
             "language": "Python",
             "last_commit": "2025-08-07T13:52:10Z",
             "owner": "frishtik",
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1168120544,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T21:19:37Z",
+            "last_commit": "2026-08-18T23:08:20Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
             "stars": 183
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1175508017,
             "language": "Python",
             "last_commit": "2026-03-08T19:55:15Z",
             "owner": "eliasbiondo",
@@ -63,7 +67,7 @@
       "title": "SOCMINT"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 902513820,
             "language": "TypeScript",
             "last_commit": "2026-03-31T18:08:46Z",
             "owner": "w0h1v",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 948919210,
             "language": "Python",
             "last_commit": "2025-11-27T01:39:56Z",
             "owner": "zoomeye-ai",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 905970538,
             "language": "JavaScript",
             "last_commit": "2025-03-03T06:57:46Z",
             "owner": "w0h1v",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 925419068,
             "language": "Python",
             "last_commit": "2026-08-05T04:38:51Z",
             "owner": "briandconnelly",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193641505,
             "language": "Python",
             "last_commit": "2026-08-17T02:08:02Z",
             "owner": "UPinar",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1255434146,
             "language": "TypeScript",
             "last_commit": "2026-08-17T19:44:35Z",
             "owner": "pucilpet",
@@ -153,7 +163,7 @@
       "title": "Network Scanning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,11 +172,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 966718614,
             "language": "JavaScript",
             "last_commit": "2026-08-12T07:39:54Z",
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2598
+            "stars": 2601
           }
         },
         {
@@ -176,18 +187,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 996523578,
             "language": "TypeScript",
             "last_commit": "2026-08-10T03:55:00Z",
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
-            "stars": 45
+            "stars": 46
           }
         }
       ],
       "title": "Web Scraping"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1038463812,
             "language": "TypeScript",
             "last_commit": "2026-06-21T18:22:14Z",
             "owner": "stefanoamorelli",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1215039752,
             "language": "JavaScript",
             "last_commit": "2026-05-20T01:48:09Z",
             "owner": "sophymarine",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1223542538,
             "language": "Python",
             "last_commit": "2026-05-09T08:47:45Z",
             "owner": "Nymaxxx",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1201661612,
             "language": "TypeScript",
             "last_commit": "2026-04-12T09:37:12Z",
             "owner": "Stewyboy1990",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1201661612,
             "language": "TypeScript",
             "last_commit": "2026-04-12T09:37:12Z",
             "owner": "Stewyboy1990",
@@ -266,24 +283,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1283437004,
             "language": null,
             "last_commit": "2026-07-27T02:45:58Z",
             "owner": "HeyZod",
             "repo": "fylings-mcp",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "📦💰 US Business Data",
-          "description": "Search Secretary of State business registrations across 17 US states, building permits in 400+ cities, and Yellow Pages business leads. Returns entity details, filing status, and registered agents.",
-          "children": []
         }
       ],
       "title": "Company Intelligence"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -292,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1208922539,
             "language": "Python",
             "last_commit": "2026-08-16T00:38:35Z",
             "owner": "mefos-lab",
@@ -306,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1268108712,
             "language": "TypeScript",
             "last_commit": "2026-08-17T02:26:48Z",
             "owner": "cyanheads",
@@ -320,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1282068277,
             "language": "Python",
             "last_commit": "2026-08-04T19:59:08Z",
             "owner": "andrey-tut",
@@ -331,7 +346,7 @@
       "title": "Public Records & Compliance"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -340,11 +355,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1230831838,
             "language": "Python",
             "last_commit": "2026-08-17T10:33:06Z",
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1421
+            "stars": 1425
           }
         },
         {
@@ -354,11 +370,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1278394334,
             "language": "TypeScript",
             "last_commit": "2026-08-11T21:53:54Z",
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 308
+            "stars": 310
           }
         },
         {
@@ -368,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 902629770,
             "language": "TypeScript",
             "last_commit": "2026-05-24T03:00:04Z",
             "owner": "w0h1v",
@@ -382,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1105691517,
             "language": "TypeScript",
             "last_commit": "2026-07-24T12:26:50Z",
             "owner": "telmon95",
@@ -396,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 909539706,
             "language": "TypeScript",
             "last_commit": "2026-08-03T01:14:56Z",
             "owner": "zxzinn",
@@ -410,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1282493633,
             "language": "JavaScript",
             "last_commit": "2026-07-27T14:40:52Z",
             "owner": "frangelbarrera",
@@ -424,8 +445,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1293945441,
             "language": "Python",
-            "last_commit": "2026-08-05T09:21:41Z",
+            "last_commit": "2026-08-19T03:06:21Z",
             "owner": "scottmartinanderson",
             "repo": "clearfront",
             "stars": 12
@@ -438,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1129216556,
             "language": "Python",
             "last_commit": "2026-08-06T14:52:42Z",
             "owner": "scanmalware",
@@ -449,7 +472,7 @@
       "title": "Threat Intelligence"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -458,11 +481,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1106643041,
             "language": "Python",
             "last_commit": "2026-08-16T13:19:11Z",
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 285
+            "stars": 287
           }
         },
         {
@@ -472,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1249669466,
             "language": "TypeScript",
             "last_commit": "2026-07-24T13:06:04Z",
             "owner": "cyanheads",
@@ -486,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1285033612,
             "language": "TypeScript",
             "last_commit": "2026-08-01T16:36:44Z",
             "owner": "badchars",
@@ -495,21 +521,12 @@
         }
       ],
       "title": "Geospatial & Geopolitical Intelligence"
-    },
-    {
-      "description": "Contributions are welcome! Please open a pull request to add a new OSINT MCP server to the list.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "MIT",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:59:50.392Z",
+    "last_updated": "2026-08-19T12:49:00.588Z",
     "original_repository": "soxoj/awesome-osint-mcp-servers",
+    "original_repository_id": 956668631,
     "original_repository_sha": "2d13c319a4598225df330c0e43dfa96ba56c5bcd",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
