@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1168120544,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T21:28:12Z",
+            "last_commit": "2026-08-22T21:36:36Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-12T07:39:54Z",
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2604
+            "stars": 2607
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-10T03:55:00Z",
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
-            "stars": 48
+            "stars": 49
           }
         }
       ],
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-20T07:19:52Z",
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1441
+            "stars": 1450
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2026-08-16T13:19:11Z",
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 292
+            "stars": 296
           }
         },
         {
@@ -513,7 +513,7 @@
             "archived": false,
             "id": 1249669466,
             "language": "TypeScript",
-            "last_commit": "2026-07-24T13:06:04Z",
+            "last_commit": "2026-08-22T14:13:45Z",
             "owner": "cyanheads",
             "repo": "gdelt-mcp-server",
             "stars": 4
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:01:37.091Z",
+    "last_updated": "2026-08-22T21:59:46.803Z",
     "original_repository": "soxoj/awesome-osint-mcp-servers",
     "original_repository_id": 956668631,
     "original_repository_sha": "2d13c319a4598225df330c0e43dfa96ba56c5bcd",
