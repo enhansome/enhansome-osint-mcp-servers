@@ -30,7 +30,7 @@
             "last_commit": "2025-08-07T13:52:10Z",
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 231
+            "stars": 232
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1168120544,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T21:36:36Z",
+            "last_commit": "2026-08-23T02:40:19Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
             "stars": 186
@@ -96,7 +96,7 @@
             "last_commit": "2025-11-27T01:39:56Z",
             "owner": "zoomeye-ai",
             "repo": "mcp_zoomeye",
-            "stars": 80
+            "stars": 81
           }
         },
         {
@@ -158,6 +158,21 @@
             "repo": "crawlgraph-mcp",
             "stars": 3
           }
+        },
+        {
+          "node_type": "item",
+          "title": "📦💰 StackScan",
+          "description": "Technographic lookups over 360M+ sites: what a domain is built on, who is behind it (industry, city, country, LinkedIn), and how many sites run a given technology and where. Batch domain lookup for list enrichment. Local stdio server, MIT, . Charged per resolving domain; misses are not charged and is free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1322786566,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T12:48:35Z",
+            "owner": "stackscan",
+            "repo": "stackscan-mcp",
+            "stars": 1
+          }
         }
       ],
       "title": "Network Scanning"
@@ -177,7 +192,7 @@
             "last_commit": "2026-08-12T07:39:54Z",
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2607
+            "stars": 2610
           }
         },
         {
@@ -360,7 +375,7 @@
             "last_commit": "2026-08-20T07:19:52Z",
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1450
+            "stars": 1454
           }
         },
         {
@@ -486,7 +501,7 @@
             "last_commit": "2026-08-16T13:19:11Z",
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 296
+            "stars": 298
           }
         },
         {
@@ -524,10 +539,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:59:46.803Z",
+    "last_updated": "2026-08-23T21:59:20.383Z",
     "original_repository": "soxoj/awesome-osint-mcp-servers",
     "original_repository_id": 956668631,
-    "original_repository_sha": "2d13c319a4598225df330c0e43dfa96ba56c5bcd",
+    "original_repository_sha": "7d6dfc2fa8c0fb0d41e7a9f23e871d2783af0bb9",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
