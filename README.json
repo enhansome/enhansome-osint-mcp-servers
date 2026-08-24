@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1168120544,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T02:12:22Z",
+            "last_commit": "2026-08-24T21:16:11Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
             "stars": 187
@@ -375,7 +375,7 @@
             "last_commit": "2026-08-24T11:36:10Z",
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1458
+            "stars": 1460
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2026-08-16T13:19:11Z",
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 299
+            "stars": 300
           }
         },
         {
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:24:35.897Z",
+    "last_updated": "2026-08-24T22:02:48.679Z",
     "original_repository": "soxoj/awesome-osint-mcp-servers",
     "original_repository_id": 956668631,
     "original_repository_sha": "7d6dfc2fa8c0fb0d41e7a9f23e871d2783af0bb9",
