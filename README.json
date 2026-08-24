@@ -30,7 +30,7 @@
             "last_commit": "2025-08-07T13:52:10Z",
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 232
+            "stars": 231
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1168120544,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T02:40:19Z",
+            "last_commit": "2026-08-24T02:12:22Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 186
+            "stars": 187
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-12T07:39:54Z",
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2610
+            "stars": 2611
           }
         },
         {
@@ -372,10 +372,10 @@
             "archived": false,
             "id": 1230831838,
             "language": "Python",
-            "last_commit": "2026-08-20T07:19:52Z",
+            "last_commit": "2026-08-24T11:36:10Z",
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1454
+            "stars": 1458
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-11T21:53:54Z",
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 312
+            "stars": 314
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-05-24T03:00:04Z",
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2026-08-16T13:19:11Z",
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 298
+            "stars": 299
           }
         },
         {
@@ -536,10 +536,52 @@
         }
       ],
       "title": "Geospatial & Geopolitical Intelligence"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📦🆓 Claudii Exploratores",
+          "description": "OSINT suite exposing 898 curated OSINT tools across 24 categories (people, usernames, email, domains, IP, phones, companies, crypto, IBAN, media, social platforms…) as both a Claude Agent Skill and an MCP server. Auto-classifies an indicator, builds only the search URLs that fit it, and includes an offline ISO 13616 IBAN verifier and a reversible PII redactor. Python / FastMCP, AGPL-3.0. Alpha.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1296390238,
+            "language": "Python",
+            "last_commit": "2026-07-10T17:05:28Z",
+            "owner": "SOsintOps",
+            "repo": "claudii-exploratores",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Meta / Discovery"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "💰 The Stall",
+          "description": "Multi-tool blockchain OSINT server: OFAC sanctions screening (19,000+ SDN entries, fuzzy name match + AKA aliases), wallet risk scoring, agent KYA trust scoring, EVM and Solana transaction intelligence, and token security analysis. Pay-per-call via x402 USDC micropayments on Base — no accounts or API keys. MCP: https://the-stall.intuitek.ai/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1259954382,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T17:30:54Z",
+            "owner": "thebrierfox",
+            "repo": "the-stall",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Blockchain Intelligence"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:59:20.383Z",
+    "last_updated": "2026-08-24T14:24:35.897Z",
     "original_repository": "soxoj/awesome-osint-mcp-servers",
     "original_repository_id": 956668631,
     "original_repository_sha": "7d6dfc2fa8c0fb0d41e7a9f23e871d2783af0bb9",
