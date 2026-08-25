@@ -30,7 +30,7 @@
             "last_commit": "2025-08-07T13:52:10Z",
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 231
+            "stars": 232
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1168120544,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T21:16:11Z",
+            "last_commit": "2026-08-25T03:15:15Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
             "stars": 187
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 1193641505,
             "language": "Python",
-            "last_commit": "2026-08-17T02:08:02Z",
+            "last_commit": "2026-08-24T22:31:47Z",
             "owner": "UPinar",
             "repo": "contrastapi",
             "stars": 33
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-11T21:53:54Z",
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 314
+            "stars": 315
           }
         },
         {
@@ -570,7 +570,7 @@
             "archived": false,
             "id": 1259954382,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T17:30:54Z",
+            "last_commit": "2026-08-24T23:11:35Z",
             "owner": "thebrierfox",
             "repo": "the-stall",
             "stars": 7
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:02:48.679Z",
+    "last_updated": "2026-08-25T06:18:27.621Z",
     "original_repository": "soxoj/awesome-osint-mcp-servers",
     "original_repository_id": 956668631,
     "original_repository_sha": "7d6dfc2fa8c0fb0d41e7a9f23e871d2783af0bb9",
