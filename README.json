@@ -30,7 +30,7 @@
             "last_commit": "2025-08-07T13:52:10Z",
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 232
+            "stars": 233
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T03:15:15Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 187
+            "stars": 188
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2025-11-27T01:39:56Z",
             "owner": "zoomeye-ai",
             "repo": "mcp_zoomeye",
-            "stars": 81
+            "stars": 82
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-17T19:44:35Z",
             "owner": "pucilpet",
             "repo": "crawlgraph-mcp",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -168,7 +168,7 @@
             "archived": false,
             "id": 1322786566,
             "language": "JavaScript",
-            "last_commit": "2026-08-04T12:48:35Z",
+            "last_commit": "2026-08-25T08:33:30Z",
             "owner": "stackscan",
             "repo": "stackscan-mcp",
             "stars": 1
@@ -258,7 +258,7 @@
             "last_commit": "2026-05-09T08:47:45Z",
             "owner": "Nymaxxx",
             "repo": "checko-mcp",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -336,7 +336,7 @@
             "archived": false,
             "id": 1268108712,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T02:26:48Z",
+            "last_commit": "2026-08-25T08:27:12Z",
             "owner": "cyanheads",
             "repo": "sanctions-screening-mcp-server",
             "stars": 1
@@ -372,10 +372,10 @@
             "archived": false,
             "id": 1230831838,
             "language": "Python",
-            "last_commit": "2026-08-24T11:36:10Z",
+            "last_commit": "2026-08-25T18:48:55Z",
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1460
+            "stars": 1464
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-07-24T12:26:50Z",
             "owner": "telmon95",
             "repo": "VulneraMCP",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-19T21:34:34Z",
             "owner": "scottmartinanderson",
             "repo": "clearfront",
-            "stars": 12
+            "stars": 9
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2026-08-16T13:19:11Z",
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 300
+            "stars": 358
           }
         },
         {
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:27.621Z",
+    "last_updated": "2026-08-25T22:01:49.695Z",
     "original_repository": "soxoj/awesome-osint-mcp-servers",
     "original_repository_id": 956668631,
     "original_repository_sha": "7d6dfc2fa8c0fb0d41e7a9f23e871d2783af0bb9",
