@@ -45,7 +45,7 @@
             "last_commit": "2026-08-27T01:44:18Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 189
+            "stars": 188
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-03-08T19:55:15Z",
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 175
+            "stars": 176
           }
         }
       ],
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-12T07:39:54Z",
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2611
+            "stars": 2612
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2026-08-26T10:46:40Z",
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1471
+            "stars": 1474
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-26T03:08:32Z",
             "owner": "scottmartinanderson",
             "repo": "clearfront",
-            "stars": 9
+            "stars": 8
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2026-08-16T13:19:11Z",
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 511
+            "stars": 535
           }
         },
         {
@@ -581,9 +581,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:11:12.821Z",
-    "original_repository": "soxoj/awesome-osint-mcp-servers",
-    "original_repository_id": 956668631,
+    "last_updated": "2026-08-27T11:58:28.574Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 956668631,
+      "language": null,
+      "last_commit": "2026-08-23T15:43:03Z",
+      "owner": "soxoj",
+      "repo": "awesome-osint-mcp-servers",
+      "stars": 465
+    },
     "original_repository_sha": "7d6dfc2fa8c0fb0d41e7a9f23e871d2783af0bb9",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
