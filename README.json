@@ -16,7 +16,8 @@
             "owner": "w0h1v",
             "repo": "mcp-maigret",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2025-08-07T13:52:10Z",
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 234
-          }
+            "stars": 235
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-27T01:44:18Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 188
-          }
+            "stars": 189
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         }
       ],
       "title": "SOCMINT"
@@ -82,7 +86,8 @@
             "owner": "w0h1v",
             "repo": "mcp-shodan",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "zoomeye-ai",
             "repo": "mcp_zoomeye",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "w0h1v",
             "repo": "mcp-dnstwist",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "briandconnelly",
             "repo": "mcp-server-ipinfo",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "UPinar",
             "repo": "contrastapi",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "pucilpet",
             "repo": "crawlgraph-mcp",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "stackscan",
             "repo": "stackscan-mcp",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         }
       ],
       "title": "Network Scanning"
@@ -192,8 +203,9 @@
             "last_commit": "2026-08-12T07:39:54Z",
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2612
-          }
+            "stars": 2614
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         }
       ],
       "title": "Web Scraping"
@@ -229,7 +242,8 @@
             "owner": "stefanoamorelli",
             "repo": "companies-house-mcp",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "sophymarine",
             "repo": "openregistry",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "Nymaxxx",
             "repo": "checko-mcp",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "Stewyboy1990",
             "repo": "companyscope-mcp",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "Stewyboy1990",
             "repo": "companyscope-mcp",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "HeyZod",
             "repo": "fylings-mcp",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         }
       ],
       "title": "Company Intelligence"
@@ -325,7 +344,8 @@
             "owner": "mefos-lab",
             "repo": "sift",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "cyanheads",
             "repo": "sanctions-screening-mcp-server",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "andrey-tut",
             "repo": "nummeropslag-api",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         }
       ],
       "title": "Public Records & Compliance"
@@ -375,8 +397,9 @@
             "last_commit": "2026-08-26T10:46:40Z",
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1474
-          }
+            "stars": 1476
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -391,7 +414,8 @@
             "owner": "badchars",
             "repo": "darknet-mcp-server",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -406,7 +430,8 @@
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "telmon95",
             "repo": "VulneraMCP",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "zxzinn",
             "repo": "opencti-mcp",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -451,7 +478,8 @@
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -466,7 +494,8 @@
             "owner": "scottmartinanderson",
             "repo": "clearfront",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "scanmalware",
             "repo": "mcp-server",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         }
       ],
       "title": "Threat Intelligence"
@@ -501,8 +531,9 @@
             "last_commit": "2026-08-16T13:19:11Z",
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 535
-          }
+            "stars": 560
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -517,7 +548,8 @@
             "owner": "badchars",
             "repo": "satellite-mcp",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         },
         {
           "node_type": "item",
@@ -532,7 +564,8 @@
             "owner": "cyanheads",
             "repo": "gdelt-mcp-server",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         }
       ],
       "title": "Geospatial & Geopolitical Intelligence"
@@ -553,7 +586,8 @@
             "owner": "SOsintOps",
             "repo": "claudii-exploratores",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         }
       ],
       "title": "Meta / Discovery"
@@ -574,14 +608,15 @@
             "owner": "thebrierfox",
             "repo": "the-stall",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
         }
       ],
       "title": "Blockchain Intelligence"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:58:28.574Z",
+    "last_updated": "2026-08-28T05:49:49.381Z",
     "original_repository_info": {
       "archived": false,
       "id": 956668631,
