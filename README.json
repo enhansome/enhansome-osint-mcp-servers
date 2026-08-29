@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "ai",
               "claude",
@@ -80,7 +80,7 @@
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 189,
+            "stars": 191,
             "topics": [
               "advanced-search",
               "agent-skill",
@@ -149,7 +149,7 @@
             "open_issues": 5,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "ai-tools",
               "claude",
@@ -381,7 +381,7 @@
             "open_issues": 35,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2614,
+            "stars": 2615,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -419,7 +419,7 @@
             "open_issues": 4,
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "archival",
               "cli",
@@ -455,7 +455,7 @@
             "open_issues": 16,
             "owner": "stefanoamorelli",
             "repo": "companies-house-mcp",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "ai-tools",
               "api",
@@ -784,7 +784,7 @@
             "open_issues": 16,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1478,
+            "stars": 1492,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1048,7 +1048,7 @@
             "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 587,
+            "stars": 590,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1247,7 +1247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:19.837Z",
+    "last_updated": "2026-08-29T23:37:29.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1255,8 +1255,8 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-23T15:43:03Z",
-      "open_issues": 1,
+      "last_commit": "2026-08-29T13:30:00Z",
+      "open_issues": 2,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
       "stars": 466,
