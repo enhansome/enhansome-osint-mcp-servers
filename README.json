@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for maigret, a powerful OSINT tool that collects user account information from various public sources. ",
+            "homepage": null,
             "id": 902701610,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-27T03:36:32Z",
+            "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 259
+            "stars": 259,
+            "topics": [
+              "javascript",
+              "maigret",
+              "mcp",
+              "osint",
+              "social-media",
+              "username-search"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -26,12 +38,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server exposing multiple OSINT tools for AI assistants like Claude",
+            "homepage": null,
             "id": 1033877893,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-07T13:52:10Z",
+            "open_issues": 1,
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 236
+            "stars": 236,
+            "topics": [
+              "ai",
+              "claude",
+              "holehe",
+              "intelligence-gathering",
+              "investigation",
+              "mcp",
+              "osint",
+              "reconnaissance",
+              "security",
+              "sherlock",
+              "spiderfoot"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -42,12 +71,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Xquik is the best X (Twitter) Scraper API and the best X API Alternative, with REST, MCP, SDKs, CLI, webhooks, and exports. Not affiliated with X Corp.",
+            "homepage": "https://xquik.com",
             "id": 1168120544,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T01:44:18Z",
+            "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "advanced-search",
+              "agent-skill",
+              "ai-agent",
+              "data-extraction",
+              "follower-export",
+              "mcp",
+              "mcp-server",
+              "profile-tweets",
+              "sdk",
+              "social-media-api",
+              "social-media-automation",
+              "tweet-search",
+              "twitter-api",
+              "twitter-api-alternative",
+              "twitter-automation",
+              "twitter-scraper",
+              "twitter-scraper-api",
+              "x-api",
+              "x-api-alternative",
+              "xquik"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -58,12 +113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔗 A Model Context Protocol (MCP) server for LinkedIn — search people, companies, and jobs, scrape profiles, and get structured data via any MCP-compatible AI client.",
+            "homepage": null,
             "id": 1175508017,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-08T19:55:15Z",
+            "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         }
@@ -80,12 +140,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for Shodan — search internet-connected devices, IP reconnaissance, DNS lookups, and CVE/CPE vulnerability intelligence. Works with Claude Code, Codex, Gemini CLI, and Claude Desktop.",
+            "homepage": "https://registry.modelcontextprotocol.io",
             "id": 902513820,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-31T18:08:46Z",
+            "open_issues": 5,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "ai-tools",
+              "claude",
+              "cpe",
+              "cve",
+              "cybersecurity",
+              "dns",
+              "ip-lookup",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "network-security",
+              "osint",
+              "reconnaissance",
+              "security",
+              "shodan",
+              "shodan-api",
+              "threat-intelligence",
+              "typescript",
+              "vulnerability-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -96,12 +181,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Model Context Protocol server that provides network asset information based on query conditions. This server allows LLMs to obtain network asset information and supports querying network asset information by zoomeye dork etc.",
+            "homepage": "https://www.zoomeye.ai/",
             "id": 948919210,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-27T01:39:56Z",
+            "open_issues": 2,
             "owner": "zoomeye-ai",
             "repo": "mcp_zoomeye",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "cybersecurity",
+              "osint",
+              "search-engine",
+              "zoomeye"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -112,12 +207,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.",
+            "homepage": null,
             "id": 905970538,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-03T06:57:46Z",
+            "open_issues": 7,
             "owner": "w0h1v",
             "repo": "mcp-dnstwist",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "dns",
+              "javascript",
+              "mcp",
+              "phishing",
+              "security",
+              "typosquatting"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -128,12 +235,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IP Geolocation Server for MCP using ipinfo.io",
+            "homepage": null,
             "id": 925419068,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-05T04:38:51Z",
+            "open_issues": 12,
             "owner": "briandconnelly",
             "repo": "mcp-server-ipinfo",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -144,12 +256,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server with 55 security intelligence tools — CVE/KEV, MITRE ATLAS+D3FEND, Sigma detection rules, email security posture (SPF/DMARC), domain & web intel, threat intel.",
+            "homepage": "https://api.contrastcyber.com",
             "id": 1193641505,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T22:31:47Z",
+            "open_issues": 0,
             "owner": "UPinar",
             "repo": "contrastapi",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "ai-agents",
+              "ai-security",
+              "api",
+              "claude",
+              "claude-desktop-extension",
+              "cve",
+              "cybersecurity",
+              "domain-recon",
+              "email-security",
+              "llm-tools",
+              "mcp",
+              "mcpb",
+              "mitre-atlas",
+              "mitre-d3fend",
+              "model-context-protocol",
+              "osint",
+              "security",
+              "sigma-rules",
+              "threat-intelligence",
+              "vulnerability-management"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -160,12 +298,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for the CrawlGraph backlink-intelligence API (Common Crawl webgraph). Backlink lookups + competitor gap analysis for Claude, Cursor, Cline, and any MCP client.",
+            "homepage": "https://crawlgraph.com",
             "id": 1255434146,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T19:44:35Z",
+            "open_issues": 0,
             "owner": "pucilpet",
             "repo": "crawlgraph-mcp",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ahrefs-alternative",
+              "backlink-analysis",
+              "backlinks",
+              "claude",
+              "common-crawl",
+              "cursor",
+              "gap-analysis",
+              "hyperlink-graph",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "seo",
+              "webgraph"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -176,12 +333,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for the StackScan Tech Lookup API. Ask Claude, Cursor or any MCP client what a website is built with and who is behind it.",
+            "homepage": "https://www.stackscan.com/mcp",
             "id": 1322786566,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T08:33:30Z",
+            "open_issues": 0,
             "owner": "stackscan",
             "repo": "stackscan-mcp",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ai-agents",
+              "api-client",
+              "builtwith",
+              "claude",
+              "cursor",
+              "firmographics",
+              "mcp",
+              "model-context-protocol",
+              "tech-stack",
+              "technographics",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         }
@@ -198,12 +372,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
+            "homepage": "https://brightdata.com/",
             "id": 966718614,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T07:39:54Z",
+            "open_issues": 35,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2614
+            "stars": 2614,
+            "topics": [
+              "ai-agents",
+              "ai-integrations",
+              "anti-bot-detection",
+              "browser-automation",
+              "data-collection",
+              "data-extraction",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "modelcontextprotocol",
+              "scraping",
+              "scraping-tools",
+              "structured-data",
+              "web-crawling",
+              "web-data",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -214,12 +410,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server and CLI tool for interacting with the Internet Archive's Wayback Machine",
+            "homepage": "https://www.npmjs.com/package/mcp-wayback-machine",
             "id": 996523578,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T03:55:00Z",
+            "open_issues": 4,
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "archival",
+              "cli",
+              "internet-archive",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "wayback-machine",
+              "web-archive"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         }
@@ -236,12 +446,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇬🇧🏦 MCP server for UK Companies House API - Search companies, retrieve detailed information, filing history, officers, and charges data through the Model Context Protocol",
+            "homepage": "https://www.npmjs.com/package/companies-house-mcp-server",
             "id": 1038463812,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-21T18:22:14Z",
+            "open_issues": 16,
             "owner": "stefanoamorelli",
             "repo": "companies-house-mcp",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "ai-tools",
+              "api",
+              "business-data",
+              "claude",
+              "companies-house",
+              "company-charges",
+              "company-officers",
+              "company-search",
+              "corporate-data",
+              "filing-history",
+              "llm-tools",
+              "mcp",
+              "model-context-protocol",
+              "nodejs",
+              "openai",
+              "typescript",
+              "uk-business",
+              "uk-companies"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -252,12 +486,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time, direct-from-official-registry company data via MCP. 30 national registries; unmodified raw fields and raw filing bytes. Tools: search, profile, officers, shareholders, charges, filings, financial documents.",
+            "homepage": "https://openregistry.sophymarine.com",
             "id": 1215039752,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-20T01:48:09Z",
+            "open_issues": 1,
             "owner": "sophymarine",
             "repo": "openregistry",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "ai-agents",
+              "aml",
+              "claude",
+              "data-journalism",
+              "due-diligence",
+              "entity-resolution",
+              "foia",
+              "fraud-detection",
+              "investigation",
+              "investigative-journalism",
+              "journalism",
+              "kyb",
+              "kyc",
+              "langchain",
+              "legaltech",
+              "mcp",
+              "mcp-server",
+              "open-source-research",
+              "osint",
+              "sanctions"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -268,12 +528,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Неофициальный MCP-сервер для Checko.ru - проверка контрагентов (ЕГРЮЛ, ЕГРИП, арбитраж, контракты, финансы). 12 инструментов и 6 готовых сценариев.",
+            "homepage": null,
             "id": 1223542538,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-09T08:47:45Z",
+            "open_issues": 1,
             "owner": "Nymaxxx",
             "repo": "checko-mcp",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "ai-agents",
+              "checko",
+              "counterparty-check",
+              "due-diligence",
+              "mcp",
+              "model-context-protocol",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -284,12 +557,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Company intelligence MCP server — full company profile from a single tool call. 11 tools aggregating 12 free data sources: Wikipedia, GitHub, SEC EDGAR, OpenCorporates, USPTO patents, Brave Search, RDAP, DNS, careers pages, web scraping. Works with Claude, Cursor, any MCP client.",
+            "homepage": "https://companyscope-mcp.stewwilli.workers.dev",
             "id": 1201661612,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-12T09:37:12Z",
+            "open_issues": 0,
             "owner": "Stewyboy1990",
             "repo": "companyscope-mcp",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "ai-agent",
+              "business-intelligence",
+              "chatgpt",
+              "chatgpt-connector",
+              "claude",
+              "cloudflare-workers",
+              "company-intelligence",
+              "company-research",
+              "cursor",
+              "lead-enrichment",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "sales-prospecting",
+              "sec-edgar",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -300,12 +595,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Company intelligence MCP server — full company profile from a single tool call. 11 tools aggregating 12 free data sources: Wikipedia, GitHub, SEC EDGAR, OpenCorporates, USPTO patents, Brave Search, RDAP, DNS, careers pages, web scraping. Works with Claude, Cursor, any MCP client.",
+            "homepage": "https://companyscope-mcp.stewwilli.workers.dev",
             "id": 1201661612,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-12T09:37:12Z",
+            "open_issues": 0,
             "owner": "Stewyboy1990",
             "repo": "companyscope-mcp",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "ai-agent",
+              "business-intelligence",
+              "chatgpt",
+              "chatgpt-connector",
+              "claude",
+              "cloudflare-workers",
+              "company-intelligence",
+              "company-research",
+              "cursor",
+              "lead-enrichment",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "sales-prospecting",
+              "sec-edgar",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -316,12 +633,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for African company intelligence — search, verify & screen 1M+ companies + their government contracts from any AI agent.",
+            "homepage": "https://www.fylings.com",
             "id": 1283437004,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-27T02:45:58Z",
+            "open_issues": 0,
             "owner": "HeyZod",
             "repo": "fylings-mcp",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "africa",
+              "business-registry",
+              "company-data",
+              "due-diligence",
+              "kyb",
+              "mcp",
+              "mcp-server",
+              "open-data"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         }
@@ -338,12 +669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server and skill set for cross-referencing public financial and corporate records — sanctions lists,   offshore leak databases, corporate registries, court records, and more",
+            "homepage": null,
             "id": 1208922539,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-16T00:38:35Z",
+            "open_issues": 0,
             "owner": "mefos-lab",
             "repo": "sift",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -354,12 +690,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Screen names against the consolidated OFAC, EU, UK, and UN sanctions lists and resolve legal entities against GLEIF, fuzzy-matched offline over a local SQLite + FTS5 mirror. A screening aid, not a compliance determination. MCP server.",
+            "homepage": "https://www.npmjs.com/package/@cyanheads/sanctions-screening-mcp-server",
             "id": 1268108712,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T08:27:12Z",
+            "open_issues": 9,
             "owner": "cyanheads",
             "repo": "sanctions-screening-mcp-server",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ai-agents",
+              "aml",
+              "bun",
+              "compliance",
+              "cyanheads",
+              "due-diligence",
+              "gleif",
+              "kyc",
+              "lei",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "ofac",
+              "sanctions",
+              "screening",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -370,12 +728,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public Partner API + MCP server for Danish phone-number lookup, caller-ID & spam signals — OpenAPI spec, MCP server & client examples (curl/Python/Node/PHP)",
+            "homepage": "https://nummeropslag.dk",
             "id": 1282068277,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-04T19:59:08Z",
+            "open_issues": 0,
             "owner": "andrey-tut",
             "repo": "nummeropslag-api",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "anti-spam",
+              "api-client",
+              "api-examples",
+              "caller-id",
+              "claude",
+              "cvr",
+              "danish",
+              "denmark",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "nummeropslag",
+              "openapi",
+              "phone-number-lookup",
+              "rest-api",
+              "reverse-phone-lookup",
+              "spam-detection",
+              "telephony"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         }
@@ -392,12 +775,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 19 tools. Works with Claude, GPT-4, or local models. For authorized security research only.",
+            "homepage": "https://openosint.tech",
             "id": 1230831838,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T10:46:40Z",
+            "open_issues": 16,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1478
+            "stars": 1478,
+            "topics": [
+              "ai-agent",
+              "anthropic",
+              "claude",
+              "cli",
+              "cybersecurity",
+              "holehe",
+              "llm",
+              "maigret",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "osint",
+              "osint-tools",
+              "python",
+              "reconnaissance",
+              "security",
+              "sherlock",
+              "terminal",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -408,12 +816,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs",
+            "homepage": "https://www.npmjs.com/package/darknet-mcp-server",
             "id": 1278394334,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T21:53:54Z",
+            "open_issues": 7,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 316
+            "stars": 316,
+            "topics": [
+              "ai-agent",
+              "breach",
+              "claude",
+              "cybersecurity",
+              "dark-web",
+              "darknet",
+              "exploit",
+              "malware",
+              "mcp",
+              "model-context-protocol",
+              "osint",
+              "ransomware",
+              "security",
+              "stealer-logs",
+              "threat-intelligence",
+              "tor"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -424,12 +854,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for VirusTotal API — analyze URLs, files, IPs, and domains with comprehensive security reports, relationship analysis, and pagination support.",
+            "homepage": "https://registry.modelcontextprotocol.io",
             "id": 902629770,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-24T03:00:04Z",
+            "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "ai-tools",
+              "claude",
+              "cybersecurity",
+              "ioc",
+              "malware-analysis",
+              "malware-detection",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "security",
+              "threat-intelligence",
+              "typescript",
+              "virus-scanning",
+              "virustotal"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -440,12 +890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-Powered Bug Bounty Hunting Platform - Comprehensive MCP server for security testing, vulnerability research, and bug bounty hunting",
+            "homepage": null,
             "id": 1105691517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-24T12:26:50Z",
+            "open_issues": 0,
             "owner": "telmon95",
             "repo": "VulneraMCP",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -456,12 +911,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for querying OpenCTI threat intelligence, indicators, reports, malware, and threat actors.",
+            "homepage": null,
             "id": 909539706,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-03T01:14:56Z",
+            "open_issues": 0,
             "owner": "zxzinn",
             "repo": "opencti-mcp",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -472,12 +932,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSINT knowledge base + MCP server for autonomous AI agents — Claude Code, Cursor, Kimi K3, recon & threat intel playbooks.",
+            "homepage": "https://www.npmjs.com/package/@frangelbarrera/osint-agent-skills",
             "id": 1282493633,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-27T14:40:52Z",
+            "open_issues": 1,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "ai-agent",
+              "autonomous-agents",
+              "cibersecurity",
+              "claude",
+              "claude-code",
+              "cursor",
+              "digital-forensics",
+              "due-diligence",
+              "infosec",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "open-source-intelligence",
+              "osint",
+              "osint-framework",
+              "osint-tools",
+              "reconnaissance",
+              "security-research",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -488,12 +974,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clearfront OSINT: free, open-source AI OSINT agent that maps your digital footprint across 3,400+ public data sources. REPL, CLI, web console, MCP server.",
+            "homepage": "https://clearfront.sh",
             "id": 1293945441,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T03:08:32Z",
+            "open_issues": 1,
             "owner": "scottmartinanderson",
             "repo": "clearfront",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "agent-skills",
+              "ai-agent",
+              "claude-skill",
+              "claude-skills",
+              "cybersecurity",
+              "digital-footprint",
+              "mcp",
+              "mcp-server",
+              "open-source-intelligence",
+              "osint",
+              "osint-python",
+              "osint-tool",
+              "privacy",
+              "python",
+              "reconnaissance",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -504,12 +1012,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for the ScanMalware.com API",
+            "homepage": null,
             "id": 1129216556,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T11:25:03Z",
+            "open_issues": 0,
             "owner": "scanmalware",
             "repo": "mcp-server",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         }
@@ -526,12 +1039,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "120-tool MCP server for real-time global intelligence: markets, SEC filings, conflict, military, cyber, climate, news, and 30+ domains. AI situation briefs that cite their sources, user-defined geofences with escalation scoring, cited daily digests, live SSE dashboard. MIT, no paid API keys.",
+            "homepage": null,
             "id": 1106643041,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-16T13:19:11Z",
+            "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 587
+            "stars": 587,
+            "topics": [
+              "ai-tools",
+              "ai-watch",
+              "anthropic",
+              "claude",
+              "cybersecurity",
+              "dashboard",
+              "geofencing",
+              "geopolitical",
+              "geospatial",
+              "intelligence",
+              "markets",
+              "mcp",
+              "military",
+              "model-context-protocol",
+              "nuclear",
+              "osint",
+              "real-time",
+              "security",
+              "space-weather",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -542,12 +1081,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full-Spectrum Geospatial Intelligence MCP Server — 171 tools across 27 categories: satellite imagery, aircraft tracking, maritime intelligence, military & defense, space tracking, conflict mapping, environmental monitoring, and more",
+            "homepage": "https://www.npmjs.com/package/satellite-mcp",
             "id": 1285033612,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-01T16:36:44Z",
+            "open_issues": 5,
             "owner": "badchars",
             "repo": "satellite-mcp",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "acled",
+              "adsb",
+              "ai-agent",
+              "aircraft-tracking",
+              "ais",
+              "change-detection",
+              "conflict-data",
+              "earth-observation",
+              "geoint",
+              "geospatial-intelligence",
+              "gis",
+              "mcp",
+              "model-context-protocol",
+              "osint",
+              "remote-sensing",
+              "sanctions",
+              "satellite",
+              "ship-tracking",
+              "space-tracking",
+              "spectral-analysis"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -558,12 +1123,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search and analyze global news coverage and US television transcripts via the GDELT Project's real-time APIs via MCP. STDIO or Streamable HTTP.",
+            "homepage": "https://www.npmjs.com/package/@cyanheads/gdelt-mcp-server",
             "id": 1249669466,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T14:13:45Z",
+            "open_issues": 10,
             "owner": "cyanheads",
             "repo": "gdelt-mcp-server",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "ai-agents",
+              "ai-tools",
+              "cyanheads",
+              "event-monitoring",
+              "gdelt",
+              "global-news",
+              "journalism",
+              "mcp",
+              "mcp-server",
+              "media-analysis",
+              "media-monitoring",
+              "model-context-protocol",
+              "news-analytics",
+              "sentiment-analysis",
+              "tv-news",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         }
@@ -580,12 +1167,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSINT suite for Claude — 898 curated OSINT tools as an Agent Skill + MCP server (classifier, URL builder, IBAN check, PII redactor). ALPHA.",
+            "homepage": null,
             "id": 1296390238,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-10T17:05:28Z",
+            "open_issues": 0,
             "owner": "SOsintOps",
             "repo": "claudii-exploratores",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "ai-agents",
+              "claude",
+              "claude-skill",
+              "iban",
+              "investigation",
+              "mcp",
+              "model-context-protocol",
+              "osint",
+              "pii-redaction",
+              "python",
+              "reconnaissance",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         }
@@ -602,12 +1207,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "205 pay-per-call MCP tools via x402 — no API keys. Stocks, crypto/DeFi, macro data, on-chain analytics, weather, government data, and 200+ more. USDC on Base.",
+            "homepage": "https://the-stall.intuitek.ai",
             "id": 1259954382,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:22:17Z",
+            "open_issues": 2,
             "owner": "thebrierfox",
             "repo": "the-stall",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ai-agent",
+              "autonomous-agents",
+              "base-chain",
+              "cryptocurrency",
+              "defi",
+              "finance",
+              "financial-data",
+              "government-data",
+              "market-data",
+              "mcp",
+              "mcp-server",
+              "micropayments",
+              "model-context-protocol",
+              "no-api-key",
+              "pay-per-call",
+              "stock-market",
+              "weather-api",
+              "web3",
+              "x402",
+              "x402-protocol"
+            ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         }
@@ -616,15 +1247,37 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:23:10.473Z",
+    "last_updated": "2026-08-29T04:42:19.837Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
+      "homepage": null,
       "id": 956668631,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-23T15:43:03Z",
+      "open_issues": 1,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 466
+      "stars": 466,
+      "topics": [
+        "awesome",
+        "awesome-ai",
+        "awesome-list",
+        "awesome-lists",
+        "awesome-mcp",
+        "awesome-mcp-servers",
+        "awesome-osint",
+        "claude-mcp",
+        "mcp",
+        "mcp-server",
+        "mcp-servers",
+        "model-context-protocol",
+        "osint",
+        "osint-resources",
+        "osint-tool",
+        "osint-tools"
+      ]
     },
     "original_repository_sha": "7d6dfc2fa8c0fb0d41e7a9f23e871d2783af0bb9",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
