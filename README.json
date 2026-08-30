@@ -126,6 +126,43 @@
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🆓💰 BulkTranscripts",
+          "description": "YouTube channel uploads, in-channel topic search, and full transcripts as clean text. is unmetered — poll it to watch a subject's channel and spend credits only on what is new. Hosted, 7 tools, no signup; 30 free credits shared per public IP, then one-time packs. MCP: https://bulktranscripts.co/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hosted YouTube MCP server — transcripts, search, channel & playlist listings and upload tracking for Claude, Cursor, ChatGPT and any MCP client. No signup.",
+            "homepage": "https://bulktranscripts.co/youtube-mcp-server",
+            "id": 1349606132,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-08-28T13:30:51Z",
+            "open_issues": 0,
+            "owner": "pratie",
+            "repo": "bulktranscripts-mcp",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "captions",
+              "claude",
+              "claude-desktop",
+              "cursor",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "modelcontextprotocol",
+              "remote-mcp-server",
+              "transcripts",
+              "youtube",
+              "youtube-api",
+              "youtube-transcript"
+            ]
+          },
+          "first_seen": "2026-08-30T23:56:13.429Z"
         }
       ],
       "title": "SOCMINT"
@@ -381,7 +418,7 @@
             "open_issues": 35,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2615,
+            "stars": 2618,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -492,7 +529,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-05-20T01:48:09Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "sophymarine",
             "repo": "openregistry",
             "stars": 17,
@@ -784,7 +821,7 @@
             "open_issues": 16,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1492,
+            "stars": 1497,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -937,11 +974,11 @@
             "id": 1282493633,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-07-27T14:40:52Z",
+            "last_commit": "2026-08-30T21:59:02Z",
             "open_issues": 1,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "ai-agent",
               "autonomous-agents",
@@ -1048,7 +1085,7 @@
             "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 590,
+            "stars": 593,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1128,8 +1165,8 @@
             "id": 1249669466,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-22T14:13:45Z",
-            "open_issues": 10,
+            "last_commit": "2026-08-30T21:56:14Z",
+            "open_issues": 8,
             "owner": "cyanheads",
             "repo": "gdelt-mcp-server",
             "stars": 4,
@@ -1213,7 +1250,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-28T15:22:17Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "thebrierfox",
             "repo": "the-stall",
             "stars": 7,
@@ -1247,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:37:29.117Z",
+    "last_updated": "2026-08-30T23:56:13.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1255,8 +1292,8 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-29T13:30:00Z",
-      "open_issues": 2,
+      "last_commit": "2026-08-30T19:51:38Z",
+      "open_issues": 0,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
       "stars": 466,
@@ -1279,7 +1316,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "7d6dfc2fa8c0fb0d41e7a9f23e871d2783af0bb9",
+    "original_repository_sha": "c7932b476944ff09c6bed8b2fe4379ce9f19a90d",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
