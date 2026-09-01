@@ -80,7 +80,7 @@
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "advanced-search",
               "agent-skill",
@@ -186,7 +186,7 @@
             "open_issues": 5,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "ai-tools",
               "claude",
@@ -298,8 +298,8 @@
             "id": 1193641505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-24T22:31:47Z",
-            "open_issues": 0,
+            "last_commit": "2026-08-31T06:19:10Z",
+            "open_issues": 5,
             "owner": "UPinar",
             "repo": "contrastapi",
             "stars": 33,
@@ -418,7 +418,7 @@
             "open_issues": 35,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2618,
+            "stars": 2619,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -586,6 +586,27 @@
             ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓💰 OpenSOSData",
+          "description": "US business entity search across all 53 Secretary of State jurisdictions (50 states, DC, Puerto Rico, US Virgin Islands): name search, status checks and batch lookups over a 33M-entity index. First 10 lookups free on signup, then from $0.0314 each.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official MCP server for OpenSOSData - real-time US business entity search across all 53 jurisdictions (all 50 states + DC + Puerto Rico + US Virgin Islands). Search, verify, and check status of any LLC, corporation, or registered entity via Claude.",
+            "homepage": null,
+            "id": 1209876625,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-17T22:15:44Z",
+            "open_issues": 0,
+            "owner": "OpenSOSData",
+            "repo": "opensosdata-mcp",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-09-01T00:48:04.059Z"
         },
         {
           "node_type": "item",
@@ -818,10 +839,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-26T10:46:40Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1497,
+            "stars": 1505,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -862,7 +883,7 @@
             "open_issues": 7,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 316,
+            "stars": 318,
             "topics": [
               "ai-agent",
               "breach",
@@ -974,7 +995,7 @@
             "id": 1282493633,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T21:59:02Z",
+            "last_commit": "2026-09-01T00:34:06Z",
             "open_issues": 1,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
@@ -1085,7 +1106,7 @@
             "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 593,
+            "stars": 597,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1127,7 +1148,7 @@
             "open_issues": 5,
             "owner": "badchars",
             "repo": "satellite-mcp",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "acled",
               "adsb",
@@ -1165,8 +1186,8 @@
             "id": 1249669466,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T21:56:14Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-31T03:01:42Z",
+            "open_issues": 10,
             "owner": "cyanheads",
             "repo": "gdelt-mcp-server",
             "stars": 4,
@@ -1284,7 +1305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T23:56:13.429Z",
+    "last_updated": "2026-09-01T00:48:04.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1292,11 +1313,11 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-30T19:51:38Z",
-      "open_issues": 0,
+      "last_commit": "2026-08-31T18:48:25Z",
+      "open_issues": 1,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 466,
+      "stars": 467,
       "topics": [
         "awesome",
         "awesome-ai",
@@ -1316,7 +1337,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "c7932b476944ff09c6bed8b2fe4379ce9f19a90d",
+    "original_repository_sha": "d7abaa659a7a0fe8f061b49eaf7ca82a285d3bee",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
