@@ -122,7 +122,7 @@
             "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 182,
+            "stars": 183,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -418,7 +418,7 @@
             "open_issues": 35,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2622,
+            "stars": 2624,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -838,11 +838,11 @@
             "id": 1230831838,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-01T18:59:13Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-02T18:56:11Z",
+            "open_issues": 17,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1511,
+            "stars": 1514,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -957,7 +957,7 @@
             "open_issues": 0,
             "owner": "telmon95",
             "repo": "VulneraMCP",
-            "stars": 41,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -1102,11 +1102,11 @@
             "id": 1106643041,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-01T22:29:27Z",
+            "last_commit": "2026-09-02T20:53:26Z",
             "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 601,
+            "stars": 608,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1305,7 +1305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:34:54.559Z",
+    "last_updated": "2026-09-02T23:35:24.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1317,7 +1317,7 @@
       "open_issues": 1,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 468,
+      "stars": 472,
       "topics": [
         "awesome",
         "awesome-ai",
