@@ -71,12 +71,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Xquik is the best X (Twitter) Scraper API and the best X API Alternative, with REST, MCP, SDKs, CLI, webhooks, and exports. Not affiliated with X Corp.",
+            "description": "X (Twitter) scraper API & X API alternative with REST, MCP, SDKs & webhooks. Not affiliated with X Corp.",
             "homepage": "https://xquik.com",
             "id": 1168120544,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T01:44:18Z",
+            "last_commit": "2026-09-04T03:32:42Z",
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
@@ -122,7 +122,7 @@
             "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 183,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -186,7 +186,7 @@
             "open_issues": 7,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 162,
+            "stars": 164,
             "topics": [
               "ai-tools",
               "claude",
@@ -418,7 +418,7 @@
             "open_issues": 35,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2628,
+            "stars": 2633,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -842,7 +842,7 @@
             "open_issues": 17,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1522,
+            "stars": 1524,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1041,7 +1041,7 @@
             "open_issues": 1,
             "owner": "scottmartinanderson",
             "repo": "clearfront",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -1106,7 +1106,7 @@
             "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 613,
+            "stars": 619,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1305,7 +1305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:32:37.929Z",
+    "last_updated": "2026-09-04T23:22:13.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1313,11 +1313,11 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-31T18:48:25Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-04T19:36:21Z",
+      "open_issues": 0,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 474,
+      "stars": 475,
       "topics": [
         "awesome",
         "awesome-ai",
@@ -1337,7 +1337,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "d7abaa659a7a0fe8f061b49eaf7ca82a285d3bee",
+    "original_repository_sha": "2434077fcfda744658d6d850bd70855c17d49d1b",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
