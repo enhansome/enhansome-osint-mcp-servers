@@ -842,7 +842,7 @@
             "open_issues": 17,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1524,
+            "stars": 1531,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1106,7 +1106,7 @@
             "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 619,
+            "stars": 621,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1305,7 +1305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:22:13.984Z",
+    "last_updated": "2026-09-05T23:22:14.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1317,7 +1317,7 @@
       "open_issues": 0,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 475,
+      "stars": 478,
       "topics": [
         "awesome",
         "awesome-ai",
