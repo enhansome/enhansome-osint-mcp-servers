@@ -80,7 +80,7 @@
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "advanced-search",
               "agent-skill",
@@ -298,8 +298,8 @@
             "id": 1193641505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T04:01:28Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-05T23:31:49Z",
+            "open_issues": 0,
             "owner": "UPinar",
             "repo": "contrastapi",
             "stars": 33,
@@ -418,7 +418,7 @@
             "open_issues": 35,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2633,
+            "stars": 2634,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -842,7 +842,7 @@
             "open_issues": 17,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1531,
+            "stars": 1536,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -883,7 +883,7 @@
             "open_issues": 7,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "ai-agent",
               "breach",
@@ -999,7 +999,7 @@
             "open_issues": 1,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "ai-agent",
               "autonomous-agents",
@@ -1106,7 +1106,7 @@
             "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 621,
+            "stars": 622,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1271,7 +1271,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-28T15:22:17Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "thebrierfox",
             "repo": "the-stall",
             "stars": 7,
@@ -1305,7 +1305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:22:14.444Z",
+    "last_updated": "2026-09-06T23:12:53.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
