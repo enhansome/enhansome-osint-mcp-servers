@@ -41,7 +41,7 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Network Scanning
 
-* 📦🆓💰 [Shodan](https://github.com/BurtTheCoder/mcp-shodan) ⭐ 165 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-31 — Query the Shodan API and CVEDB for IP reconnaissance, DNS operations, vulnerability tracking, and device discovery. Free tier available with limited queries, requires Shodan API key.
+* 📦🆓💰 [Shodan](https://github.com/BurtTheCoder/mcp-shodan) ⭐ 165 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-08 — Query the Shodan API and CVEDB for IP reconnaissance, DNS operations, vulnerability tracking, and device discovery. Free tier available with limited queries, requires Shodan API key.
 * 📦🆓💰 [ZoomEye](https://github.com/zoomeye-ai/mcp_zoomeye) ⭐ 82 | 🐛 2 | 🌐 Python | 📅 2025-11-27 — Obtain network asset information by querying ZoomEye using dorks and other search parameters. 7-day free trial available, requires ZoomEye API key.
 * 📦🆓 [DNSTwist](https://github.com/BurtTheCoder/mcp-dnstwist) ⭐ 51 | 🐛 7 | 🌐 JavaScript | 📅 2025-03-03 — DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 * 📦🆓 [IPInfo](https://github.com/briandconnelly/mcp-server-ipinfo) ⭐ 44 | 🐛 12 | 🌐 Python | 📅 2026-08-05 — IP geolocation, ASN and network details, Tor exit-node checks, and interactive maps for sets of IPs via ipinfo.io. Free API token required.
@@ -54,7 +54,7 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Web Scraping
 
-* 📦🆓💰 [Bright Data](https://github.com/brightdata/brightdata-mcp) ⭐ 2,634 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-12 — Real-time web search, scraping, and structured data extraction from 60+ sources (Amazon, LinkedIn, TikTok, Google Maps, etc.) with CAPTCHA and anti-bot bypass. Free tier: 5,000 requests/month.
+* 📦🆓💰 [Bright Data](https://github.com/brightdata/brightdata-mcp) ⭐ 2,634 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-12 — Real-time web search, scraping, and structured data extraction from 60+ sources (Amazon, LinkedIn, TikTok, Google Maps, etc.) with CAPTCHA and anti-bot bypass. Free tier: 5,000 requests/month.
 * 📦🆓 [Wayback Machine MCP](https://github.com/Mearman/mcp-wayback-machine) ⭐ 50 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-10 — Query and save Internet Archive snapshots: check archive status, fetch archived URLs, search the CDX index, and compare two snapshots of a page. No API key for reads. `npx -y mcp-wayback-machine`
 * 🆓💰 [AnySite](https://docs.anysite.io/mcp-server/overview) — Structured data access to 115+ endpoints across 40+ platforms (LinkedIn, Instagram, X, Reddit, YouTube, GitHub, Amazon, etc.) via five meta-tools. 7-day free trial with 1,000 credits.
 * 🆓💰 [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) — Web search and page-content extraction (`web_search`, `web_fetch`) for LLM agents. Default endpoint works without an API key; an account with credits is needed for production rate limits. MCP: <https://search.parallel.ai/mcp>
@@ -80,9 +80,9 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Threat Intelligence
 
-* 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) ⭐ 1,542 | 🐛 18 | 🌐 Python | 📅 2026-09-02 — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
-* 📦🆓 [Darknet MCP](https://github.com/badchars/darknet-mcp-server) ⭐ 318 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-01 — 66 tools for dark web and breach intelligence: ransomware group tracking and victim listings, stealer logs, HIBP breach lookups, IntelX search, Tor .onion fetching and exit-node checks, MalwareBazaar/ThreatFox/URLhaus feeds, and Bitcoin address intel. Many tools work with no API key; premium sources unlock with your own keys. `npx darknet-mcp-server`
-* 📦🆓 [VirusTotal](https://github.com/BurtTheCoder/mcp-virustotal) ⭐ 149 | 🐛 6 | 🌐 TypeScript | 📅 2026-05-24 — Analyze URLs, files (by hash), IPs, and domains with detailed relationship mapping. Free API tier available, requires `VIRUSTOTAL_API_KEY`.
+* 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) ⭐ 1,545 | 🐛 18 | 🌐 Python | 📅 2026-09-08 — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
+* 📦🆓 [Darknet MCP](https://github.com/badchars/darknet-mcp-server) ⭐ 320 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 — 66 tools for dark web and breach intelligence: ransomware group tracking and victim listings, stealer logs, HIBP breach lookups, IntelX search, Tor .onion fetching and exit-node checks, MalwareBazaar/ThreatFox/URLhaus feeds, and Bitcoin address intel. Many tools work with no API key; premium sources unlock with your own keys. `npx darknet-mcp-server`
+* 📦🆓 [VirusTotal](https://github.com/BurtTheCoder/mcp-virustotal) ⭐ 149 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-08 — Analyze URLs, files (by hash), IPs, and domains with detailed relationship mapping. Free API tier available, requires `VIRUSTOTAL_API_KEY`.
 * 📦🆓 [VulneraMCP](https://github.com/telmon95/VulneraMCP) ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-24 — AI-powered bug bounty MCP server with recon (subfinder, httpx, gau, ffuf), vulnerability testing (XSS/SQLi/IDOR/CSRF), API/auth/cloud scanning, knowledge-graph analysis, and Markdown reporting. Integrates OWASP ZAP and CLI tools with PostgreSQL storage.
 * 📦🆓 [OpenCTI MCP](https://github.com/zxzinn/opencti-mcp) ⭐ 40 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 — Natural-language access to an OpenCTI instance: latest reports, campaigns by name, attack patterns, indicators, labels and marking definitions over the GraphQL API. Requires your own OpenCTI URL and token.
 * 📦🆓 [osint-agent-skills](https://github.com/frangelbarrera/osint-agent-skills) ⭐ 26 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-01 — 23 MCP tools (DNS, Shodan InternetDB, crt.sh, Wayback CDX, GitHub code search, OTX, HIBP, Etherscan, Mastodon) with zero-dependency Node.js server for Claude Code, Cursor, and Ollama.
@@ -92,7 +92,7 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Geospatial & Geopolitical Intelligence
 
-* 📦🆓 [World Intel MCP](https://github.com/marc-shade/world-intel-mcp) ⭐ 624 | 🐛 1 | 🌐 Python | 📅 2026-09-02 — 120 tools for real-time global situational awareness across 30+ domains: GDELT and 119 RSS news feeds, ACLED conflict events, military aircraft tracking (ADS-B/OpenSky), NGA maritime warnings, submarine cables and datacenters, OFAC sanctions, USGS/NASA disaster feeds, plus geospatial datasets for bases, ports, pipelines and nuclear facilities. All sources are free public APIs; optional free keys (FRED, EIA, NASA FIRMS, ACLED, OpenSky) unlock a few of them. Python, installed from source.
+* 📦🆓 [World Intel MCP](https://github.com/marc-shade/world-intel-mcp) ⭐ 630 | 🐛 1 | 🌐 Python | 📅 2026-09-02 — 120 tools for real-time global situational awareness across 30+ domains: GDELT and 119 RSS news feeds, ACLED conflict events, military aircraft tracking (ADS-B/OpenSky), NGA maritime warnings, submarine cables and datacenters, OFAC sanctions, USGS/NASA disaster feeds, plus geospatial datasets for bases, ports, pipelines and nuclear facilities. All sources are free public APIs; optional free keys (FRED, EIA, NASA FIRMS, ACLED, OpenSky) unlock a few of them. Python, installed from source.
 * 📦🆓 [Satellite MCP](https://github.com/badchars/satellite-mcp) ⭐ 5 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-01 — 171 tools across 27 categories of geospatial intelligence: Sentinel-2 and Landsat scene search, NASA FIRMS wildfire detections, night-lights change detection, aircraft and vessel tracking, military and conflict data, sanctions, terrain and OpenStreetMap queries, plus spectral and change-detection math. Most tools need no key; premium imagery (Planet, NASA Earthdata, N2YO) uses your own. `npx satellite-mcp`
 * 📦🆓 [GDELT MCP](https://github.com/cyanheads/gdelt-mcp-server) ⭐ 5 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-03 — Search and analyse global news coverage through the GDELT Project: article search, coverage timelines and breakdowns, tone distribution, and US television transcripts with clip, context and trending queries. No API key. `npx -y @cyanheads/gdelt-mcp-server`
 
@@ -124,4 +124,4 @@ Contributions are welcome! Please open a pull request to add a new OSINT MCP ser
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
