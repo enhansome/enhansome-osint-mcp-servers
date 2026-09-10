@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 260,
+            "stars": 261,
             "topics": [
               "javascript",
               "maigret",
@@ -122,7 +122,7 @@
             "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 184,
+            "stars": 186,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -298,8 +298,8 @@
             "id": 1193641505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T02:08:49Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-10T00:49:37Z",
+            "open_issues": 4,
             "owner": "UPinar",
             "repo": "contrastapi",
             "stars": 33,
@@ -415,10 +415,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-12T07:39:54Z",
-            "open_issues": 37,
+            "open_issues": 39,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2634,
+            "stars": 2636,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -842,7 +842,7 @@
             "open_issues": 18,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1549,
+            "stars": 1553,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -883,7 +883,7 @@
             "open_issues": 7,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 321,
+            "stars": 342,
             "topics": [
               "ai-agent",
               "breach",
@@ -1065,6 +1065,44 @@
         },
         {
           "node_type": "item",
+          "title": "📦🆓💰 ThreatCluster",
+          "description": "Clustered incident records from 20,000+ sources, validated IOCs, CVE lookup and ransomware leak-site victims. 10 tools. Needs a free API key: 100 credits a day, 30 requests a minute, 7-day lookback.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server for the ThreatCluster threat intelligence API: incident clusters, IOCs, CVEs, ransomware leak-site victims and entity profiles as tools for Claude, Cursor, VS Code and any MCP client. Python and npm.",
+            "homepage": "https://threatcluster.io/integrations/mcp",
+            "id": 1358613969,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-06T10:04:36Z",
+            "open_issues": 0,
+            "owner": "Jam0k",
+            "repo": "Threat-Intelligence-MCP",
+            "stars": 1,
+            "topics": [
+              "claude",
+              "cti",
+              "cursor",
+              "cve",
+              "cyber-threat-intelligence",
+              "dark-web",
+              "ioc",
+              "llm-tools",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "python",
+              "ransomware",
+              "security",
+              "threat-intelligence",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-10T23:25:14.936Z"
+        },
+        {
+          "node_type": "item",
           "title": "📦🆓 ScanMalware",
           "description": "Submit a URL for sandboxed browser analysis, then pivot across the scan archive: search by domain, IP, ASN, JARM, favicon mmh3, TLSH/ssdeep fuzzy hash, screenshot hash, OCR text, or JavaScript fingerprint. Also exposes YARA matches, TLS/RDAP records, Certificate Transparency pivots, detected technologies, and pastejacking/clipboard events. 128 tools, no API key required. MCP: https://mcp.scanmalware.com/mcp",
           "children": [],
@@ -1075,7 +1113,7 @@
             "id": 1129216556,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-21T11:25:03Z",
+            "last_commit": "2026-09-10T13:57:52Z",
             "open_issues": 0,
             "owner": "scanmalware",
             "repo": "mcp-server",
@@ -1106,7 +1144,7 @@
             "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 631,
+            "stars": 632,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1148,7 +1186,7 @@
             "open_issues": 5,
             "owner": "badchars",
             "repo": "satellite-mcp",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "acled",
               "adsb",
@@ -1234,7 +1272,7 @@
             "open_issues": 0,
             "owner": "SOsintOps",
             "repo": "claudii-exploratores",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "ai-agents",
               "claude",
@@ -1305,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:31:18.626Z",
+    "last_updated": "2026-09-10T23:25:14.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1313,11 +1351,11 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-04T19:36:21Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-10T11:55:54Z",
+      "open_issues": 1,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 478,
+      "stars": 482,
       "topics": [
         "awesome",
         "awesome-ai",
@@ -1337,7 +1375,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "2434077fcfda744658d6d850bd70855c17d49d1b",
+    "original_repository_sha": "77a7f28798f872a771ed4503e0c2d0aca3f4f04b",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
