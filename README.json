@@ -80,7 +80,7 @@
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 194,
+            "stars": 195,
             "topics": [
               "advanced-search",
               "agent-skill",
@@ -122,7 +122,7 @@
             "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 186,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -186,7 +186,7 @@
             "open_issues": 0,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "ai-tools",
               "claude",
@@ -298,8 +298,8 @@
             "id": 1193641505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T00:49:37Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-11T16:51:41Z",
+            "open_issues": 0,
             "owner": "UPinar",
             "repo": "contrastapi",
             "stars": 33,
@@ -414,7 +414,7 @@
             "id": 966718614,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-12T07:39:54Z",
+            "last_commit": "2026-09-11T12:57:41Z",
             "open_issues": 39,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
@@ -456,7 +456,7 @@
             "open_issues": 4,
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
-            "stars": 50,
+            "stars": 52,
             "topics": [
               "archival",
               "cli",
@@ -532,7 +532,7 @@
             "open_issues": 0,
             "owner": "sophymarine",
             "repo": "openregistry",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "ai-agents",
               "aml",
@@ -838,11 +838,11 @@
             "id": 1230831838,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T18:18:50Z",
+            "last_commit": "2026-09-11T13:25:07Z",
             "open_issues": 18,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1553,
+            "stars": 1558,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -880,10 +880,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T21:53:59Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 342,
+            "stars": 410,
             "topics": [
               "ai-agent",
               "breach",
@@ -918,7 +918,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T18:22:44Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
             "stars": 149,
@@ -1144,7 +1144,7 @@
             "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 632,
+            "stars": 636,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:25:14.936Z",
+    "last_updated": "2026-09-11T23:32:45.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1355,7 +1355,7 @@
       "open_issues": 1,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 482,
+      "stars": 483,
       "topics": [
         "awesome",
         "awesome-ai",
