@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 261,
+            "stars": 263,
             "topics": [
               "javascript",
               "maigret",
@@ -80,7 +80,7 @@
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "advanced-search",
               "agent-skill",
@@ -186,7 +186,7 @@
             "open_issues": 0,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 167,
+            "stars": 169,
             "topics": [
               "ai-tools",
               "claude",
@@ -340,7 +340,7 @@
             "id": 1255434146,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-17T19:44:35Z",
+            "last_commit": "2026-09-12T16:16:53Z",
             "open_issues": 0,
             "owner": "pucilpet",
             "repo": "crawlgraph-mcp",
@@ -418,7 +418,7 @@
             "open_issues": 39,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2636,
+            "stars": 2638,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -842,7 +842,7 @@
             "open_issues": 18,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1558,
+            "stars": 1561,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -880,10 +880,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T21:53:59Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 410,
+            "stars": 432,
             "topics": [
               "ai-agent",
               "breach",
@@ -1186,7 +1186,7 @@
             "open_issues": 5,
             "owner": "badchars",
             "repo": "satellite-mcp",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "acled",
               "adsb",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:32:45.340Z",
+    "last_updated": "2026-09-12T23:25:56.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1355,7 +1355,7 @@
       "open_issues": 1,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 483,
+      "stars": 484,
       "topics": [
         "awesome",
         "awesome-ai",
