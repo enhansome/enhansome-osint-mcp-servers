@@ -139,7 +139,7 @@
             "id": 1349606132,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-16T16:59:23Z",
+            "last_commit": "2026-09-17T20:26:39Z",
             "open_issues": 0,
             "owner": "pratie",
             "repo": "bulktranscripts-mcp",
@@ -150,6 +150,7 @@
               "claude",
               "claude-desktop",
               "cursor",
+              "gemini-cli-extension",
               "llm",
               "mcp",
               "mcp-server",
@@ -414,11 +415,11 @@
             "id": 966718614,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T17:05:55Z",
+            "last_commit": "2026-09-17T14:51:38Z",
             "open_issues": 44,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2647,
+            "stars": 2648,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -532,7 +533,7 @@
             "open_issues": 0,
             "owner": "sophymarine",
             "repo": "openregistry",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "ai-agents",
               "aml",
@@ -838,11 +839,11 @@
             "id": 1230831838,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-15T15:03:02Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-17T11:48:05Z",
+            "open_issues": 20,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1593,
+            "stars": 1598,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -883,7 +884,7 @@
             "open_issues": 9,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 449,
+            "stars": 452,
             "topics": [
               "ai-agent",
               "breach",
@@ -999,7 +1000,7 @@
             "open_issues": 1,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "ai-agent",
               "autonomous-agents",
@@ -1343,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:52:51.677Z",
+    "last_updated": "2026-09-17T23:42:43.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1355,7 +1356,7 @@
       "open_issues": 3,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 491,
+      "stars": 492,
       "topics": [
         "awesome",
         "awesome-ai",
