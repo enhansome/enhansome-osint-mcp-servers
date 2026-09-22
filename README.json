@@ -139,7 +139,7 @@
             "id": 1349606132,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-18T15:32:24Z",
+            "last_commit": "2026-09-21T17:00:02Z",
             "open_issues": 0,
             "owner": "pratie",
             "repo": "bulktranscripts-mcp",
@@ -299,8 +299,8 @@
             "id": 1193641505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T02:08:40Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-21T02:08:07Z",
+            "open_issues": 6,
             "owner": "UPinar",
             "repo": "contrastapi",
             "stars": 34,
@@ -801,7 +801,7 @@
             "open_issues": 21,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1613,
+            "stars": 1617,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -842,7 +842,7 @@
             "open_issues": 9,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 455,
+            "stars": 458,
             "topics": [
               "ai-agent",
               "breach",
@@ -916,7 +916,7 @@
             "open_issues": 0,
             "owner": "telmon95",
             "repo": "VulneraMCP",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -954,11 +954,11 @@
             "id": 1282493633,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T00:34:06Z",
+            "last_commit": "2026-09-21T03:52:14Z",
             "open_issues": 1,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "ai-agent",
               "autonomous-agents",
@@ -1262,16 +1262,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "205 pay-per-call MCP tools via x402 — no API keys. Stocks, crypto/DeFi, macro data, on-chain analytics, weather, government data, and 200+ more. USDC on Base.",
+            "description": "Public integration and discovery surface for The Stall — 301 paid capabilities over MCP and x402.",
             "homepage": "https://the-stall.intuitek.ai",
-            "id": 1259954382,
+            "id": 1380416821,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T19:10:22Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-21T19:32:57Z",
+            "open_issues": 0,
             "owner": "thebrierfox",
             "repo": "the-stall",
-            "stars": 7,
+            "stars": 0,
             "topics": [
               "ai-agent",
               "autonomous-agents",
@@ -1295,14 +1295,14 @@
               "x402-protocol"
             ]
           },
-          "first_seen": "2026-08-28T05:49:49.381Z"
+          "first_seen": "2026-09-22T00:18:03.464Z"
         }
       ],
       "title": "Blockchain Intelligence"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:33:35.719Z",
+    "last_updated": "2026-09-22T00:18:03.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1314,7 +1314,7 @@
       "open_issues": 4,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 493,
+      "stars": 494,
       "topics": [
         "awesome",
         "awesome-ai",
