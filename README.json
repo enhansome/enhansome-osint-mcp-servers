@@ -76,7 +76,7 @@
             "id": 1168120544,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T12:33:02Z",
+            "last_commit": "2026-09-23T21:37:44Z",
             "open_issues": 3,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
@@ -345,7 +345,7 @@
             "open_issues": 0,
             "owner": "pucilpet",
             "repo": "crawlgraph-mcp",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "ahrefs-alternative",
               "backlink-analysis",
@@ -419,7 +419,7 @@
             "open_issues": 44,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2657,
+            "stars": 2655,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -801,7 +801,7 @@
             "open_issues": 22,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1626,
+            "stars": 1630,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -842,7 +842,7 @@
             "open_issues": 9,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 458,
+            "stars": 459,
             "topics": [
               "ai-agent",
               "breach",
@@ -1103,7 +1103,7 @@
             "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 649,
+            "stars": 651,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1302,7 +1302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:51:39.341Z",
+    "last_updated": "2026-09-23T23:59:29.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1311,7 +1311,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-19T10:05:04Z",
-      "open_issues": 4,
+      "open_issues": 6,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
       "stars": 494,
