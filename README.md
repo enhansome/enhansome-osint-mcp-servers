@@ -33,7 +33,7 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 ## SOCMINT
 
 * 📦🆓 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 264 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-27 — Collect user account information from various public sources by username.
-* 📦🆓 [OSINT Tools MCP](https://github.com/frishtik/osint-tools-mcp-server) ⭐ 241 | 🐛 1 | 🌐 Python | 📅 2025-08-07 — Wraps seven classic OSINT CLIs behind one server: Sherlock and Blackbird (usernames), Maigret, Holehe (email), GHunt (Google accounts), theHarvester (domains) and SpiderFoot. Python, installs the underlying tools itself.
+* 📦🆓 [OSINT Tools MCP](https://github.com/frishtik/osint-tools-mcp-server) ⭐ 242 | 🐛 1 | 🌐 Python | 📅 2025-08-07 — Wraps seven classic OSINT CLIs behind one server: Sherlock and Blackbird (usernames), Maigret, Holehe (email), GHunt (Google accounts), theHarvester (domains) and SpiderFoot. Python, installs the underlying tools itself.
 * 📦💰 [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) ⭐ 205 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-23 — X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.
 * 📦🆓 [LinkedIn MCP](https://github.com/eliasbiondo/linkedin-mcp-server) ⭐ 189 | 🐛 3 | 🌐 Python | 📅 2026-03-08 — Search LinkedIn people, companies and jobs, and pull structured profile, company and post data. Uses your own session cookie; no API key.
 * 🆓💰 [BulkTranscripts](https://github.com/pratie/bulktranscripts-mcp) ⭐ 1 | 🐛 0 | 📅 2026-09-21 — YouTube channel uploads, in-channel topic search, and full transcripts as clean text. `get_latest_videos` is unmetered — poll it to watch a subject's channel and spend credits only on what is new. Hosted, 7 tools, no signup; 30 free credits shared per public IP, then one-time packs. MCP: <https://bulktranscripts.co/mcp>
@@ -54,7 +54,7 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Web Scraping
 
-* 📦🆓💰 [Bright Data](https://github.com/brightdata/brightdata-mcp) ⭐ 2,655 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-17 — Real-time web search, scraping, and structured data extraction from 60+ sources (Amazon, LinkedIn, TikTok, Google Maps, etc.) with CAPTCHA and anti-bot bypass. Free tier: 5,000 requests/month.
+* 📦🆓💰 [Bright Data](https://github.com/brightdata/brightdata-mcp) ⭐ 2,656 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-17 — Real-time web search, scraping, and structured data extraction from 60+ sources (Amazon, LinkedIn, TikTok, Google Maps, etc.) with CAPTCHA and anti-bot bypass. Free tier: 5,000 requests/month.
 * 📦🆓 [Wayback Machine MCP](https://github.com/Mearman/mcp-wayback-machine) ⭐ 54 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-10 — Query and save Internet Archive snapshots: check archive status, fetch archived URLs, search the CDX index, and compare two snapshots of a page. No API key for reads. `npx -y mcp-wayback-machine`
 * 🆓💰 [AnySite](https://docs.anysite.io/mcp-server/overview) — Structured data access to 115+ endpoints across 40+ platforms (LinkedIn, Instagram, X, Reddit, YouTube, GitHub, Amazon, etc.) via five meta-tools. 7-day free trial with 1,000 credits.
 * 🆓💰 [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) — Web search and page-content extraction (`web_search`, `web_fetch`) for LLM agents. Default endpoint works without an API key; an account with credits is needed for production rate limits. MCP: <https://search.parallel.ai/mcp>
@@ -75,13 +75,13 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 ## Public Records & Compliance
 
 * 📦🆓 [Sift](https://github.com/mefos-lab/sift) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-16 — 80 tools for cross-referencing public financial and corporate records across 9 sources: OpenSanctions, the ICIJ Offshore Leaks database (via Aleph), UK Companies House, SEC EDGAR, CourtListener, GLEIF, Wikidata and land registries. Ships 24 structural detection patterns (shell companies, nominee shields, phoenix companies, circular ownership) and interactive network graphs. Free OpenSanctions API key required.
-* 📦🆓 [Sanctions Screening MCP](https://github.com/cyanheads/sanctions-screening-mcp-server) ⭐ 1 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-20 — Screen names against the consolidated OFAC, EU, UK and UN sanctions lists, resolve companies to GLEIF LEIs, and trace ownership chains. Mirrors the lists into a local SQLite/FTS5 index, so matching runs offline with no API key and no rate limit; hits carry a raw Jaro-Winkler score and source provenance rather than a verdict. `npx -y @cyanheads/sanctions-screening-mcp-server`
+* 📦🆓 [Sanctions Screening MCP](https://github.com/cyanheads/sanctions-screening-mcp-server) ⭐ 1 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-24 — Screen names against the consolidated OFAC, EU, UK and UN sanctions lists, resolve companies to GLEIF LEIs, and trace ownership chains. Mirrors the lists into a local SQLite/FTS5 index, so matching runs offline with no API key and no rate limit; hits carry a raw Jaro-Winkler score and source provenance rather than a verdict. `npx -y @cyanheads/sanctions-screening-mcp-server`
 * 📦💰 [Nummeropslag](https://github.com/andrey-tut/nummeropslag-api) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-04 — Privacy-first Danish phone-number intelligence using official CVR and telecom-register data. Look up registered companies, operators, number types, and community spam/trust signals without exposing private individuals' names. Requires a paid API key.
 * 🆓💰 [DataNexus MCP](https://smithery.ai/servers/dev-7bd0/mcp-server/) — Public records intelligence across 7 domains: domain recon (RDAP, DNS, SSL, subdomains, email security), patent search & inventor portfolios (EPO/WIPO), US government contract awards & vendor history (SAM.gov), regulatory filings & dockets (Regulations.gov + Federal Register), US/UK nonprofit 990 data & health scores, CVE/SBOM/EPSS vulnerability intelligence, and professional licence verification (NPI, FINRA, SAM exclusions). 55 tools, no API key required for free tier, hosted remote MCP.
 
 ## Threat Intelligence
 
-* 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) ⭐ 1,630 | 🐛 22 | 🌐 Python | 📅 2026-09-22 — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
+* 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) ⭐ 1,638 | 🐛 22 | 🌐 Python | 📅 2026-09-22 — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
 * 📦🆓 [Darknet MCP](https://github.com/badchars/darknet-mcp-server) ⭐ 459 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-22 — 66 tools for dark web and breach intelligence: ransomware group tracking and victim listings, stealer logs, HIBP breach lookups, IntelX search, Tor .onion fetching and exit-node checks, MalwareBazaar/ThreatFox/URLhaus feeds, and Bitcoin address intel. Many tools work with no API key; premium sources unlock with your own keys. `npx darknet-mcp-server`
 * 📦🆓 [VirusTotal](https://github.com/BurtTheCoder/mcp-virustotal) ⭐ 150 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-08 — Analyze URLs, files (by hash), IPs, and domains with detailed relationship mapping. Free API tier available, requires `VIRUSTOTAL_API_KEY`.
 * 📦🆓 [VulneraMCP](https://github.com/telmon95/VulneraMCP) ⭐ 44 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-24 — AI-powered bug bounty MCP server with recon (subfinder, httpx, gau, ffuf), vulnerability testing (XSS/SQLi/IDOR/CSRF), API/auth/cloud scanning, knowledge-graph analysis, and Markdown reporting. Integrates OWASP ZAP and CLI tools with PostgreSQL storage.
@@ -94,9 +94,9 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Geospatial & Geopolitical Intelligence
 
-* 📦🆓 [World Intel MCP](https://github.com/marc-shade/world-intel-mcp) ⭐ 651 | 🐛 1 | 🌐 Python | 📅 2026-09-02 — 120 tools for real-time global situational awareness across 30+ domains: GDELT and 119 RSS news feeds, ACLED conflict events, military aircraft tracking (ADS-B/OpenSky), NGA maritime warnings, submarine cables and datacenters, OFAC sanctions, USGS/NASA disaster feeds, plus geospatial datasets for bases, ports, pipelines and nuclear facilities. All sources are free public APIs; optional free keys (FRED, EIA, NASA FIRMS, ACLED, OpenSky) unlock a few of them. Python, installed from source.
+* 📦🆓 [World Intel MCP](https://github.com/marc-shade/world-intel-mcp) ⭐ 650 | 🐛 1 | 🌐 Python | 📅 2026-09-02 — 120 tools for real-time global situational awareness across 30+ domains: GDELT and 119 RSS news feeds, ACLED conflict events, military aircraft tracking (ADS-B/OpenSky), NGA maritime warnings, submarine cables and datacenters, OFAC sanctions, USGS/NASA disaster feeds, plus geospatial datasets for bases, ports, pipelines and nuclear facilities. All sources are free public APIs; optional free keys (FRED, EIA, NASA FIRMS, ACLED, OpenSky) unlock a few of them. Python, installed from source.
 * 📦🆓 [Satellite MCP](https://github.com/badchars/satellite-mcp) ⭐ 8 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-01 — 171 tools across 27 categories of geospatial intelligence: Sentinel-2 and Landsat scene search, NASA FIRMS wildfire detections, night-lights change detection, aircraft and vessel tracking, military and conflict data, sanctions, terrain and OpenStreetMap queries, plus spectral and change-detection math. Most tools need no key; premium imagery (Planet, NASA Earthdata, N2YO) uses your own. `npx satellite-mcp`
-* 📦🆓 [GDELT MCP](https://github.com/cyanheads/gdelt-mcp-server) ⭐ 6 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 — Search and analyse global news coverage through the GDELT Project: article search, coverage timelines and breakdowns, tone distribution, and US television transcripts with clip, context and trending queries. No API key. `npx -y @cyanheads/gdelt-mcp-server`
+* 📦🆓 [GDELT MCP](https://github.com/cyanheads/gdelt-mcp-server) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-24 — Search and analyse global news coverage through the GDELT Project: article search, coverage timelines and breakdowns, tone distribution, and US television transcripts with clip, context and trending queries. No API key. `npx -y @cyanheads/gdelt-mcp-server`
 
 ## Research Intelligence
 
@@ -109,7 +109,7 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Blockchain Intelligence
 
-* 💰 [The Stall](https://github.com/thebrierfox/the-stall) ⭐ 0 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-21 — Multi-tool blockchain OSINT server: OFAC sanctions screening (19,000+ SDN entries, fuzzy name match + AKA aliases), wallet risk scoring, agent KYA trust scoring, EVM and Solana transaction intelligence, and token security analysis. Pay-per-call via x402 USDC micropayments on Base — no accounts or API keys. MCP: <https://the-stall.intuitek.ai/mcp>
+* 💰 [The Stall](https://github.com/thebrierfox/the-stall) ⭐ 0 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-21 — Multi-tool blockchain OSINT server: OFAC sanctions screening (19,000+ SDN entries, fuzzy name match + AKA aliases), wallet risk scoring, agent KYA trust scoring, EVM and Solana transaction intelligence, and token security analysis. Pay-per-call via x402 USDC micropayments on Base — no accounts or API keys. MCP: <https://the-stall.intuitek.ai/mcp>
 * 💰 [TWZRD Agent Intel](https://intel.twzrd.xyz) — Blockchain OSINT for AI agent trust scoring — reads public Solana on-chain data (wallet history, transaction patterns) to score agent trustworthiness. Free preflight + paid signed V5 trust receipts via x402 micropayments. MCP: <https://intel.twzrd.xyz/mcp>
 
 ## Market & Trading
@@ -126,4 +126,4 @@ Contributions are welcome! Please open a pull request to add a new OSINT MCP ser
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
