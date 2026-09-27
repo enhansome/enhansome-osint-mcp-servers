@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 263,
+            "stars": 264,
             "topics": [
               "javascript",
               "maigret",
@@ -76,7 +76,7 @@
             "id": 1168120544,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T20:37:23Z",
+            "last_commit": "2026-09-27T21:54:47Z",
             "open_issues": 3,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
@@ -187,7 +187,7 @@
             "open_issues": 0,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "ai-tools",
               "claude",
@@ -419,7 +419,7 @@
             "open_issues": 44,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2658,
+            "stars": 2659,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -798,10 +798,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-26T09:52:04Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1655,
+            "stars": 1659,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -842,7 +842,7 @@
             "open_issues": 9,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "ai-agent",
               "breach",
@@ -916,7 +916,7 @@
             "open_issues": 0,
             "owner": "telmon95",
             "repo": "VulneraMCP",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -954,8 +954,8 @@
             "id": 1282493633,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T03:52:14Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-27T15:55:52Z",
+            "open_issues": 0,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
             "stars": 32,
@@ -1103,7 +1103,7 @@
             "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 651,
+            "stars": 652,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1302,7 +1302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:56:01.773Z",
+    "last_updated": "2026-09-27T23:59:53.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1314,7 +1314,7 @@
       "open_issues": 9,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 495,
+      "stars": 496,
       "topics": [
         "awesome",
         "awesome-ai",
