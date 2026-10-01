@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 265,
+            "stars": 266,
             "topics": [
               "javascript",
               "maigret",
@@ -80,7 +80,7 @@
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 211,
+            "stars": 210,
             "topics": [
               "advanced-search",
               "agent-skill",
@@ -303,7 +303,7 @@
             "open_issues": 7,
             "owner": "UPinar",
             "repo": "contrastapi",
-            "stars": 34,
+            "stars": 33,
             "topics": [
               "ai-agents",
               "ai-security",
@@ -419,7 +419,7 @@
             "open_issues": 44,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2663,
+            "stars": 2662,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -457,7 +457,7 @@
             "open_issues": 4,
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "archival",
               "cli",
@@ -470,6 +470,38 @@
             ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓💰 Singapore Proxy MCP",
+          "description": "Fetch pages and run Google searches () from a real Singapore mobile IP on Singtel or M1, and rotate the IP on demand, to see what Singapore users are served. Requires an API key; 24-hour free trial, then paid. MCP: https://mcp.singaporemobileproxy.com/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hosted MCP server: let Claude, Cursor or Cline browse the web from a real Singapore mobile IP (Singtel/M1). Free 24h trial.",
+            "homepage": "https://singaporemobileproxy.com/client/mcp?utm_source=github&utm_medium=repo&utm_campaign=singapore_proxy_mcp",
+            "id": 1257333156,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-23T09:56:30Z",
+            "open_issues": 1,
+            "owner": "Xavierfok",
+            "repo": "singapore-proxy-mcp",
+            "stars": 0,
+            "topics": [
+              "claude",
+              "cursor",
+              "mcp",
+              "mcp-server",
+              "mobile-proxy",
+              "model-context-protocol",
+              "proxy",
+              "serp",
+              "singapore",
+              "web-scraping"
+            ]
+          },
+          "first_seen": "2026-10-01T00:51:22.349Z"
         }
       ],
       "title": "Web Scraping"
@@ -533,7 +565,7 @@
             "open_issues": 1,
             "owner": "Nymaxxx",
             "repo": "checko-mcp",
-            "stars": 14,
+            "stars": 13,
             "topics": [
               "ai-agents",
               "checko",
@@ -797,11 +829,11 @@
             "id": 1230831838,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T09:08:58Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-30T18:49:58Z",
+            "open_issues": 23,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1669,
+            "stars": 1676,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -842,7 +874,7 @@
             "open_issues": 9,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 464,
+            "stars": 465,
             "topics": [
               "ai-agent",
               "breach",
@@ -958,7 +990,7 @@
             "open_issues": 0,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
-            "stars": 33,
+            "stars": 35,
             "topics": [
               "ai-agent",
               "autonomous-agents",
@@ -1000,7 +1032,7 @@
             "open_issues": 1,
             "owner": "scottmartinanderson",
             "repo": "clearfront",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -1231,7 +1263,7 @@
             "open_issues": 0,
             "owner": "SOsintOps",
             "repo": "claudii-exploratores",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "ai-agents",
               "claude",
@@ -1302,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T00:46:58.949Z",
+    "last_updated": "2026-10-01T00:51:22.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1310,11 +1342,11 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-19T10:05:04Z",
-      "open_issues": 10,
+      "last_commit": "2026-09-30T05:26:54Z",
+      "open_issues": 8,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 497,
+      "stars": 498,
       "topics": [
         "awesome",
         "awesome-ai",
@@ -1334,7 +1366,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "53826434b42998f2a15264704ffa793db8429f39",
+    "original_repository_sha": "1e54ab7a7a514e674f18b19a5961b6ff195d5f36",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
