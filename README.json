@@ -164,6 +164,48 @@
             ]
           },
           "first_seen": "2026-08-30T23:56:13.429Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 OSINT Toolbox MCP",
+          "description": "Runs 12 OSINT tools on your machine: Sherlock, Maigret and Blackbird (usernames), Holehe and GHunt (email), theHarvester, SpiderFoot, subfinder, dnsrecon and dnstwist (domains), PhoneInfoga (phone numbers) and ExifTool (file metadata), plus built-in WHOIS, DNS, crt.sh and Wayback lookups (17 MCP tools in all). No API keys; uvx package or Docker image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server that lets AI agents run 12 classic OSINT tools locally, no API keys needed",
+            "homepage": "https://pypi.org/project/osint-toolbox-mcp/",
+            "id": 1383766253,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-24T18:46:50Z",
+            "open_issues": 0,
+            "owner": "renkagod",
+            "repo": "osint-toolbox-mcp",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "blackbird",
+              "claude",
+              "cursor",
+              "docker",
+              "exiftool",
+              "ghunt",
+              "holehe",
+              "maigret",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "osint",
+              "osint-tools",
+              "phoneinfoga",
+              "reconnaissance",
+              "sherlock",
+              "spiderfoot",
+              "theharvester",
+              "username-search"
+            ]
+          },
+          "first_seen": "2026-10-03T00:45:20.885Z"
         }
       ],
       "title": "SOCMINT"
@@ -299,8 +341,8 @@
             "id": 1193641505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T15:11:49Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-02T15:44:49Z",
+            "open_issues": 3,
             "owner": "UPinar",
             "repo": "contrastapi",
             "stars": 33,
@@ -374,9 +416,9 @@
             "description": "MCP server for the StackScan Tech Lookup API. Ask Claude, Cursor or any MCP client what a website is built with and who is behind it.",
             "homepage": "https://www.stackscan.com/mcp",
             "id": 1322786566,
-            "language": "JavaScript",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-25T08:33:30Z",
+            "last_commit": "2026-10-02T05:22:25Z",
             "open_issues": 0,
             "owner": "stackscan",
             "repo": "stackscan-mcp",
@@ -453,7 +495,7 @@
             "id": 996523578,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-10T03:55:00Z",
+            "last_commit": "2026-10-02T20:05:10Z",
             "open_issues": 4,
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
@@ -833,7 +875,7 @@
             "open_issues": 22,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1680,
+            "stars": 1685,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -986,7 +1028,7 @@
             "id": 1282493633,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T15:55:52Z",
+            "last_commit": "2026-10-02T18:57:50Z",
             "open_issues": 0,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
@@ -1104,7 +1146,7 @@
             "id": 1129216556,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T13:57:52Z",
+            "last_commit": "2026-10-02T14:37:49Z",
             "open_issues": 0,
             "owner": "scanmalware",
             "repo": "mcp-server",
@@ -1135,7 +1177,7 @@
             "open_issues": 1,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 653,
+            "stars": 655,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1334,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:05:30.314Z",
+    "last_updated": "2026-10-03T00:45:20.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1342,11 +1384,11 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-30T05:26:54Z",
-      "open_issues": 9,
+      "last_commit": "2026-10-02T12:19:41Z",
+      "open_issues": 7,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 498,
+      "stars": 497,
       "topics": [
         "awesome",
         "awesome-ai",
@@ -1366,7 +1408,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "1e54ab7a7a514e674f18b19a5961b6ff195d5f36",
+    "original_repository_sha": "7df304076cdb735c863ccd8afdddcc4af7d61c48",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
