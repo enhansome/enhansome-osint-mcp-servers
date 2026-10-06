@@ -495,7 +495,7 @@
             "id": 996523578,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T20:05:10Z",
+            "last_commit": "2026-10-06T07:34:14Z",
             "open_issues": 4,
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
@@ -590,48 +590,6 @@
             ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🆓💰 OpenRegistry",
-          "description": "Real-time access to 27 national corporate registries worldwide (UK Companies House, France Sirene, Germany Handelsregister, South Korea OPENDART, Australia ABR, Canada Corporations, etc.) via a unified JSON schema. Returns company profiles, officers, shareholders, beneficial ownership, filings, and raw documents. Free tier: 20 rpm without signup, 30 rpm with email. Paid up to $29/mo. OAuth 2.1, no API keys.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Real-time, direct-from-official-registry company data via MCP. 30 national registries; unmodified raw fields and raw filing bytes. Tools: search, profile, officers, shareholders, charges, filings, financial documents.",
-            "homepage": "https://openregistry.sophymarine.com",
-            "id": 1215039752,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-07T05:31:16Z",
-            "open_issues": 1,
-            "owner": "sophymarine",
-            "repo": "openregistry",
-            "stars": 19,
-            "topics": [
-              "ai-agents",
-              "aml",
-              "claude",
-              "data-journalism",
-              "due-diligence",
-              "entity-resolution",
-              "foia",
-              "fraud-detection",
-              "investigation",
-              "investigative-journalism",
-              "journalism",
-              "kyb",
-              "kyc",
-              "langchain",
-              "legaltech",
-              "mcp",
-              "mcp-server",
-              "open-source-research",
-              "osint",
-              "sanctions"
-            ]
-          },
-          "first_seen": "2026-10-06T01:56:00.503Z"
         },
         {
           "node_type": "item",
@@ -913,11 +871,11 @@
             "id": 1230831838,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T17:26:30Z",
+            "last_commit": "2026-10-06T10:17:02Z",
             "open_issues": 23,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1692,
+            "stars": 1694,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -958,7 +916,7 @@
             "open_issues": 9,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 466,
+            "stars": 465,
             "topics": [
               "ai-agent",
               "breach",
@@ -1343,7 +1301,7 @@
             "id": 1296390238,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-07-10T17:05:28Z",
+            "last_commit": "2026-10-06T07:10:38Z",
             "open_issues": 0,
             "owner": "SOsintOps",
             "repo": "claudii-exploratores",
@@ -1418,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:56:00.503Z",
+    "last_updated": "2026-10-06T10:17:28.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
