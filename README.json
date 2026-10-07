@@ -76,7 +76,7 @@
             "id": 1168120544,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T15:09:17Z",
+            "last_commit": "2026-10-06T21:56:04Z",
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
@@ -593,6 +593,48 @@
         },
         {
           "node_type": "item",
+          "title": "🆓💰 OpenRegistry",
+          "description": "Real-time access to 27 national corporate registries worldwide (UK Companies House, France Sirene, Germany Handelsregister, South Korea OPENDART, Australia ABR, Canada Corporations, etc.) via a unified JSON schema. Returns company profiles, officers, shareholders, beneficial ownership, filings, and raw documents. Free tier: 20 rpm without signup, 30 rpm with email. Paid up to $29/mo. OAuth 2.1, no API keys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Real-time, direct-from-official-registry company data via MCP. 80+ national registries; unmodified raw fields and raw filing bytes. Tools: search, profile, officers, shareholders, charges, filings, financial documents.",
+            "homepage": "https://openregistry.sophymarine.com",
+            "id": 1215039752,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-06T09:09:39Z",
+            "open_issues": 1,
+            "owner": "sophymarine",
+            "repo": "openregistry",
+            "stars": 19,
+            "topics": [
+              "ai-agents",
+              "aml",
+              "claude",
+              "data-journalism",
+              "due-diligence",
+              "entity-resolution",
+              "foia",
+              "fraud-detection",
+              "investigation",
+              "investigative-journalism",
+              "journalism",
+              "kyb",
+              "kyc",
+              "langchain",
+              "legaltech",
+              "mcp",
+              "mcp-server",
+              "open-source-research",
+              "osint",
+              "sanctions"
+            ]
+          },
+          "first_seen": "2026-10-07T01:02:17.473Z"
+        },
+        {
+          "node_type": "item",
           "title": "📦💰 Checko MCP",
           "description": "Unofficial wrapper for the Russian Checko.ru API: verify counterparties (companies, sole proprietors, individuals) via EGRUL/EGRIP, arbitration cases, government contracts (44-FZ/223-FZ), Rosstat financials, inspections, Fedresurs and EFRSB bankruptcy records. 12 tools and 6 ready-made workflow prompts. Requires paid .",
           "children": [],
@@ -871,11 +913,11 @@
             "id": 1230831838,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:17:02Z",
+            "last_commit": "2026-10-06T18:22:01Z",
             "open_issues": 23,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1694,
+            "stars": 1700,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -916,7 +958,7 @@
             "open_issues": 9,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 465,
+            "stars": 467,
             "topics": [
               "ai-agent",
               "breach",
@@ -1376,7 +1418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:17:28.136Z",
+    "last_updated": "2026-10-07T01:02:17.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1388,7 +1430,7 @@
       "open_issues": 8,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 500,
+      "stars": 501,
       "topics": [
         "awesome",
         "awesome-ai",
