@@ -80,7 +80,7 @@
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "advanced-search",
               "agent-skill",
@@ -122,7 +122,7 @@
             "open_issues": 3,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 193,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -457,11 +457,11 @@
             "id": 966718614,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T13:33:27Z",
+            "last_commit": "2026-10-08T12:08:06Z",
             "open_issues": 44,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2661,
+            "stars": 2663,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -913,11 +913,11 @@
             "id": 1230831838,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T18:22:01Z",
+            "last_commit": "2026-10-08T18:48:22Z",
             "open_issues": 23,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1716,
+            "stars": 1722,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -958,7 +958,7 @@
             "open_issues": 9,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 469,
+            "stars": 471,
             "topics": [
               "ai-agent",
               "breach",
@@ -1188,7 +1188,7 @@
             "id": 1129216556,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T19:56:33Z",
+            "last_commit": "2026-10-08T13:09:31Z",
             "open_issues": 0,
             "owner": "scanmalware",
             "repo": "mcp-server",
@@ -1418,7 +1418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:20:55.684Z",
+    "last_updated": "2026-10-09T01:28:45.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1427,10 +1427,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-03T10:39:43Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 503,
+      "stars": 504,
       "topics": [
         "awesome",
         "awesome-ai",
