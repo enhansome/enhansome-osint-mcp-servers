@@ -33,12 +33,14 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 ## SOCMINT
 
 * 📦🆓 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 268 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-09 — Collect user account information from various public sources by username.
-* 📦🆓 [OSINT Tools MCP](https://github.com/frishtik/osint-tools-mcp-server) ⭐ 242 | 🐛 1 | 🌐 Python | 📅 2025-08-07 — Wraps seven classic OSINT CLIs behind one server: Sherlock and Blackbird (usernames), Maigret, Holehe (email), GHunt (Google accounts), theHarvester (domains) and SpiderFoot. Python, installs the underlying tools itself.
-* 📦💰 [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) ⭐ 211 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-09 — X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.
+* 📦🆓 [OSINT Tools MCP](https://github.com/frishtik/osint-tools-mcp-server) ⭐ 243 | 🐛 1 | 🌐 Python | 📅 2025-08-07 — Wraps seven classic OSINT CLIs behind one server: Sherlock and Blackbird (usernames), Maigret, Holehe (email), GHunt (Google accounts), theHarvester (domains) and SpiderFoot. Python, installs the underlying tools itself.
+* 📦💰 [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) ⭐ 211 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-10 — X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.
 * 📦🆓 [LinkedIn MCP](https://github.com/eliasbiondo/linkedin-mcp-server) ⭐ 194 | 🐛 3 | 🌐 Python | 📅 2026-03-08 — Search LinkedIn people, companies and jobs, and pull structured profile, company and post data. Uses your own session cookie; no API key.
 * 🆓💰 [BulkTranscripts](https://github.com/pratie/bulktranscripts-mcp) ⭐ 1 | 🐛 0 | 📅 2026-09-21 — YouTube channel uploads, in-channel topic search, and full transcripts as clean text. `get_latest_videos` is unmetered — poll it to watch a subject's channel and spend credits only on what is new. Hosted, 7 tools, no signup; 30 free credits shared per public IP, then one-time packs. MCP: <https://bulktranscripts.co/mcp>
 * 📦🆓 [OSINT Toolbox MCP](https://github.com/renkagod/osint-toolbox-mcp) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-05 — Runs 12 OSINT tools on your machine: Sherlock, Maigret and Blackbird (usernames), Holehe and GHunt (email), theHarvester, SpiderFoot, subfinder, dnsrecon and dnstwist (domains), PhoneInfoga (phone numbers) and ExifTool (file metadata), plus built-in WHOIS, DNS, crt.sh and Wayback lookups (17 MCP tools in all). No API keys; uvx package or Docker image.
+* 🆓💰 [Arcmira](https://arcmira.com/) — Find public statements across indexed YouTube videos, with transcript passages and source timestamps. Requires Arcmira sign-in or an API key; free tier and paid plans. MCP: <https://mcp.arcmira.com/mcp>
 * 💰 [Expose Team](https://expose.team?utm_source=github.com\&utm_campaign=soxoj_awesome_osint_mcp_servers) — AI-powered OSINT at lightspeed. Credit-based plans from $8/month.
+* 🆓💰 [LinkMCP](https://app.linkmcp.io) — LinkedIn research and automation through your own account: profile and company lookup, people, job and Sales Navigator search, posts, comments and inbox, work email and mobile lookup. It also writes — messages, connection requests, posts and reactions. 35 tools. Free trial covers lookups; connecting LinkedIn needs a plan from $19/month. MCP: <https://app.linkmcp.io/api/mcp>
 
 ## Network Scanning
 
@@ -56,7 +58,7 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Web Scraping
 
-* 📦🆓💰 [Bright Data](https://github.com/brightdata/brightdata-mcp) ⭐ 2,664 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-08 — Real-time web search, scraping, and structured data extraction from 60+ sources (Amazon, LinkedIn, TikTok, Google Maps, etc.) with CAPTCHA and anti-bot bypass. Free tier: 5,000 requests/month.
+* 📦🆓💰 [Bright Data](https://github.com/brightdata/brightdata-mcp) ⭐ 2,670 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-08 — Real-time web search, scraping, and structured data extraction from 60+ sources (Amazon, LinkedIn, TikTok, Google Maps, etc.) with CAPTCHA and anti-bot bypass. Free tier: 5,000 requests/month.
 * 📦🆓 [Wayback Machine MCP](https://github.com/Mearman/mcp-wayback-machine) ⭐ 57 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-06 — Query and save Internet Archive snapshots: check archive status, fetch archived URLs, search the CDX index, and compare two snapshots of a page. No API key for reads. `npx -y mcp-wayback-machine`
 * 📦🆓💰 [Singapore Proxy MCP](https://github.com/Xavierfok/singapore-proxy-mcp) ⭐ 0 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-23 — Fetch pages and run Google searches (`gl=sg`) from a real Singapore mobile IP on Singtel or M1, and rotate the IP on demand, to see what Singapore users are served. Requires an API key; 24-hour free trial, then paid. MCP: <https://mcp.singaporemobileproxy.com/mcp>
 * 🆓💰 [AnySite](https://docs.anysite.io/mcp-server/overview) — Structured data access to 115+ endpoints across 40+ platforms (LinkedIn, Instagram, X, Reddit, YouTube, GitHub, Amazon, etc.) via five meta-tools. 7-day free trial with 1,000 credits.
@@ -85,8 +87,8 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Threat Intelligence
 
-* 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) ⭐ 1,731 | 🐛 24 | 🌐 Python | 📅 2026-10-09 — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
-* 📦🆓 [Darknet MCP](https://github.com/badchars/darknet-mcp-server) ⭐ 471 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-22 — 66 tools for dark web and breach intelligence: ransomware group tracking and victim listings, stealer logs, HIBP breach lookups, IntelX search, Tor .onion fetching and exit-node checks, MalwareBazaar/ThreatFox/URLhaus feeds, and Bitcoin address intel. Many tools work with no API key; premium sources unlock with your own keys. `npx darknet-mcp-server`
+* 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) ⭐ 1,734 | 🐛 24 | 🌐 Python | 📅 2026-10-10 — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
+* 📦🆓 [Darknet MCP](https://github.com/badchars/darknet-mcp-server) ⭐ 475 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-22 — 66 tools for dark web and breach intelligence: ransomware group tracking and victim listings, stealer logs, HIBP breach lookups, IntelX search, Tor .onion fetching and exit-node checks, MalwareBazaar/ThreatFox/URLhaus feeds, and Bitcoin address intel. Many tools work with no API key; premium sources unlock with your own keys. `npx darknet-mcp-server`
 * 📦🆓 [VirusTotal](https://github.com/BurtTheCoder/mcp-virustotal) ⭐ 150 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-09 — Analyze URLs, files (by hash), IPs, and domains with detailed relationship mapping. Free API tier available, requires `VIRUSTOTAL_API_KEY`.
 * 📦🆓 [VulneraMCP](https://github.com/telmon95/VulneraMCP) ⭐ 47 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-24 — AI-powered bug bounty MCP server with recon (subfinder, httpx, gau, ffuf), vulnerability testing (XSS/SQLi/IDOR/CSRF), API/auth/cloud scanning, knowledge-graph analysis, and Markdown reporting. Integrates OWASP ZAP and CLI tools with PostgreSQL storage.
 * 📦🆓 [OpenCTI MCP](https://github.com/zxzinn/opencti-mcp) ⭐ 40 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 — Natural-language access to an OpenCTI instance: latest reports, campaigns by name, attack patterns, indicators, labels and marking definitions over the GraphQL API. Requires your own OpenCTI URL and token.
@@ -98,7 +100,7 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Geospatial & Geopolitical Intelligence
 
-* 📦🆓 [World Intel MCP](https://github.com/marc-shade/world-intel-mcp) ⭐ 749 | 🐛 1 | 🌐 Python | 📅 2026-09-02 — 120 tools for real-time global situational awareness across 30+ domains: GDELT and 119 RSS news feeds, ACLED conflict events, military aircraft tracking (ADS-B/OpenSky), NGA maritime warnings, submarine cables and datacenters, OFAC sanctions, USGS/NASA disaster feeds, plus geospatial datasets for bases, ports, pipelines and nuclear facilities. All sources are free public APIs; optional free keys (FRED, EIA, NASA FIRMS, ACLED, OpenSky) unlock a few of them. Python, installed from source.
+* 📦🆓 [World Intel MCP](https://github.com/marc-shade/world-intel-mcp) ⭐ 835 | 🐛 1 | 🌐 Python | 📅 2026-09-02 — 120 tools for real-time global situational awareness across 30+ domains: GDELT and 119 RSS news feeds, ACLED conflict events, military aircraft tracking (ADS-B/OpenSky), NGA maritime warnings, submarine cables and datacenters, OFAC sanctions, USGS/NASA disaster feeds, plus geospatial datasets for bases, ports, pipelines and nuclear facilities. All sources are free public APIs; optional free keys (FRED, EIA, NASA FIRMS, ACLED, OpenSky) unlock a few of them. Python, installed from source.
 * 📦🆓 [Satellite MCP](https://github.com/badchars/satellite-mcp) ⭐ 9 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-01 — 171 tools across 27 categories of geospatial intelligence: Sentinel-2 and Landsat scene search, NASA FIRMS wildfire detections, night-lights change detection, aircraft and vessel tracking, military and conflict data, sanctions, terrain and OpenStreetMap queries, plus spectral and change-detection math. Most tools need no key; premium imagery (Planet, NASA Earthdata, N2YO) uses your own. `npx satellite-mcp`
 * 📦🆓 [GDELT MCP](https://github.com/cyanheads/gdelt-mcp-server) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-07 — Search and analyse global news coverage through the GDELT Project: article search, coverage timelines and breakdowns, tone distribution, and US television transcripts with clip, context and trending queries. No API key. `npx -y @cyanheads/gdelt-mcp-server`
 
@@ -113,7 +115,7 @@ Legend: 📦 Open Source  ·  🆓 Free / Has Free Tier  ·  💰 Paid / Req
 
 ## Blockchain Intelligence
 
-* 💰 [The Stall](https://github.com/thebrierfox/the-stall) ⭐ 0 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-26 — Multi-tool blockchain OSINT server: OFAC sanctions screening (19,000+ SDN entries, fuzzy name match + AKA aliases), wallet risk scoring, agent KYA trust scoring, EVM and Solana transaction intelligence, and token security analysis. Pay-per-call via x402 USDC micropayments on Base — no accounts or API keys. MCP: <https://the-stall.intuitek.ai/mcp>
+* 💰 [The Stall](https://github.com/thebrierfox/the-stall) ⭐ 0 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-10 — Multi-tool blockchain OSINT server: OFAC sanctions screening (19,000+ SDN entries, fuzzy name match + AKA aliases), wallet risk scoring, agent KYA trust scoring, EVM and Solana transaction intelligence, and token security analysis. Pay-per-call via x402 USDC micropayments on Base — no accounts or API keys. MCP: <https://the-stall.intuitek.ai/mcp>
 * 💰 [TWZRD Agent Intel](https://intel.twzrd.xyz) — Blockchain OSINT for AI agent trust scoring — reads public Solana on-chain data (wallet history, transaction patterns) to score agent trustworthiness. Free preflight + paid signed V5 trust receipts via x402 micropayments. MCP: <https://intel.twzrd.xyz/mcp>
 
 ## Market & Trading
@@ -130,4 +132,4 @@ Contributions are welcome! Please open a pull request to add a new OSINT MCP ser
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
