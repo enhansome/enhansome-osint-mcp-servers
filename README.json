@@ -86,7 +86,7 @@
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "advanced-search",
               "agent-skill",
@@ -463,11 +463,11 @@
             "id": 966718614,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T12:08:06Z",
+            "last_commit": "2026-10-11T11:29:31Z",
             "open_issues": 44,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2670,
+            "stars": 2671,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -919,11 +919,11 @@
             "id": 1230831838,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-10T11:57:34Z",
+            "last_commit": "2026-10-11T16:34:24Z",
             "open_issues": 24,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1734,
+            "stars": 1744,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -964,7 +964,7 @@
             "open_issues": 9,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 475,
+            "stars": 476,
             "topics": [
               "ai-agent",
               "breach",
@@ -1002,7 +1002,7 @@
             "open_issues": 2,
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "ai-tools",
               "claude",
@@ -1216,16 +1216,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "120-tool MCP server for real-time global intelligence: markets, SEC filings, conflict, military, cyber, climate, news, and 30+ domains. AI situation briefs that cite their sources, user-defined geofences with escalation scoring, cited daily digests, live SSE dashboard. MIT, no paid API keys.",
+            "description": "139-tool MCP server for real-time global intelligence from free public APIs: markets, SEC filings, conflict, military, aircraft-cohort early warning, refugee and migration flows, cyber, climate, news, and 30+ domains. Cited AI situation briefs, geofences with change detection, live SSE dashboard. MIT, no paid API keys.",
             "homepage": null,
             "id": 1106643041,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T20:53:26Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-11T22:48:39Z",
+            "open_issues": 0,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 835,
+            "stars": 909,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1424,7 +1424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:31:16.769Z",
+    "last_updated": "2026-10-12T00:44:39.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1433,10 +1433,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-10T20:40:54Z",
-      "open_issues": 7,
+      "open_issues": 10,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 506,
+      "stars": 507,
       "topics": [
         "awesome",
         "awesome-ai",
