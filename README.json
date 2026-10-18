@@ -82,11 +82,11 @@
             "id": 1168120544,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T11:16:35Z",
+            "last_commit": "2026-10-18T22:51:43Z",
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 213,
+            "stars": 214,
             "topics": [
               "agent-skill",
               "agent-skills",
@@ -212,6 +212,36 @@
             ]
           },
           "first_seen": "2026-10-03T00:45:20.885Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓💰 Reddit Scraper MCP",
+          "description": "Search Reddit by keyword and pull posts, full comment threads, subreddits and a user's post and comment history as JSON. 3 tools; npx package (). Needs an Apify token; no Reddit API key. Pay per result, the Apify free plan covers small runs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Remote MCP server entry for the Reddit Scraper Pro Apify Actor: Reddit posts, comments, search, users, subreddits as JSON",
+            "homepage": "https://apify.com/harshmaur/reddit-scraper",
+            "id": 1362835347,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-17T08:48:04Z",
+            "open_issues": 0,
+            "owner": "harshmaur",
+            "repo": "reddit-scraper-pro-mcp",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "apify",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "reddit",
+              "reddit-scraper",
+              "web-scraping"
+            ]
+          },
+          "first_seen": "2026-10-18T23:41:32.150Z"
         }
       ],
       "title": "SOCMINT"
@@ -347,8 +377,8 @@
             "id": 1193641505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T00:24:54Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-18T11:22:24Z",
+            "open_issues": 0,
             "owner": "UPinar",
             "repo": "contrastapi",
             "stars": 33,
@@ -463,11 +493,11 @@
             "id": 966718614,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T07:44:26Z",
+            "last_commit": "2026-10-18T13:27:18Z",
             "open_issues": 44,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2679,
+            "stars": 2680,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -550,6 +580,37 @@
             ]
           },
           "first_seen": "2026-10-01T00:51:22.349Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🆓💰 CurlShot",
+          "description": "Capture a public web page as evidence: full-page PNG/JPEG/WebP, a PDF, or a video of the page scrolling, on phone or desktop presets, with cookie banners and ads hidden. Requires an API key; free plan 100 screenshots/month. MCP: https://curlshot.com/api/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hosted MCP server for CurlShot: let AI agents take screenshots of any web page (PNG, JPEG, WebP, PDF, video). Setup for Claude, Cursor, VS Code.",
+            "homepage": "https://curlshot.com",
+            "id": 1421208016,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-17T10:01:35Z",
+            "open_issues": 1,
+            "owner": "SergiuPogor",
+            "repo": "curlshot-mcp",
+            "stars": 0,
+            "topics": [
+              "agent-skills",
+              "claude-code-marketplace",
+              "claude-code-plugin",
+              "claude-skills",
+              "gemini-cli-extension",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "screenshot-api"
+            ]
+          },
+          "first_seen": "2026-10-18T23:41:32.150Z"
         }
       ],
       "title": "Web Scraping"
@@ -604,7 +665,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Real-time, direct-from-official-registry company data via MCP. 80+ national registries; unmodified raw fields and raw filing bytes. Tools: search, profile, officers, shareholders, charges, filings, financial documents.",
+            "description": "OpenRegistry - the world's first MCP and API for live company profile, directors, shareholders, financials and filings directly from official government registries worldwide. 90+ countries.",
             "homepage": "https://openregistry.sophymarine.com",
             "id": 1215039752,
             "language": "JavaScript",
@@ -613,7 +674,7 @@
             "open_issues": 0,
             "owner": "sophymarine",
             "repo": "openregistry",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "ai-agents",
               "aml",
@@ -680,7 +741,7 @@
             "id": 1209876625,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-17T19:12:27Z",
+            "last_commit": "2026-10-18T18:05:01Z",
             "open_issues": 0,
             "owner": "OpenSOSData",
             "repo": "opensosdata-mcp",
@@ -919,11 +980,11 @@
             "id": 1230831838,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-15T13:04:28Z",
+            "last_commit": "2026-10-18T19:54:44Z",
             "open_issues": 24,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1770,
+            "stars": 1774,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1178,16 +1239,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "139-tool MCP server for real-time global intelligence from free public APIs: markets, SEC filings, conflict, military, aircraft-cohort early warning, refugee and migration flows, cyber, climate, news, and 30+ domains. Cited AI situation briefs, geofences with change detection, live SSE dashboard. MIT, no paid API keys.",
+            "description": "160-tool MCP server for real-time global intelligence from free public APIs: markets, liquidity, prediction markets, SEC filings, conflict, military, aircraft-cohort early warning, migration and border flows, cyber, climate, news and more. Dated observation history, 29 research prompts, cited briefs, geofences, SSE dashboard. MIT, no paid API keys.",
             "homepage": null,
             "id": 1106643041,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T23:01:33Z",
+            "last_commit": "2026-10-18T19:44:29Z",
             "open_issues": 0,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 966,
+            "stars": 967,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1344,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:28:30.731Z",
+    "last_updated": "2026-10-18T23:41:32.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1352,8 +1413,8 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-10T20:40:54Z",
-      "open_issues": 14,
+      "last_commit": "2026-10-18T15:49:08Z",
+      "open_issues": 12,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
       "stars": 518,
@@ -1376,7 +1437,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "48729c948afddc9cebbca4e31c3a38a07ab47304",
+    "original_repository_sha": "b35e16bc74807545d2537690c2a454a9411d48de",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
