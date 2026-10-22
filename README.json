@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "ai-agents",
               "claude",
@@ -86,7 +86,7 @@
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "agent-skill",
               "agent-skills",
@@ -225,7 +225,7 @@
             "id": 1362835347,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T13:55:33Z",
+            "last_commit": "2026-10-21T04:49:09Z",
             "open_issues": 0,
             "owner": "harshmaur",
             "repo": "reddit-scraper-pro-mcp",
@@ -377,11 +377,11 @@
             "id": 1193641505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-20T15:40:11Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-21T21:01:47Z",
+            "open_issues": 0,
             "owner": "UPinar",
             "repo": "contrastapi",
-            "stars": 33,
+            "stars": 35,
             "topics": [
               "ai-agents",
               "ai-security",
@@ -497,7 +497,7 @@
             "open_issues": 37,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2684,
+            "stars": 2685,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -741,7 +741,7 @@
             "id": 1209876625,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-18T18:05:01Z",
+            "last_commit": "2026-10-21T21:11:58Z",
             "open_issues": 0,
             "owner": "OpenSOSData",
             "repo": "opensosdata-mcp",
@@ -890,7 +890,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Screen names against the consolidated OFAC, EU, UK, and UN sanctions lists and resolve legal entities against GLEIF, fuzzy-matched offline over a local SQLite + FTS5 mirror. A screening aid, not a compliance determination. MCP server.",
+            "description": "Screen names against the consolidated OFAC, EU, UK, and UN sanctions lists and resolve legal entities against GLEIF, fuzzy-matched offline over a local SQLite + FTS5 mirror.",
             "homepage": "https://www.npmjs.com/package/@cyanheads/sanctions-screening-mcp-server",
             "id": 1268108712,
             "language": "TypeScript",
@@ -981,10 +981,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-19T11:59:35Z",
-            "open_issues": 24,
+            "open_issues": 22,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1784,
+            "stars": 1790,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1021,11 +1021,11 @@
             "id": 902629770,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T00:03:36Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-21T12:27:39Z",
+            "open_issues": 5,
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "ai-tools",
               "claude",
@@ -1061,7 +1061,7 @@
             "open_issues": 0,
             "owner": "telmon95",
             "repo": "VulneraMCP",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -1248,7 +1248,7 @@
             "open_issues": 0,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 968,
+            "stars": 997,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:09:42.886Z",
+    "last_updated": "2026-10-22T00:15:28.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1414,10 +1414,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-18T15:49:08Z",
-      "open_issues": 17,
+      "open_issues": 18,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 521,
+      "stars": 523,
       "topics": [
         "awesome",
         "awesome-ai",
