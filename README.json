@@ -86,7 +86,7 @@
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 218,
+            "stars": 219,
             "topics": [
               "agent-skill",
               "agent-skills",
@@ -128,7 +128,7 @@
             "open_issues": 3,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 200,
+            "stars": 201,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -145,11 +145,11 @@
             "id": 1383766253,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T19:43:45Z",
+            "last_commit": "2026-10-23T15:25:04Z",
             "open_issues": 2,
             "owner": "renkagod",
             "repo": "osint-toolbox-mcp",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "ai-agents",
               "blackbird",
@@ -215,6 +215,47 @@
         },
         {
           "node_type": "item",
+          "title": "📦💰 TwitterAPIs MCP",
+          "description": "Tweet search, user profiles, followers, timelines and account monitoring on X without an X developer account — 68 read tools, plus 44 that post and act as the connected account. One API key, pay per call at $0.0008 with $0.50 of starter credit. MCP: https://www.twitterapis.com/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official MCP server for twitterapis.com: the Twitter/X API as native tools for Claude, Cursor, Windsurf, and any MCP client.",
+            "homepage": "https://www.twitterapis.com/mcp",
+            "id": 1298292035,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-20T22:25:21Z",
+            "open_issues": 0,
+            "owner": "TwitterAPIs",
+            "repo": "twitterapis-mcp",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "api",
+              "claude",
+              "cursor",
+              "developer-tools",
+              "llm-tools",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "tweets",
+              "twitter",
+              "twitter-api",
+              "twitter-client",
+              "twitter-data",
+              "twitter-scraper",
+              "twitter-search",
+              "windsurf",
+              "x",
+              "x-api"
+            ]
+          },
+          "first_seen": "2026-10-24T00:03:46.693Z"
+        },
+        {
+          "node_type": "item",
           "title": "📦🆓💰 Reddit Scraper MCP",
           "description": "Search Reddit by keyword and pull posts, full comment threads, subreddits and a user's post and comment history as JSON. 3 tools; npx package (). Needs an Apify token; no Reddit API key. Pay per result, the Apify free plan covers small runs.",
           "children": [],
@@ -225,7 +266,7 @@
             "id": 1362835347,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T04:49:09Z",
+            "last_commit": "2026-10-23T07:06:33Z",
             "open_issues": 0,
             "owner": "harshmaur",
             "repo": "reddit-scraper-pro-mcp",
@@ -242,6 +283,36 @@
             ]
           },
           "first_seen": "2026-10-18T23:41:32.150Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓💰 Kooperativa.io",
+          "description": "Enrich and search professional profiles and companies from the Kooperativa.io data API: work history, headcount by seniority, hiring signals and job changes. 24 tools over stdio; needs a Kooperativa.io API key (7-day free trial).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server for the Kooperativa API. Enrich and search professional profiles and companies, track hiring signals and job changes, and manage webhook monitors, from any MCP-compatible AI assistant.",
+            "homepage": "https://kooperativa.io",
+            "id": 1358077450,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-11T10:22:29Z",
+            "open_issues": 0,
+            "owner": "kooperativa-team",
+            "repo": "kooperativa-mcp",
+            "stars": 0,
+            "topics": [
+              "ai-tools",
+              "b2b",
+              "claude",
+              "data-enrichment",
+              "kooperativa",
+              "llm",
+              "mcp",
+              "model-context-protocol"
+            ]
+          },
+          "first_seen": "2026-10-24T00:03:46.693Z"
         }
       ],
       "title": "SOCMINT"
@@ -444,6 +515,47 @@
         },
         {
           "node_type": "item",
+          "title": "📦🆓💰 IPGeolocation.io",
+          "description": "17 tools for accurate IP geolocation, company information, ASN and network data, IP security (VPN, proxy, Tor, bot, hosting and spam detection), abuse contacts, time zones, astronomy, currency data and user-agent parsing. Local stdio server; API key for authenticated lookups, with free and paid plans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official IPGeolocation.io MCP server: 17 tools for accurate IP geolocation, company information, ASN and network data, IP security (VPN, proxy, Tor, bot, hosting and spam detection), abuse contacts, time zones, astronomy, currency data and user-agent parsing.",
+            "homepage": "https://ipgeolocation.io",
+            "id": 1172544930,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-23T13:57:29Z",
+            "open_issues": 10,
+            "owner": "IPGeolocation",
+            "repo": "ipgeolocation-io-mcp",
+            "stars": 4,
+            "topics": [
+              "ai",
+              "anthropic",
+              "asn",
+              "asn-lookup",
+              "claude",
+              "ip",
+              "ip-abuse-lookup",
+              "ip-geolocation",
+              "ip-geolocation-api",
+              "ip-lookup-api",
+              "ipgeolocation",
+              "ipgeolocation-api",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "proxy-detection",
+              "typescript",
+              "vpn-detection"
+            ]
+          },
+          "first_seen": "2026-10-24T00:03:46.693Z"
+        },
+        {
+          "node_type": "item",
           "title": "📦💰 StackScan",
           "description": "Technographic lookups over 360M+ sites: what a domain is built on, who is behind it (industry, city, country, LinkedIn), and how many sites run a given technology and where. Batch domain lookup for list enrichment. Local stdio server, MIT, . Charged per resolving domain; misses are not charged and is free.",
           "children": [],
@@ -494,10 +606,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-20T09:53:42Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2685,
+            "stars": 2686,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -535,7 +647,7 @@
             "open_issues": 4,
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "archival",
               "cli",
@@ -741,7 +853,7 @@
             "id": 1209876625,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-22T22:13:52Z",
+            "last_commit": "2026-10-23T01:13:24Z",
             "open_issues": 0,
             "owner": "OpenSOSData",
             "repo": "opensosdata-mcp",
@@ -984,7 +1096,7 @@
             "open_issues": 22,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1796,
+            "stars": 1799,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1021,7 +1133,7 @@
             "id": 902629770,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T12:27:39Z",
+            "last_commit": "2026-10-23T14:54:43Z",
             "open_issues": 5,
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
@@ -1047,6 +1159,42 @@
         },
         {
           "node_type": "item",
+          "title": "📦🆓 XposedOrNot",
+          "description": "XposedOrNot data breach lookups for emails and domains: the breaches an address appears in, its full breach history, the public breach catalog, domain exposure counts and recent breaches. Read-only, never returns passwords, no API key. MCP: https://api.xposedornot.com/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source API to check if an email has been exposed in a data breach and monitor breaches across your verified domains. Real-time alerts and breach analytics protect your online identity.",
+            "homepage": "https://api.xposedornot.com",
+            "id": 727031523,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-23T00:23:15Z",
+            "open_issues": 2,
+            "owner": "XposedOrNot",
+            "repo": "XposedOrNot-API",
+            "stars": 100,
+            "topics": [
+              "ai-agents",
+              "api",
+              "breach-compilation",
+              "breach-detection",
+              "data-breach",
+              "databreach",
+              "gemini-cli-extension",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "osint",
+              "python",
+              "security",
+              "xposedornot"
+            ]
+          },
+          "first_seen": "2026-10-24T00:03:46.693Z"
+        },
+        {
+          "node_type": "item",
           "title": "📦🆓 VulneraMCP",
           "description": "AI-powered bug bounty MCP server with recon (subfinder, httpx, gau, ffuf), vulnerability testing (XSS/SQLi/IDOR/CSRF), API/auth/cloud scanning, knowledge-graph analysis, and Markdown reporting. Integrates OWASP ZAP and CLI tools with PostgreSQL storage.",
           "children": [],
@@ -1061,7 +1209,7 @@
             "open_issues": 0,
             "owner": "telmon95",
             "repo": "VulneraMCP",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -1103,7 +1251,7 @@
             "open_issues": 0,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "ai-agent",
               "autonomous-agents",
@@ -1217,8 +1365,8 @@
             "id": 1129216556,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T15:47:54Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-23T21:45:11Z",
+            "open_issues": 3,
             "owner": "scanmalware",
             "repo": "mcp-server",
             "stars": 0,
@@ -1248,7 +1396,7 @@
             "open_issues": 0,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 1023,
+            "stars": 1024,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1273,6 +1421,48 @@
             ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 Velocity",
+          "description": "Self-hosted flight and ship tracker whose MCP server answers from live public ADS-B and AIS feeds: aircraft and vessels in an area (circle or polygon), GPS-jamming cells, dossiers and track history, each contact with the feed that reported it and its fix age. Needs your own Velocity instance; no API keys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted flight and ship tracker that keeps its own history: rewind any moment, every contact with its source and age. No API keys.",
+            "homepage": "https://projectvelocity.org",
+            "id": 1267515952,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-23T08:21:50Z",
+            "open_issues": 20,
+            "owner": "AndrewCTF",
+            "repo": "velocity",
+            "stars": 124,
+            "topics": [
+              "3d-globe",
+              "adsb",
+              "aircraft-tracking",
+              "ais",
+              "cesium",
+              "fastapi",
+              "flight-tracking",
+              "geoint",
+              "geospatial",
+              "intelligence-analysis",
+              "keyless",
+              "mcp-server",
+              "open-source-intelligence",
+              "osint",
+              "python",
+              "react",
+              "satellite-tracking",
+              "self-hosted",
+              "typescript",
+              "vessel-tracking"
+            ]
+          },
+          "first_seen": "2026-10-24T00:03:46.693Z"
         },
         {
           "node_type": "item",
@@ -1374,7 +1564,7 @@
             "open_issues": 4,
             "owner": "thebrierfox",
             "repo": "the-stall",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "ai-agent",
               "autonomous-agents",
@@ -1405,7 +1595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:11:57.172Z",
+    "last_updated": "2026-10-24T00:03:46.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1413,11 +1603,11 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-18T15:49:08Z",
-      "open_issues": 21,
+      "last_commit": "2026-10-23T09:08:28Z",
+      "open_issues": 16,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 525,
+      "stars": 524,
       "topics": [
         "awesome",
         "awesome-ai",
@@ -1437,7 +1627,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "b35e16bc74807545d2537690c2a454a9411d48de",
+    "original_repository_sha": "a4c73e0060127014745a19d857a5776afd2180fc",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
