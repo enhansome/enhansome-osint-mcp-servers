@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 270,
+            "stars": 269,
             "topics": [
               "ai-agents",
               "claude",
@@ -86,7 +86,7 @@
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 219,
+            "stars": 220,
             "topics": [
               "agent-skill",
               "agent-skills",
@@ -124,8 +124,8 @@
             "id": 1175508017,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-03-08T19:55:15Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-24T23:24:18Z",
+            "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
             "stars": 201,
@@ -256,6 +256,40 @@
         },
         {
           "node_type": "item",
+          "title": "📦💰 TweetAPI MCP",
+          "description": "Read-only Twitter data: tweet search, profiles, About this account (location, username history), followers, lists, communities and Spaces. 33 live tools plus docs tools. Hosted with OAuth, or local over stdio with a TweetAPI key. MCP: https://mcp.tweetapi.com/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server for TweetAPI: read-only Twitter data and docs for AI agents, hosted with OAuth or local over stdio. Not affiliated with X Corp.",
+            "homepage": "https://tweetapi.com/mcp",
+            "id": 1431311244,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-24T12:53:24Z",
+            "open_issues": 0,
+            "owner": "tweetapi",
+            "repo": "tweetapi-mcp",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "claude",
+              "codex",
+              "cursor",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "tweetapi",
+              "twitter",
+              "twitter-api",
+              "twitter-data",
+              "x-api"
+            ]
+          },
+          "first_seen": "2026-10-24T23:45:49.517Z"
+        },
+        {
+          "node_type": "item",
           "title": "📦🆓💰 Reddit Scraper MCP",
           "description": "Search Reddit by keyword and pull posts, full comment threads, subreddits and a user's post and comment history as JSON. 3 tools; npx package (). Needs an Apify token; no Reddit API key. Pay per result, the Apify free plan covers small runs.",
           "children": [],
@@ -313,6 +347,35 @@
             ]
           },
           "first_seen": "2026-10-24T00:03:46.693Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🆓💰 TubeText YouTube Transcripts",
+          "description": "Transcripts of YouTube videos, Shorts, playlists or whole channels (Whisper fallback when captions are missing), plus channel stats and Social Blade history. Apify sign-in (OAuth); pay per result with a free monthly credit. MCP: https://mcp.apify.com/?tools=fetch-actor-details,tubetext/youtube-transcript-fast,tubetext/youtube-channel-analytics,tubetext/socialblade-scraper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Remote MCP servers for TubeText Apify Actors: video transcripts, AI video breakdown, Meta ad library, e-commerce prices, reviews. Works with Claude, Cursor, VS Code.",
+            "homepage": "https://apify.com/tubetext",
+            "id": 1417262125,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T17:04:09Z",
+            "open_issues": 0,
+            "owner": "LMSlay",
+            "repo": "tubetext-mcp",
+            "stars": 0,
+            "topics": [
+              "apify",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "tiktok",
+              "web-scraping",
+              "youtube-transcript"
+            ]
+          },
+          "first_seen": "2026-10-24T23:45:49.517Z"
         }
       ],
       "title": "SOCMINT"
@@ -336,7 +399,7 @@
             "open_issues": 4,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 179,
+            "stars": 178,
             "topics": [
               "ai-tools",
               "claude",
@@ -403,7 +466,7 @@
             "open_issues": 0,
             "owner": "w0h1v",
             "repo": "mcp-dnstwist",
-            "stars": 51,
+            "stars": 50,
             "topics": [
               "dns",
               "javascript",
@@ -525,8 +588,8 @@
             "id": 1172544930,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T13:57:29Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-24T16:14:30Z",
+            "open_issues": 11,
             "owner": "IPGeolocation",
             "repo": "ipgeolocation-io-mcp",
             "stars": 4,
@@ -586,6 +649,27 @@
             ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦💰 MCP Toolbelt",
+          "description": "Hosted MCP server for domain and network reconnaissance: WHOIS and DNS lookups, subdomain discovery, SSL/TLS checks, open-port and ASN lookups, plus security-header and exposed-file audits for attack-surface mapping. 29 tools, pay per call in USDC via x402, no API key or account required. MCP: https://papacasper.com/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "29 pay-per-call DNS, SEO, SSL, security, and dev tools for AI agents. x402, no API key. Live at https://papacasper.com/mcp",
+            "homepage": null,
+            "id": 1351983170,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-22T23:26:20Z",
+            "open_issues": 1,
+            "owner": "papacasper",
+            "repo": "mcp-toolbelt",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-24T23:45:49.517Z"
         }
       ],
       "title": "Network Scanning"
@@ -593,6 +677,43 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "📦🆓💰 Firecrawl MCP",
+          "description": "Research people, companies and domains from their public pages: search the web, then scrape, crawl or map sites into Markdown, including JS-heavy pages and PDFs. Search and scrape work keyless (rate-limited); a free API key adds crawl and map. MCP: https://mcp.firecrawl.dev/v2/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official Firecrawl MCP server, the context API for AI agents: search, scrape, and interact with the web, plus parse, crawl, map, Agent and Monitor, from any MCP client.",
+            "homepage": "https://firecrawl.dev",
+            "id": 899407931,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-24T19:21:37Z",
+            "open_issues": 190,
+            "owner": "firecrawl",
+            "repo": "firecrawl-mcp-server",
+            "stars": 7678,
+            "topics": [
+              "batch-processing",
+              "claude",
+              "content-extraction",
+              "data-collection",
+              "firecrawl",
+              "firecrawl-ai",
+              "gemini-cli-extension",
+              "javascript-rendering",
+              "llm-tools",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "search-api",
+              "web-crawler",
+              "web-scraping"
+            ]
+          },
+          "first_seen": "2026-10-24T23:45:49.517Z"
+        },
         {
           "node_type": "item",
           "title": "📦🆓💰 Bright Data",
@@ -606,7 +727,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-20T09:53:42Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
             "stars": 2686,
@@ -705,8 +826,8 @@
             "id": 1421208016,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T10:01:35Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-24T16:04:58Z",
+            "open_issues": 0,
             "owner": "SergiuPogor",
             "repo": "curlshot-mcp",
             "stars": 0,
@@ -1008,7 +1129,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T08:14:39Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "cyanheads",
             "repo": "sanctions-screening-mcp-server",
             "stars": 2,
@@ -1032,6 +1153,27 @@
             ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🆓💰 Carrier Ledger",
+          "description": "Look up U.S. trucking companies and freight brokers in FMCSA public records; every fact cites the FMCSA dataset it came from. Read-only, not affiliated with FMCSA. MCP: https://carrierledger.tryneverclosed.com/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Docs for Carrier Ledger, a read-only MCP server for FMCSA carrier and broker records. Documentation only.",
+            "homepage": null,
+            "id": 1419884983,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-10-15T03:41:46Z",
+            "open_issues": 0,
+            "owner": "equinoxaifinance-rgb",
+            "repo": "carrier-ledger-docs",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-24T23:45:49.517Z"
         },
         {
           "node_type": "item",
@@ -1073,6 +1215,43 @@
             ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦💰 Open Data Actors MCP",
+          "description": "Typed tools over public-record sources: sanctions screening, SEC Form D filings, new business filings, FMCSA carrier census, WARN layoff notices, city council agendas, domain WHOIS/DNS/SSL. Bring your own Apify token; each call is pay-per-result on your account. MCP: https://open-data-actors-mcp.vercel.app/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server exposing 24 public-data Apify actors (sanctions, SEC Form D, WARN layoffs, FMCSA, SEO audit, jobs) as tools. By the actors' author.",
+            "homepage": "https://mamoo85.github.io/open-data-actors/",
+            "id": 1418066447,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-24T16:02:11Z",
+            "open_issues": 0,
+            "owner": "Mamoo85",
+            "repo": "open-data-actors-mcp",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "apify",
+              "apify-actor",
+              "data-api",
+              "lead-generation",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "ofac",
+              "open-data",
+              "public-records",
+              "sanctions",
+              "sec-edgar",
+              "seo"
+            ]
+          },
+          "first_seen": "2026-10-24T23:45:49.517Z"
         }
       ],
       "title": "Public Records & Compliance"
@@ -1096,7 +1275,7 @@
             "open_issues": 22,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1799,
+            "stars": 1805,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1137,7 +1316,7 @@
             "open_issues": 5,
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
-            "stars": 152,
+            "stars": 151,
             "topics": [
               "ai-tools",
               "claude",
@@ -1396,7 +1575,7 @@
             "open_issues": 0,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 1024,
+            "stars": 1029,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1435,10 +1614,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-23T08:21:50Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "AndrewCTF",
             "repo": "velocity",
-            "stars": 124,
+            "stars": 130,
             "topics": [
               "3d-globe",
               "adsb",
@@ -1595,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:03:46.693Z",
+    "last_updated": "2026-10-24T23:45:49.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1603,11 +1782,11 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-23T09:08:28Z",
-      "open_issues": 16,
+      "last_commit": "2026-10-24T21:23:15Z",
+      "open_issues": 10,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 524,
+      "stars": 525,
       "topics": [
         "awesome",
         "awesome-ai",
@@ -1627,7 +1806,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "a4c73e0060127014745a19d857a5776afd2180fc",
+    "original_repository_sha": "60e4f83e971071f86f676e7a3cbacb5986a30781",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
