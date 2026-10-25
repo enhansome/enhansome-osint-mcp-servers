@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 269,
+            "stars": 268,
             "topics": [
               "ai-agents",
               "claude",
@@ -82,7 +82,7 @@
             "id": 1168120544,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T00:14:20Z",
+            "last_commit": "2026-10-25T12:32:07Z",
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
@@ -128,7 +128,7 @@
             "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 201,
+            "stars": 202,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -515,7 +515,7 @@
             "open_issues": 0,
             "owner": "UPinar",
             "repo": "contrastapi",
-            "stars": 35,
+            "stars": 34,
             "topics": [
               "ai-agents",
               "ai-security",
@@ -689,11 +689,11 @@
             "id": 899407931,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T19:21:37Z",
-            "open_issues": 190,
+            "last_commit": "2026-10-25T20:53:04Z",
+            "open_issues": 191,
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7678,
+            "stars": 7684,
             "topics": [
               "batch-processing",
               "claude",
@@ -768,7 +768,7 @@
             "open_issues": 4,
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "archival",
               "cli",
@@ -1275,7 +1275,7 @@
             "open_issues": 22,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1805,
+            "stars": 1813,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1348,8 +1348,8 @@
             "id": 727031523,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T00:23:15Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-25T16:24:58Z",
+            "open_issues": 0,
             "owner": "XposedOrNot",
             "repo": "XposedOrNot-API",
             "stars": 100,
@@ -1395,27 +1395,6 @@
         },
         {
           "node_type": "item",
-          "title": "📦🆓 OpenCTI MCP",
-          "description": "Natural-language access to an OpenCTI instance: latest reports, campaigns by name, attack patterns, indicators, labels and marking definitions over the GraphQL API. Requires your own OpenCTI URL and token.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "MCP server for querying OpenCTI threat intelligence, indicators, reports, malware, and threat actors.",
-            "homepage": null,
-            "id": 909539706,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-03T01:14:56Z",
-            "open_issues": 0,
-            "owner": "zxzinn",
-            "repo": "opencti-mcp",
-            "stars": 40,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:49:49.381Z"
-        },
-        {
-          "node_type": "item",
           "title": "📦🆓 osint-agent-skills",
           "description": "23 MCP tools (DNS, Shodan InternetDB, crt.sh, Wayback CDX, GitHub code search, OTX, HIBP, Etherscan, Mastodon) with zero-dependency Node.js server for Claude Code, Cursor, and Ollama.",
           "children": [],
@@ -1430,7 +1409,7 @@
             "open_issues": 0,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
-            "stars": 38,
+            "stars": 40,
             "topics": [
               "ai-agent",
               "autonomous-agents",
@@ -1453,6 +1432,27 @@
               "security-research",
               "threat-intelligence"
             ]
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 OpenCTI MCP",
+          "description": "Natural-language access to an OpenCTI instance: latest reports, campaigns by name, attack patterns, indicators, labels and marking definitions over the GraphQL API. Requires your own OpenCTI URL and token.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server for querying OpenCTI threat intelligence, indicators, reports, malware, and threat actors.",
+            "homepage": null,
+            "id": 909539706,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-03T01:14:56Z",
+            "open_issues": 0,
+            "owner": "zxzinn",
+            "repo": "opencti-mcp",
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
         },
@@ -1575,7 +1575,7 @@
             "open_issues": 0,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 1029,
+            "stars": 1033,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1617,7 +1617,7 @@
             "open_issues": 21,
             "owner": "AndrewCTF",
             "repo": "velocity",
-            "stars": 130,
+            "stars": 135,
             "topics": [
               "3d-globe",
               "adsb",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:45:49.517Z",
+    "last_updated": "2026-10-25T23:35:26.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1783,10 +1783,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-24T21:23:15Z",
-      "open_issues": 10,
+      "open_issues": 13,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 525,
+      "stars": 524,
       "topics": [
         "awesome",
         "awesome-ai",
