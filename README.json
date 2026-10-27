@@ -53,7 +53,7 @@
             "open_issues": 1,
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 244,
+            "stars": 246,
             "topics": [
               "ai",
               "claude",
@@ -80,13 +80,13 @@
             "description": "X (Twitter) scraper API & Twitter MCP server to scrape tweets, profiles & followers. Not affiliated with X Corp.",
             "homepage": "https://xquik.com",
             "id": 1168120544,
-            "language": "JavaScript",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T12:32:07Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-26T19:21:32Z",
+            "open_issues": 3,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 220,
+            "stars": 221,
             "topics": [
               "agent-skill",
               "agent-skills",
@@ -128,10 +128,51 @@
             "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 202,
+            "stars": 205,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦💰 TwitterAPIs MCP",
+          "description": "Tweet search, user profiles, followers, timelines and account monitoring on X without an X developer account — 68 read tools, plus 44 that post and act as the connected account. One API key, pay per call at $0.0008 with $0.50 of starter credit. MCP: https://www.twitterapis.com/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official MCP server for twitterapis.com: the Twitter/X API as native tools for Claude, Cursor, Windsurf, and any MCP client.",
+            "homepage": "https://www.twitterapis.com/mcp",
+            "id": 1298292035,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-20T22:25:21Z",
+            "open_issues": 0,
+            "owner": "TwitterAPIs",
+            "repo": "twitterapis-mcp",
+            "stars": 3,
+            "topics": [
+              "ai-agents",
+              "api",
+              "claude",
+              "cursor",
+              "developer-tools",
+              "llm-tools",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "tweets",
+              "twitter",
+              "twitter-api",
+              "twitter-client",
+              "twitter-data",
+              "twitter-scraper",
+              "twitter-search",
+              "windsurf",
+              "x",
+              "x-api"
+            ]
+          },
+          "first_seen": "2026-10-24T00:03:46.693Z"
         },
         {
           "node_type": "item",
@@ -149,7 +190,7 @@
             "open_issues": 2,
             "owner": "renkagod",
             "repo": "osint-toolbox-mcp",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "ai-agents",
               "blackbird",
@@ -191,7 +232,7 @@
             "open_issues": 0,
             "owner": "pratie",
             "repo": "bulktranscripts-mcp",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "ai-agents",
               "captions",
@@ -215,47 +256,6 @@
         },
         {
           "node_type": "item",
-          "title": "📦💰 TwitterAPIs MCP",
-          "description": "Tweet search, user profiles, followers, timelines and account monitoring on X without an X developer account — 68 read tools, plus 44 that post and act as the connected account. One API key, pay per call at $0.0008 with $0.50 of starter credit. MCP: https://www.twitterapis.com/mcp",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official MCP server for twitterapis.com: the Twitter/X API as native tools for Claude, Cursor, Windsurf, and any MCP client.",
-            "homepage": "https://www.twitterapis.com/mcp",
-            "id": 1298292035,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-10-20T22:25:21Z",
-            "open_issues": 0,
-            "owner": "TwitterAPIs",
-            "repo": "twitterapis-mcp",
-            "stars": 0,
-            "topics": [
-              "ai-agents",
-              "api",
-              "claude",
-              "cursor",
-              "developer-tools",
-              "llm-tools",
-              "mcp",
-              "mcp-server",
-              "model-context-protocol",
-              "tweets",
-              "twitter",
-              "twitter-api",
-              "twitter-client",
-              "twitter-data",
-              "twitter-scraper",
-              "twitter-search",
-              "windsurf",
-              "x",
-              "x-api"
-            ]
-          },
-          "first_seen": "2026-10-24T00:03:46.693Z"
-        },
-        {
-          "node_type": "item",
           "title": "📦💰 TweetAPI MCP",
           "description": "Read-only Twitter data: tweet search, profiles, About this account (location, username history), followers, lists, communities and Spaces. 33 live tools plus docs tools. Hosted with OAuth, or local over stdio with a TweetAPI key. MCP: https://mcp.tweetapi.com/mcp",
           "children": [],
@@ -270,7 +270,7 @@
             "open_issues": 0,
             "owner": "tweetapi",
             "repo": "tweetapi-mcp",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "ai-agents",
               "claude",
@@ -304,7 +304,7 @@
             "open_issues": 0,
             "owner": "harshmaur",
             "repo": "reddit-scraper-pro-mcp",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "ai-agents",
               "apify",
@@ -334,7 +334,7 @@
             "open_issues": 0,
             "owner": "kooperativa-team",
             "repo": "kooperativa-mcp",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "ai-tools",
               "b2b",
@@ -364,7 +364,7 @@
             "open_issues": 0,
             "owner": "LMSlay",
             "repo": "tubetext-mcp",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "apify",
               "mcp",
@@ -395,11 +395,11 @@
             "id": 902513820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T05:45:39Z",
+            "last_commit": "2026-10-26T06:02:08Z",
             "open_issues": 4,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 178,
+            "stars": 180,
             "topics": [
               "ai-tools",
               "claude",
@@ -511,11 +511,11 @@
             "id": 1193641505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T21:01:47Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-26T02:08:42Z",
+            "open_issues": 5,
             "owner": "UPinar",
             "repo": "contrastapi",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "ai-agents",
               "ai-security",
@@ -557,7 +557,7 @@
             "open_issues": 0,
             "owner": "pucilpet",
             "repo": "crawlgraph-mcp",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "ahrefs-alternative",
               "backlink-analysis",
@@ -633,7 +633,7 @@
             "open_issues": 0,
             "owner": "stackscan",
             "repo": "stackscan-mcp",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "ai-agents",
               "api-client",
@@ -662,7 +662,7 @@
             "id": 1351983170,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T23:26:20Z",
+            "last_commit": "2026-10-26T19:26:58Z",
             "open_issues": 1,
             "owner": "papacasper",
             "repo": "mcp-toolbelt",
@@ -689,11 +689,11 @@
             "id": 899407931,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T20:53:04Z",
-            "open_issues": 191,
+            "last_commit": "2026-10-26T23:15:15Z",
+            "open_issues": 184,
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7684,
+            "stars": 7694,
             "topics": [
               "batch-processing",
               "claude",
@@ -726,11 +726,11 @@
             "id": 966718614,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T09:53:42Z",
+            "last_commit": "2026-10-26T14:03:43Z",
             "open_issues": 40,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2686,
+            "stars": 2687,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -867,7 +867,7 @@
             "open_issues": 16,
             "owner": "stefanoamorelli",
             "repo": "companies-house-mcp",
-            "stars": 29,
+            "stars": 31,
             "topics": [
               "ai-tools",
               "api",
@@ -974,7 +974,7 @@
             "id": 1209876625,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-23T01:13:24Z",
+            "last_commit": "2026-10-26T23:11:07Z",
             "open_issues": 0,
             "owner": "OpenSOSData",
             "repo": "opensosdata-mcp",
@@ -1111,7 +1111,7 @@
             "open_issues": 0,
             "owner": "mefos-lab",
             "repo": "sift",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -1132,7 +1132,7 @@
             "open_issues": 2,
             "owner": "cyanheads",
             "repo": "sanctions-screening-mcp-server",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "ai-agents",
               "aml",
@@ -1156,27 +1156,6 @@
         },
         {
           "node_type": "item",
-          "title": "🆓💰 Carrier Ledger",
-          "description": "Look up U.S. trucking companies and freight brokers in FMCSA public records; every fact cites the FMCSA dataset it came from. Read-only, not affiliated with FMCSA. MCP: https://carrierledger.tryneverclosed.com/mcp",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Docs for Carrier Ledger, a read-only MCP server for FMCSA carrier and broker records. Documentation only.",
-            "homepage": null,
-            "id": 1419884983,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-10-15T03:41:46Z",
-            "open_issues": 0,
-            "owner": "equinoxaifinance-rgb",
-            "repo": "carrier-ledger-docs",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-10-24T23:45:49.517Z"
-        },
-        {
-          "node_type": "item",
           "title": "📦💰 Nummeropslag",
           "description": "Privacy-first Danish phone-number intelligence using official CVR and telecom-register data. Look up registered companies, operators, number types, and community spam/trust signals without exposing private individuals' names. Requires a paid API key.",
           "children": [],
@@ -1191,7 +1170,7 @@
             "open_issues": 0,
             "owner": "andrey-tut",
             "repo": "nummeropslag-api",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "ai-agents",
               "anti-spam",
@@ -1232,7 +1211,7 @@
             "open_issues": 0,
             "owner": "Mamoo85",
             "repo": "open-data-actors-mcp",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "ai-agents",
               "apify",
@@ -1250,6 +1229,27 @@
               "sec-edgar",
               "seo"
             ]
+          },
+          "first_seen": "2026-10-24T23:45:49.517Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🆓💰 Carrier Ledger",
+          "description": "Look up U.S. trucking companies and freight brokers in FMCSA public records; every fact cites the FMCSA dataset it came from. Read-only, not affiliated with FMCSA. MCP: https://carrierledger.tryneverclosed.com/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Docs for Carrier Ledger, a read-only MCP server for FMCSA carrier and broker records. Documentation only.",
+            "homepage": null,
+            "id": 1419884983,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-10-15T03:41:46Z",
+            "open_issues": 0,
+            "owner": "equinoxaifinance-rgb",
+            "repo": "carrier-ledger-docs",
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-10-24T23:45:49.517Z"
         }
@@ -1275,7 +1275,7 @@
             "open_issues": 22,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1813,
+            "stars": 1816,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1316,7 +1316,7 @@
             "open_issues": 5,
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "ai-tools",
               "claude",
@@ -1348,11 +1348,11 @@
             "id": 727031523,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T16:24:58Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-27T00:23:48Z",
+            "open_issues": 1,
             "owner": "XposedOrNot",
             "repo": "XposedOrNot-API",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "ai-agents",
               "api",
@@ -1388,7 +1388,7 @@
             "open_issues": 0,
             "owner": "telmon95",
             "repo": "VulneraMCP",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -1409,7 +1409,7 @@
             "open_issues": 0,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
-            "stars": 40,
+            "stars": 43,
             "topics": [
               "ai-agent",
               "autonomous-agents",
@@ -1451,7 +1451,7 @@
             "open_issues": 0,
             "owner": "zxzinn",
             "repo": "opencti-mcp",
-            "stars": 40,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -1472,7 +1472,7 @@
             "open_issues": 1,
             "owner": "scottmartinanderson",
             "repo": "clearfront",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -1510,7 +1510,7 @@
             "open_issues": 0,
             "owner": "Jam0k",
             "repo": "Threat-Intelligence-MCP",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "claude",
               "cti",
@@ -1575,7 +1575,7 @@
             "open_issues": 0,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 1033,
+            "stars": 1041,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1617,7 +1617,7 @@
             "open_issues": 21,
             "owner": "AndrewCTF",
             "repo": "velocity",
-            "stars": 135,
+            "stars": 142,
             "topics": [
               "3d-globe",
               "adsb",
@@ -1659,7 +1659,7 @@
             "open_issues": 1,
             "owner": "cyanheads",
             "repo": "gdelt-mcp-server",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "ai-agents",
               "ai-tools",
@@ -1703,7 +1703,7 @@
             "open_issues": 0,
             "owner": "SOsintOps",
             "repo": "claudii-exploratores",
-            "stars": 16,
+            "stars": 18,
             "topics": [
               "ai-agents",
               "claude",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T23:35:26.384Z",
+    "last_updated": "2026-10-27T00:52:16.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1783,10 +1783,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-24T21:23:15Z",
-      "open_issues": 13,
+      "open_issues": 16,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 524,
+      "stars": 529,
       "topics": [
         "awesome",
         "awesome-ai",
