@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 268,
+            "stars": 267,
             "topics": [
               "ai-agents",
               "claude",
@@ -82,11 +82,11 @@
             "id": 1168120544,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T23:37:00Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-28T05:19:03Z",
+            "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 221,
+            "stars": 223,
             "topics": [
               "agent-skill",
               "agent-skills",
@@ -128,7 +128,7 @@
             "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 206,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -149,7 +149,7 @@
             "open_issues": 0,
             "owner": "TwitterAPIs",
             "repo": "twitterapis-mcp",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "ai-agents",
               "api",
@@ -186,7 +186,7 @@
             "id": 1383766253,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T15:25:04Z",
+            "last_commit": "2026-10-28T06:08:53Z",
             "open_issues": 2,
             "owner": "renkagod",
             "repo": "osint-toolbox-mcp",
@@ -399,7 +399,7 @@
             "open_issues": 4,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 181,
+            "stars": 182,
             "topics": [
               "ai-tools",
               "claude",
@@ -440,7 +440,7 @@
             "open_issues": 1,
             "owner": "zoomeye-ai",
             "repo": "mcp_zoomeye",
-            "stars": 82,
+            "stars": 81,
             "topics": [
               "cybersecurity",
               "osint",
@@ -689,11 +689,11 @@
             "id": 899407931,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T23:44:30Z",
+            "last_commit": "2026-10-28T23:19:34Z",
             "open_issues": 182,
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7702,
+            "stars": 7709,
             "topics": [
               "batch-processing",
               "claude",
@@ -727,10 +727,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-26T14:03:43Z",
-            "open_issues": 40,
+            "open_issues": 38,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2691,
+            "stars": 2693,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -907,7 +907,7 @@
             "open_issues": 0,
             "owner": "sophymarine",
             "repo": "openregistry",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "ai-agents",
               "aml",
@@ -1272,10 +1272,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-22T08:27:14Z",
-            "open_issues": 22,
+            "open_issues": 24,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1819,
+            "stars": 1823,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1611,7 +1611,7 @@
             "open_issues": 0,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 1043,
+            "stars": 1047,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1653,7 +1653,7 @@
             "open_issues": 21,
             "owner": "AndrewCTF",
             "repo": "velocity",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "3d-globe",
               "adsb",
@@ -1810,7 +1810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:45:29.806Z",
+    "last_updated": "2026-10-29T01:16:04.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1818,11 +1818,11 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-27T09:30:43Z",
-      "open_issues": 11,
+      "last_commit": "2026-10-28T13:44:13Z",
+      "open_issues": 9,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 531,
+      "stars": 532,
       "topics": [
         "awesome",
         "awesome-ai",
@@ -1842,7 +1842,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "a65948bb5ace656fdd84abc8109a13d29d29d501",
+    "original_repository_sha": "f976b2b10f1ea004dd48e0ca21f1f51aeb27e14e",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
