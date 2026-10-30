@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "ai-agents",
               "claude",
@@ -82,11 +82,11 @@
             "id": 1168120544,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T05:19:03Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-29T22:02:39Z",
+            "open_issues": 3,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 223,
+            "stars": 225,
             "topics": [
               "agent-skill",
               "agent-skills",
@@ -261,7 +261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "MCP server for TweetAPI: read-only Twitter data and docs for AI agents, hosted with OAuth or local over stdio. Not affiliated with X Corp.",
+            "description": "Twitter MCP server for Claude Code, Cursor and Codex: read-only Twitter data and TweetAPI docs, hosted with OAuth or local over stdio. Not affiliated with X Corp.",
             "homepage": "https://tweetapi.com/mcp",
             "id": 1431311244,
             "language": "TypeScript",
@@ -399,7 +399,7 @@
             "open_issues": 4,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "ai-tools",
               "claude",
@@ -466,7 +466,7 @@
             "open_issues": 1,
             "owner": "w0h1v",
             "repo": "mcp-dnstwist",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "dns",
               "javascript",
@@ -588,11 +588,11 @@
             "id": 1172544930,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T17:26:28Z",
+            "last_commit": "2026-10-29T18:05:59Z",
             "open_issues": 9,
             "owner": "IPGeolocation",
             "repo": "ipgeolocation-io-mcp",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "ai",
               "anthropic",
@@ -689,11 +689,11 @@
             "id": 899407931,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T23:19:34Z",
-            "open_issues": 182,
+            "last_commit": "2026-10-29T15:06:42Z",
+            "open_issues": 183,
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7709,
+            "stars": 7721,
             "topics": [
               "batch-processing",
               "claude",
@@ -726,11 +726,11 @@
             "id": 966718614,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T14:03:43Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-29T09:10:45Z",
+            "open_issues": 36,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2693,
+            "stars": 2695,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -776,6 +776,8 @@
               "mcp",
               "mcp-server",
               "model-context-protocol",
+              "nodejs",
+              "typescript",
               "wayback-machine",
               "web-archive"
             ]
@@ -794,7 +796,7 @@
             "id": 1257333156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T09:57:55Z",
+            "last_commit": "2026-10-29T13:23:37Z",
             "open_issues": 1,
             "owner": "Xavierfok",
             "repo": "singapore-proxy-mcp",
@@ -813,37 +815,6 @@
             ]
           },
           "first_seen": "2026-10-01T00:51:22.349Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🆓💰 CurlShot",
-          "description": "Capture a public web page as evidence: full-page PNG/JPEG/WebP, a PDF, or a video of the page scrolling, on phone or desktop presets, with cookie banners and ads hidden. Requires an API key; free plan 100 screenshots/month. MCP: https://curlshot.com/api/mcp",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Hosted MCP server for CurlShot: let AI agents take screenshots of any web page (PNG, JPEG, WebP, PDF, video). Setup for Claude, Cursor, VS Code.",
-            "homepage": "https://curlshot.com",
-            "id": 1421208016,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-24T16:04:58Z",
-            "open_issues": 0,
-            "owner": "SergiuPogor",
-            "repo": "curlshot-mcp",
-            "stars": 0,
-            "topics": [
-              "agent-skills",
-              "claude-code-marketplace",
-              "claude-code-plugin",
-              "claude-skills",
-              "gemini-cli-extension",
-              "mcp",
-              "mcp-server",
-              "model-context-protocol",
-              "screenshot-api"
-            ]
-          },
-          "first_seen": "2026-10-18T23:41:32.150Z"
         }
       ],
       "title": "Web Scraping"
@@ -1244,7 +1215,7 @@
             "id": 1419884983,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-15T03:41:46Z",
+            "last_commit": "2026-10-30T00:35:25Z",
             "open_issues": 0,
             "owner": "equinoxaifinance-rgb",
             "repo": "carrier-ledger-docs",
@@ -1275,7 +1246,7 @@
             "open_issues": 24,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1823,
+            "stars": 1830,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1312,11 +1283,11 @@
             "id": 902629770,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T14:54:43Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-30T00:36:33Z",
+            "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "ai-tools",
               "claude",
@@ -1352,7 +1323,7 @@
             "open_issues": 0,
             "owner": "XposedOrNot",
             "repo": "XposedOrNot-API",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "api",
               "breach-detection",
@@ -1445,10 +1416,52 @@
             "open_issues": 0,
             "owner": "zxzinn",
             "repo": "opencti-mcp",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓 CRED-1",
+          "description": "Local lookup of news-domain credibility: 2,600+ domains from public source-rating lists (OpenSources, Iffy.news) labeled fake, unreliable, mixed, conspiracy or satire, with a 0 to 1 score. 5 tools (check_domain, batch_check, search_domains, get_stats, get_categories); , no API key. CC BY 4.0, weekly releases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CRED-1: Open, reproducible domain credibility dataset for automated pre-bunking of online misinformation. TypeScript library, CLI & MCP server. Check any news source's reliability from terminal, code, or AI agents. CC BY 4.0, DOI-citable.",
+            "homepage": "https://aloth.github.io/cred-1/",
+            "id": 1166468607,
+            "language": "Python",
+            "license": "CC-BY-4.0",
+            "last_commit": "2026-10-29T09:02:04Z",
+            "open_issues": 0,
+            "owner": "aloth",
+            "repo": "cred-1",
+            "stars": 17,
+            "topics": [
+              "ai-agents",
+              "cli",
+              "credibility",
+              "dataset",
+              "disinformation",
+              "domain-reputation",
+              "fact-checking",
+              "fake-news",
+              "journalism",
+              "library",
+              "mcp",
+              "mcp-server",
+              "media-literacy",
+              "misinformation",
+              "npm-package",
+              "open-data",
+              "pre-bunking",
+              "reproducible-research",
+              "research-data",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-30T01:21:41.912Z"
         },
         {
           "node_type": "item",
@@ -1504,7 +1517,7 @@
             "open_issues": 0,
             "owner": "Jam0k",
             "repo": "Threat-Intelligence-MCP",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "claude",
               "cti",
@@ -1538,11 +1551,11 @@
             "id": 1129216556,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T21:45:11Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-29T17:21:05Z",
+            "open_issues": 0,
             "owner": "scanmalware",
             "repo": "mcp-server",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -1559,11 +1572,11 @@
             "id": 1429234157,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T17:49:37Z",
+            "last_commit": "2026-10-29T06:07:25Z",
             "open_issues": 0,
             "owner": "MRFrazer25",
             "repo": "Vulnerability-Exposure-MCP",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "cisa-kev",
               "claude",
@@ -1611,7 +1624,7 @@
             "open_issues": 0,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 1047,
+            "stars": 1049,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1810,7 +1823,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:16:04.761Z",
+    "last_updated": "2026-10-30T01:21:41.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -1818,11 +1831,11 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-28T13:44:13Z",
-      "open_issues": 9,
+      "last_commit": "2026-10-29T08:53:51Z",
+      "open_issues": 11,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 532,
+      "stars": 535,
       "topics": [
         "awesome",
         "awesome-ai",
@@ -1842,7 +1855,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "f976b2b10f1ea004dd48e0ca21f1f51aeb27e14e",
+    "original_repository_sha": "7a71fd0253c08008660047a51cdbe940425aafab",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
