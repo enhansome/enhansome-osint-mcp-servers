@@ -15,8 +15,8 @@
             "id": 902701610,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T09:54:35Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-01T09:57:42Z",
+            "open_issues": 12,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
             "stars": 268,
@@ -53,7 +53,7 @@
             "open_issues": 1,
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 246,
+            "stars": 247,
             "topics": [
               "ai",
               "claude",
@@ -128,7 +128,7 @@
             "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 207,
+            "stars": 209,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -149,7 +149,7 @@
             "open_issues": 1,
             "owner": "OSINT-Experts-Society",
             "repo": "Consensus-OSINT",
-            "stars": 196,
+            "stars": 199,
             "topics": [
               "bulk-search",
               "cli",
@@ -187,11 +187,11 @@
             "id": 1298292035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T03:01:33Z",
+            "last_commit": "2026-11-01T21:59:39Z",
             "open_issues": 0,
             "owner": "TwitterAPIs",
             "repo": "twitterapis-mcp",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "ai-agents",
               "api",
@@ -232,7 +232,7 @@
             "open_issues": 2,
             "owner": "renkagod",
             "repo": "osint-toolbox-mcp",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "ai-agents",
               "blackbird",
@@ -274,7 +274,7 @@
             "open_issues": 0,
             "owner": "pratie",
             "repo": "bulktranscripts-mcp",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "ai-agents",
               "captions",
@@ -312,7 +312,7 @@
             "open_issues": 0,
             "owner": "tweetapi",
             "repo": "tweetapi-mcp",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "ai-agents",
               "claude",
@@ -346,7 +346,7 @@
             "open_issues": 0,
             "owner": "harshmaur",
             "repo": "reddit-scraper-pro-mcp",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "ai-agents",
               "apify",
@@ -359,6 +359,35 @@
             ]
           },
           "first_seen": "2026-10-18T23:41:32.150Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🆓💰 TubeText YouTube Transcripts",
+          "description": "Transcripts of YouTube videos, Shorts, playlists or whole channels (Whisper fallback when captions are missing), plus channel stats and Social Blade history. Apify sign-in (OAuth); pay per result with a free monthly credit. MCP: https://mcp.apify.com/?tools=fetch-actor-details,tubetext/youtube-transcript-fast,tubetext/youtube-channel-analytics,tubetext/socialblade-scraper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Remote MCP servers for TubeText Apify Actors: video transcripts, AI video breakdown, Meta ad library, e-commerce prices, reviews. Works with Claude, Cursor, VS Code.",
+            "homepage": "https://apify.com/tubetext",
+            "id": 1417262125,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T17:04:09Z",
+            "open_issues": 0,
+            "owner": "LMSlay",
+            "repo": "tubetext-mcp",
+            "stars": 2,
+            "topics": [
+              "apify",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "tiktok",
+              "web-scraping",
+              "youtube-transcript"
+            ]
+          },
+          "first_seen": "2026-10-24T23:45:49.517Z"
         },
         {
           "node_type": "item",
@@ -389,35 +418,6 @@
             ]
           },
           "first_seen": "2026-10-24T00:03:46.693Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🆓💰 TubeText YouTube Transcripts",
-          "description": "Transcripts of YouTube videos, Shorts, playlists or whole channels (Whisper fallback when captions are missing), plus channel stats and Social Blade history. Apify sign-in (OAuth); pay per result with a free monthly credit. MCP: https://mcp.apify.com/?tools=fetch-actor-details,tubetext/youtube-transcript-fast,tubetext/youtube-channel-analytics,tubetext/socialblade-scraper",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Remote MCP servers for TubeText Apify Actors: video transcripts, AI video breakdown, Meta ad library, e-commerce prices, reviews. Works with Claude, Cursor, VS Code.",
-            "homepage": "https://apify.com/tubetext",
-            "id": 1417262125,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-24T17:04:09Z",
-            "open_issues": 0,
-            "owner": "LMSlay",
-            "repo": "tubetext-mcp",
-            "stars": 1,
-            "topics": [
-              "apify",
-              "mcp",
-              "mcp-server",
-              "model-context-protocol",
-              "tiktok",
-              "web-scraping",
-              "youtube-transcript"
-            ]
-          },
-          "first_seen": "2026-10-24T23:45:49.517Z"
         }
       ],
       "title": "SOCMINT"
@@ -482,7 +482,7 @@
             "open_issues": 1,
             "owner": "zoomeye-ai",
             "repo": "mcp_zoomeye",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "cybersecurity",
               "osint",
@@ -536,7 +536,7 @@
             "open_issues": 13,
             "owner": "briandconnelly",
             "repo": "mcp-server-ipinfo",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -557,7 +557,7 @@
             "open_issues": 1,
             "owner": "UPinar",
             "repo": "contrastapi",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "ai-agents",
               "ai-security",
@@ -599,7 +599,7 @@
             "open_issues": 0,
             "owner": "pucilpet",
             "repo": "crawlgraph-mcp",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "ahrefs-alternative",
               "backlink-analysis",
@@ -630,11 +630,11 @@
             "id": 1172544930,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T13:56:26Z",
+            "last_commit": "2026-11-01T18:47:38Z",
             "open_issues": 10,
             "owner": "IPGeolocation",
             "repo": "ipgeolocation-io-mcp",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "ai",
               "anthropic",
@@ -675,7 +675,7 @@
             "open_issues": 0,
             "owner": "apiverve",
             "repo": "mcp-server",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "ai",
               "anthropic",
@@ -712,7 +712,7 @@
             "open_issues": 0,
             "owner": "stackscan",
             "repo": "stackscan-mcp",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "ai-agents",
               "api-client",
@@ -745,7 +745,7 @@
             "open_issues": 1,
             "owner": "papacasper",
             "repo": "mcp-toolbelt",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-10-24T23:45:49.517Z"
@@ -769,10 +769,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-29T15:06:42Z",
-            "open_issues": 183,
+            "open_issues": 184,
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7736,
+            "stars": 7743,
             "topics": [
               "batch-processing",
               "claude",
@@ -805,11 +805,11 @@
             "id": 966718614,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T09:10:45Z",
+            "last_commit": "2026-11-01T13:21:14Z",
             "open_issues": 36,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2698,
+            "stars": 2703,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -1225,8 +1225,8 @@
             "id": 1268108712,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T08:14:39Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-01T04:04:32Z",
+            "open_issues": 0,
             "owner": "cyanheads",
             "repo": "sanctions-screening-mcp-server",
             "stars": 3,
@@ -1402,7 +1402,7 @@
             "open_issues": 26,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1835,
+            "stars": 1842,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1443,7 +1443,7 @@
             "open_issues": 9,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
-            "stars": 521,
+            "stars": 524,
             "topics": [
               "ai-agent",
               "breach",
@@ -1481,7 +1481,7 @@
             "open_issues": 9,
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
-            "stars": 154,
+            "stars": 155,
             "topics": [
               "ai-tools",
               "claude",
@@ -1513,8 +1513,8 @@
             "id": 727031523,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T13:12:09Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-02T00:28:30Z",
+            "open_issues": 3,
             "owner": "XposedOrNot",
             "repo": "XposedOrNot-API",
             "stars": 103,
@@ -1547,7 +1547,7 @@
             "open_issues": 0,
             "owner": "telmon95",
             "repo": "VulneraMCP",
-            "stars": 49,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -1631,7 +1631,7 @@
             "open_issues": 0,
             "owner": "aloth",
             "repo": "cred-1",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "ai-agents",
               "cli",
@@ -1673,7 +1673,7 @@
             "open_issues": 1,
             "owner": "scottmartinanderson",
             "repo": "clearfront",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -1745,8 +1745,8 @@
             "id": 1129216556,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T17:21:05Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-01T21:47:22Z",
+            "open_issues": 1,
             "owner": "scanmalware",
             "repo": "mcp-server",
             "stars": 1,
@@ -1766,7 +1766,7 @@
             "id": 1429234157,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T08:15:46Z",
+            "last_commit": "2026-11-01T07:08:31Z",
             "open_issues": 0,
             "owner": "MRFrazer25",
             "repo": "Vulnerability-Exposure-MCP",
@@ -1818,7 +1818,7 @@
             "open_issues": 0,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 1054,
+            "stars": 1056,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1940,11 +1940,11 @@
             "id": 1249669466,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T23:13:22Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-01T16:57:28Z",
+            "open_issues": 2,
             "owner": "cyanheads",
             "repo": "gdelt-mcp-server",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "ai-agents",
               "ai-tools",
@@ -1979,29 +1979,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "OSINT suite for Claude — 898 curated OSINT tools as an Agent Skill + MCP server (classifier, URL builder, IBAN check, PII redactor). ALPHA.",
-            "homepage": null,
+            "description": "OSINT suite for Claude — 909 curated OSINT tools from Exploratores as an Agent Skill + offline MCP server: indicator classifier, URL builder with VPN/geo-lock warnings, IBAN check, PII redactor. ALPHA.",
+            "homepage": "https://github.com/SOsintOps/claudii-exploratores/blob/main/docs/faq.md",
             "id": 1296390238,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-01T00:08:40Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-01T20:24:20Z",
+            "open_issues": 1,
             "owner": "SOsintOps",
             "repo": "claudii-exploratores",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "ai-agents",
               "claude",
               "claude-skill",
+              "geolocation",
               "iban",
               "investigation",
               "mcp",
               "model-context-protocol",
               "osint",
+              "osint-tools",
               "pii-redaction",
               "python",
               "reconnaissance",
-              "threat-intelligence"
+              "threat-intelligence",
+              "vpn"
             ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -2059,7 +2062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:26:30.260Z",
+    "last_updated": "2026-11-02T01:02:59.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -2068,7 +2071,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-30T15:53:46Z",
-      "open_issues": 8,
+      "open_issues": 10,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
       "stars": 535,
