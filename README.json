@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 268,
+            "stars": 269,
             "topics": [
               "ai-agents",
               "claude",
@@ -82,11 +82,11 @@
             "id": 1168120544,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T07:19:25Z",
+            "last_commit": "2026-11-03T01:46:49Z",
             "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 225,
+            "stars": 227,
             "topics": [
               "agent-skill",
               "agent-skills",
@@ -128,7 +128,7 @@
             "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 209,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -441,7 +441,7 @@
             "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "ai-tools",
               "claude",
@@ -553,8 +553,8 @@
             "id": 1193641505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T17:42:57Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-02T02:09:21Z",
+            "open_issues": 5,
             "owner": "UPinar",
             "repo": "contrastapi",
             "stars": 36,
@@ -630,7 +630,7 @@
             "id": 1172544930,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T18:47:38Z",
+            "last_commit": "2026-11-02T19:54:54Z",
             "open_issues": 10,
             "owner": "IPGeolocation",
             "repo": "ipgeolocation-io-mcp",
@@ -671,7 +671,7 @@
             "id": 1097502199,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T20:26:40Z",
+            "last_commit": "2026-11-02T16:36:01Z",
             "open_issues": 0,
             "owner": "apiverve",
             "repo": "mcp-server",
@@ -768,11 +768,11 @@
             "id": 899407931,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T15:06:42Z",
-            "open_issues": 184,
+            "last_commit": "2026-11-03T00:47:01Z",
+            "open_issues": 185,
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7743,
+            "stars": 7752,
             "topics": [
               "batch-processing",
               "claude",
@@ -805,11 +805,11 @@
             "id": 966718614,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T13:21:14Z",
+            "last_commit": "2026-11-02T12:21:35Z",
             "open_issues": 36,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2703,
+            "stars": 2706,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -847,7 +847,7 @@
             "open_issues": 4,
             "owner": "Mearman",
             "repo": "mcp-wayback-machine",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "archival",
               "cli",
@@ -1172,7 +1172,7 @@
             "id": 1434192772,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T06:46:35Z",
+            "last_commit": "2026-11-02T07:12:02Z",
             "open_issues": 0,
             "owner": "markatdataandbeyond",
             "repo": "open-data-mcp",
@@ -1253,6 +1253,27 @@
         },
         {
           "node_type": "item",
+          "title": "📦🆓💰 National ID & Tax ID Validator",
+          "description": "Validate and decode national IDs, tax, company and VAT numbers, passport numbers and MRZ: 222 types across 108 countries, returning what the number encodes — birth date, sex, region, citizenship, taxpayer type. Structure and checksum only, no registry is queried, so valid means well-formed rather than real.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "National ID & Tax ID Validator MCP: validate and decode national IDs, tax IDs and passport MRZ of 108 countries via RapidAPI or Apify",
+            "homepage": null,
+            "id": 1442971217,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-02T19:59:04Z",
+            "open_issues": 0,
+            "owner": "soxoj",
+            "repo": "national-id-mcp",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-03T03:05:30.310Z"
+        },
+        {
+          "node_type": "item",
           "title": "📦💰 Nummeropslag",
           "description": "Privacy-first Danish phone-number intelligence using official CVR and telecom-register data. Look up registered companies, operators, number types, and community spam/trust signals without exposing private individuals' names. Requires a paid API key.",
           "children": [],
@@ -1263,7 +1284,7 @@
             "id": 1282068277,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T13:23:27Z",
+            "last_commit": "2026-11-02T14:09:39Z",
             "open_issues": 0,
             "owner": "andrey-tut",
             "repo": "nummeropslag-api",
@@ -1402,7 +1423,7 @@
             "open_issues": 26,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1842,
+            "stars": 1844,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -1426,44 +1447,6 @@
             ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📦🆓 Darknet MCP",
-          "description": "66 tools for dark web and breach intelligence: ransomware group tracking and victim listings, stealer logs, HIBP breach lookups, IntelX search, Tor .onion fetching and exit-node checks, MalwareBazaar/ThreatFox/URLhaus feeds, and Bitcoin address intel. Many tools work with no API key; premium sources unlock with your own keys.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs",
-            "homepage": "https://www.npmjs.com/package/darknet-mcp-server",
-            "id": 1278394334,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-22T21:54:34Z",
-            "open_issues": 9,
-            "owner": "badchars",
-            "repo": "darknet-mcp-server",
-            "stars": 524,
-            "topics": [
-              "ai-agent",
-              "breach",
-              "claude",
-              "cybersecurity",
-              "dark-web",
-              "darknet",
-              "exploit",
-              "malware",
-              "mcp",
-              "model-context-protocol",
-              "osint",
-              "ransomware",
-              "security",
-              "stealer-logs",
-              "threat-intelligence",
-              "tor"
-            ]
-          },
-          "first_seen": "2026-10-31T01:04:58.199Z"
         },
         {
           "node_type": "item",
@@ -1513,8 +1496,8 @@
             "id": 727031523,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T00:28:30Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-02T01:51:22Z",
+            "open_issues": 0,
             "owner": "XposedOrNot",
             "repo": "XposedOrNot-API",
             "stars": 103,
@@ -1568,7 +1551,7 @@
             "open_issues": 0,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "ai-agent",
               "autonomous-agents",
@@ -1766,7 +1749,7 @@
             "id": 1429234157,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T07:08:31Z",
+            "last_commit": "2026-11-02T04:40:10Z",
             "open_issues": 0,
             "owner": "MRFrazer25",
             "repo": "Vulnerability-Exposure-MCP",
@@ -1818,7 +1801,7 @@
             "open_issues": 0,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 1056,
+            "stars": 1057,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1860,7 +1843,7 @@
             "open_issues": 21,
             "owner": "AndrewCTF",
             "repo": "velocity",
-            "stars": 149,
+            "stars": 151,
             "topics": [
               "3d-globe",
               "adsb",
@@ -1885,48 +1868,6 @@
             ]
           },
           "first_seen": "2026-10-24T00:03:46.693Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📦🆓 Satellite MCP",
-          "description": "171 tools across 27 categories of geospatial intelligence: Sentinel-2 and Landsat scene search, NASA FIRMS wildfire detections, night-lights change detection, aircraft and vessel tracking, military and conflict data, sanctions, terrain and OpenStreetMap queries, plus spectral and change-detection math. Most tools need no key; premium imagery (Planet, NASA Earthdata, N2YO) uses your own.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Full-Spectrum Geospatial Intelligence MCP Server — 171 tools across 27 categories: satellite imagery, aircraft tracking, maritime intelligence, military & defense, space tracking, conflict mapping, environmental monitoring, and more",
-            "homepage": "https://www.npmjs.com/package/satellite-mcp",
-            "id": 1285033612,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-01T16:41:02Z",
-            "open_issues": 5,
-            "owner": "badchars",
-            "repo": "satellite-mcp",
-            "stars": 9,
-            "topics": [
-              "acled",
-              "adsb",
-              "ai-agent",
-              "aircraft-tracking",
-              "ais",
-              "change-detection",
-              "conflict-data",
-              "earth-observation",
-              "geoint",
-              "geospatial-intelligence",
-              "gis",
-              "mcp",
-              "model-context-protocol",
-              "osint",
-              "remote-sensing",
-              "sanctions",
-              "satellite",
-              "ship-tracking",
-              "space-tracking",
-              "spectral-analysis"
-            ]
-          },
-          "first_seen": "2026-10-31T01:04:58.199Z"
         },
         {
           "node_type": "item",
@@ -1974,49 +1915,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "📦🆓 Claudii Exploratores",
-          "description": "OSINT suite exposing 898 curated OSINT tools across 24 categories (people, usernames, email, domains, IP, phones, companies, crypto, IBAN, media, social platforms…) as both a Claude Agent Skill and an MCP server. Auto-classifies an indicator, builds only the search URLs that fit it, and includes an offline ISO 13616 IBAN verifier and a reversible PII redactor. Python / FastMCP, AGPL-3.0. Alpha.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OSINT suite for Claude — 909 curated OSINT tools from Exploratores as an Agent Skill + offline MCP server: indicator classifier, URL builder with VPN/geo-lock warnings, IBAN check, PII redactor. ALPHA.",
-            "homepage": "https://github.com/SOsintOps/claudii-exploratores/blob/main/docs/faq.md",
-            "id": 1296390238,
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-11-01T20:24:20Z",
-            "open_issues": 1,
-            "owner": "SOsintOps",
-            "repo": "claudii-exploratores",
-            "stars": 19,
-            "topics": [
-              "ai-agents",
-              "claude",
-              "claude-skill",
-              "geolocation",
-              "iban",
-              "investigation",
-              "mcp",
-              "model-context-protocol",
-              "osint",
-              "osint-tools",
-              "pii-redaction",
-              "python",
-              "reconnaissance",
-              "threat-intelligence",
-              "vpn"
-            ]
-          },
-          "first_seen": "2026-08-28T05:49:49.381Z"
-        }
-      ],
-      "title": "Meta / Discovery"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "💰 The Stall",
           "description": "Multi-tool blockchain OSINT server: OFAC sanctions screening (19,000+ SDN entries, fuzzy name match + AKA aliases), wallet risk scoring, agent KYA trust scoring, EVM and Solana transaction intelligence, and token security analysis. Pay-per-call via x402 USDC micropayments on Base — no accounts or API keys. MCP: https://the-stall.intuitek.ai/mcp",
           "children": [],
@@ -2056,13 +1954,51 @@
             ]
           },
           "first_seen": "2026-09-22T00:18:03.464Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦🆓💰 Bridge Watch",
+          "description": "On-chain address intelligence on Base: resolve any EVM address against 104,209 labeled entities (exchanges, bridges, contracts) for attribution in transaction analysis, plus a paid-endpoint catalog and bridge-transfer alerts. Free anonymous tier, then per-call x402 USDC micropayments. MCP: https://agentsapi.top/mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "On-chain risk intelligence API: address labels (100k+), transaction explainer, sybil/entity clustering, USDC pay-per-call. MCP server included.",
+            "homepage": "https://agentsapi.top",
+            "id": 1366848879,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-15T02:19:52Z",
+            "open_issues": 0,
+            "owner": "LakeSky",
+            "repo": "bridge-watch",
+            "stars": 0,
+            "topics": [
+              "address-labeling",
+              "ai-agents",
+              "api",
+              "base",
+              "blockchain",
+              "crypto-analytics",
+              "defi",
+              "entity-clustering",
+              "ethereum",
+              "machine-payments",
+              "mcp",
+              "onchain",
+              "sybil-detection",
+              "typescript",
+              "usdc",
+              "web3"
+            ]
+          },
+          "first_seen": "2026-11-03T03:05:30.310Z"
         }
       ],
       "title": "Blockchain Intelligence"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:02:59.855Z",
+    "last_updated": "2026-11-03T03:05:30.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -2070,11 +2006,11 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-30T15:53:46Z",
-      "open_issues": 10,
+      "last_commit": "2026-11-02T20:13:00Z",
+      "open_issues": 7,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 535,
+      "stars": 537,
       "topics": [
         "awesome",
         "awesome-ai",
@@ -2094,7 +2030,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "417abeb6674a30e5547f5219d92581d5464be081",
+    "original_repository_sha": "f70c216dda18afccd538781a726f37e95a6257b3",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
