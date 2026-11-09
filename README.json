@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 271,
+            "stars": 272,
             "topics": [
               "ai-agents",
               "claude",
@@ -53,7 +53,7 @@
             "open_issues": 1,
             "owner": "frishtik",
             "repo": "osint-tools-mcp-server",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "ai",
               "claude",
@@ -86,7 +86,7 @@
             "open_issues": 2,
             "owner": "OSINT-Experts-Society",
             "repo": "Consensus-OSINT",
-            "stars": 236,
+            "stars": 243,
             "topics": [
               "bulk-search",
               "cli",
@@ -124,8 +124,8 @@
             "id": 1168120544,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T20:55:16Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-08T23:15:23Z",
+            "open_issues": 1,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
             "stars": 227,
@@ -170,7 +170,7 @@
             "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 212,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -187,7 +187,7 @@
             "id": 1298292035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T05:09:04Z",
+            "last_commit": "2026-11-08T23:45:14Z",
             "open_issues": 0,
             "owner": "TwitterAPIs",
             "repo": "twitterapis-mcp",
@@ -526,14 +526,14 @@
           "description": "IP geolocation, ASN and network details, Tor exit-node checks, and interactive maps for sets of IPs via ipinfo.io. Free API token required.",
           "children": [],
           "repo_info": {
-            "archived": false,
-            "description": "IP Geolocation Server for MCP using ipinfo.io",
-            "homepage": null,
+            "archived": true,
+            "description": "DEPRECATED: use the official IPinfo MCP server at https://mcp.ipinfo.io",
+            "homepage": "https://mcp.ipinfo.io",
             "id": 925419068,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-19T01:10:01Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-08T16:26:05Z",
+            "open_issues": 1,
             "owner": "briandconnelly",
             "repo": "mcp-server-ipinfo",
             "stars": 45,
@@ -826,11 +826,11 @@
             "id": 899407931,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T00:29:41Z",
-            "open_issues": 188,
+            "last_commit": "2026-11-09T01:12:41Z",
+            "open_issues": 190,
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7775,
+            "stars": 7783,
             "topics": [
               "batch-processing",
               "claude",
@@ -867,7 +867,7 @@
             "open_issues": 37,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2714,
+            "stars": 2716,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -1303,6 +1303,27 @@
         },
         {
           "node_type": "item",
+          "title": "📦🆓💰 National ID & Tax ID Validator",
+          "description": "Validate and decode national IDs, tax, company and VAT numbers, passport numbers and MRZ: 222 types across 108 countries, returning what the number encodes — birth date, sex, region, citizenship, taxpayer type. Structure and checksum only, no registry is queried, so valid means well-formed rather than real.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "National ID & Tax ID Validator MCP: validate and decode national IDs, tax IDs and passport MRZ of 108 countries via RapidAPI or Apify",
+            "homepage": null,
+            "id": 1442971217,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-02T19:59:04Z",
+            "open_issues": 0,
+            "owner": "soxoj",
+            "repo": "national-id-mcp",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-11-03T03:05:30.310Z"
+        },
+        {
+          "node_type": "item",
           "title": "📦🆓 Sanctions Screening MCP",
           "description": "Screen names against the consolidated OFAC, EU, UK and UN sanctions lists, resolve companies to GLEIF LEIs, and trace ownership chains. Mirrors the lists into a local SQLite/FTS5 index, so matching runs offline with no API key and no rate limit; hits carry a raw Jaro-Winkler score and source provenance rather than a verdict.",
           "children": [],
@@ -1338,27 +1359,6 @@
             ]
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📦🆓💰 National ID & Tax ID Validator",
-          "description": "Validate and decode national IDs, tax, company and VAT numbers, passport numbers and MRZ: 222 types across 108 countries, returning what the number encodes — birth date, sex, region, citizenship, taxpayer type. Structure and checksum only, no registry is queried, so valid means well-formed rather than real.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "National ID & Tax ID Validator MCP: validate and decode national IDs, tax IDs and passport MRZ of 108 countries via RapidAPI or Apify",
-            "homepage": null,
-            "id": 1442971217,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-02T19:59:04Z",
-            "open_issues": 0,
-            "owner": "soxoj",
-            "repo": "national-id-mcp",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-11-03T03:05:30.310Z"
         },
         {
           "node_type": "item",
@@ -1514,7 +1514,7 @@
             "open_issues": 26,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1865,
+            "stars": 1897,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -1626,11 +1626,11 @@
             "id": 727031523,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T15:28:02Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-09T00:31:41Z",
+            "open_issues": 5,
             "owner": "XposedOrNot",
             "repo": "XposedOrNot-API",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "api",
               "breach-detection",
@@ -2170,7 +2170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:55:31.534Z",
+    "last_updated": "2026-11-09T01:14:23.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -2179,10 +2179,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-11-06T19:15:08Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 539,
+      "stars": 540,
       "topics": [
         "awesome",
         "awesome-ai",
