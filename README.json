@@ -39,39 +39,6 @@
         },
         {
           "node_type": "item",
-          "title": "📦🆓 OSINT Tools MCP",
-          "description": "Wraps seven classic OSINT CLIs behind one server: Sherlock and Blackbird (usernames), Maigret, Holehe (email), GHunt (Google accounts), theHarvester (domains) and SpiderFoot. Python, installs the underlying tools itself.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "MCP server exposing multiple OSINT tools for AI assistants like Claude",
-            "homepage": null,
-            "id": 1033877893,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-08-07T13:52:10Z",
-            "open_issues": 1,
-            "owner": "frishtik",
-            "repo": "osint-tools-mcp-server",
-            "stars": 248,
-            "topics": [
-              "ai",
-              "claude",
-              "holehe",
-              "intelligence-gathering",
-              "investigation",
-              "mcp",
-              "osint",
-              "reconnaissance",
-              "security",
-              "sherlock",
-              "spiderfoot"
-            ]
-          },
-          "first_seen": "2026-08-28T05:49:49.381Z"
-        },
-        {
-          "node_type": "item",
           "title": "📦🆓 Consensus OSINT",
           "description": "Local MCP server for username, email, phone and web-page lookups, with structured, paginated results. 7 tools. Install the extra and run ; optional providers may need credentials.",
           "children": [],
@@ -86,7 +53,7 @@
             "open_issues": 2,
             "owner": "OSINT-Experts-Society",
             "repo": "Consensus-OSINT",
-            "stars": 243,
+            "stars": 249,
             "topics": [
               "bulk-search",
               "cli",
@@ -114,6 +81,39 @@
         },
         {
           "node_type": "item",
+          "title": "📦🆓 OSINT Tools MCP",
+          "description": "Wraps seven classic OSINT CLIs behind one server: Sherlock and Blackbird (usernames), Maigret, Holehe (email), GHunt (Google accounts), theHarvester (domains) and SpiderFoot. Python, installs the underlying tools itself.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server exposing multiple OSINT tools for AI assistants like Claude",
+            "homepage": null,
+            "id": 1033877893,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-08-07T13:52:10Z",
+            "open_issues": 1,
+            "owner": "frishtik",
+            "repo": "osint-tools-mcp-server",
+            "stars": 249,
+            "topics": [
+              "ai",
+              "claude",
+              "holehe",
+              "intelligence-gathering",
+              "investigation",
+              "mcp",
+              "osint",
+              "reconnaissance",
+              "security",
+              "sherlock",
+              "spiderfoot"
+            ]
+          },
+          "first_seen": "2026-08-28T05:49:49.381Z"
+        },
+        {
+          "node_type": "item",
           "title": "📦💰 Xquik",
           "description": "X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.",
           "children": [],
@@ -124,7 +124,7 @@
             "id": 1168120544,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T23:15:23Z",
+            "last_commit": "2026-11-09T23:17:16Z",
             "open_issues": 1,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
@@ -170,10 +170,52 @@
             "open_issues": 2,
             "owner": "eliasbiondo",
             "repo": "linkedin-mcp-server",
-            "stars": 215,
+            "stars": 216,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦💰 SandBase CLI",
+          "description": "Local MCP bridge for social/web OSINT: X/Twitter, YouTube, Reddit, TikTok, Instagram, Xiaohongshu, Weibo, Bilibili, and page scraping via discover/inspect/run tools. Apache-2.0; browser OAuth; .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source AI CLI and local MCP server connecting 25 clients—Claude Code, Cursor, Codex, ChatGPT, Hermes, and OpenClaw—to 2,000+ models/APIs, with OAuth and rollback.",
+            "homepage": "https://sandbaseai.github.io/cli/",
+            "id": 1281133792,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-07T05:22:34Z",
+            "open_issues": 2,
+            "owner": "sandbaseai",
+            "repo": "cli",
+            "stars": 185,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "ai-coding",
+              "ai-gateway",
+              "chatgpt",
+              "claude-code",
+              "cli",
+              "codex",
+              "cursor",
+              "gemini-cli",
+              "hermes-agent",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "model-routing",
+              "multimodal-ai",
+              "openclaw",
+              "opencode",
+              "windsurf"
+            ]
+          },
+          "first_seen": "2026-11-10T03:49:58.168Z"
         },
         {
           "node_type": "item",
@@ -437,11 +479,11 @@
             "id": 902513820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T21:14:40Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-09T05:59:49Z",
+            "open_issues": 2,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 188,
+            "stars": 189,
             "topics": [
               "ai-tools",
               "claude",
@@ -557,7 +599,7 @@
             "open_issues": 5,
             "owner": "UPinar",
             "repo": "contrastapi",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "ai-agents",
               "ai-security",
@@ -826,11 +868,11 @@
             "id": 899407931,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T01:12:41Z",
-            "open_issues": 190,
+            "last_commit": "2026-11-10T02:57:34Z",
+            "open_issues": 195,
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7783,
+            "stars": 7792,
             "topics": [
               "batch-processing",
               "claude",
@@ -863,11 +905,11 @@
             "id": 966718614,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T11:06:34Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-09T13:03:28Z",
+            "open_issues": 38,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2716,
+            "stars": 2717,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -965,7 +1007,7 @@
             "id": 1381570632,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T14:26:38Z",
+            "last_commit": "2026-11-10T02:25:27Z",
             "open_issues": 0,
             "owner": "agentsearchhq-coder",
             "repo": "agentsearch-mcp",
@@ -1273,6 +1315,38 @@
             ]
           },
           "first_seen": "2026-11-04T01:41:32.107Z"
+        },
+        {
+          "node_type": "item",
+          "title": "📦💰 Google Ads Transparency MCP",
+          "description": "Competitor ad intelligence from the Google Ads Transparency Center: by domain, advertiser ID or name, get the ads that are new, still running or stopped, with first and last shown dates, format and links. One tool, stdio (); calls use your own Apify token.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Google Ads Transparency MCP: competitor Google ads (new, running, stopped) - hosted MCP via Apify, plus Node and Python stdio servers",
+            "homepage": "https://apify.com/publicrecords/google-ads-transparency-scraper",
+            "id": 1444843520,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-03T22:13:11Z",
+            "open_issues": 5,
+            "owner": "GeminiGeorge22",
+            "repo": "google-ads-transparency-mcp",
+            "stars": 0,
+            "topics": [
+              "ad-intelligence",
+              "ad-spy",
+              "ads-transparency",
+              "apify",
+              "competitor-analysis",
+              "google-ads",
+              "marketing",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol"
+            ]
+          },
+          "first_seen": "2026-11-10T03:49:58.168Z"
         }
       ],
       "title": "Company Intelligence"
@@ -1317,7 +1391,7 @@
             "open_issues": 0,
             "owner": "soxoj",
             "repo": "national-id-mcp",
-            "stars": 3,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-11-03T03:05:30.310Z"
@@ -1514,7 +1588,7 @@
             "open_issues": 26,
             "owner": "OpenOSINT",
             "repo": "OpenOSINT",
-            "stars": 1897,
+            "stars": 1915,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -1553,7 +1627,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-22T21:54:34Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "badchars",
             "repo": "darknet-mcp-server",
             "stars": 524,
@@ -1591,7 +1665,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-06T14:55:03Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
             "stars": 155,
@@ -1626,8 +1700,8 @@
             "id": 727031523,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T00:31:41Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-09T01:39:39Z",
+            "open_issues": 1,
             "owner": "XposedOrNot",
             "repo": "XposedOrNot-API",
             "stars": 102,
@@ -1660,7 +1734,7 @@
             "open_issues": 0,
             "owner": "telmon95",
             "repo": "VulneraMCP",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:49.381Z"
@@ -1681,7 +1755,7 @@
             "open_issues": 0,
             "owner": "frangelbarrera",
             "repo": "osint-agent-skills",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "ai-agent",
               "autonomous-agents",
@@ -1740,7 +1814,7 @@
             "id": 1166468607,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-07T12:55:04Z",
+            "last_commit": "2026-11-09T17:09:42Z",
             "open_issues": 0,
             "owner": "aloth",
             "repo": "cred-1",
@@ -1931,7 +2005,7 @@
             "open_issues": 0,
             "owner": "marc-shade",
             "repo": "world-intel-mcp",
-            "stars": 1066,
+            "stars": 1067,
             "topics": [
               "ai-tools",
               "ai-watch",
@@ -1970,7 +2044,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-23T08:21:50Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "AndrewCTF",
             "repo": "velocity",
             "stars": 153,
@@ -2170,7 +2244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:14:23.299Z",
+    "last_updated": "2026-11-10T03:49:58.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!",
@@ -2178,11 +2252,11 @@
       "id": 956668631,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-06T19:15:08Z",
-      "open_issues": 10,
+      "last_commit": "2026-11-09T21:35:28Z",
+      "open_issues": 9,
       "owner": "soxoj",
       "repo": "awesome-osint-mcp-servers",
-      "stars": 540,
+      "stars": 541,
       "topics": [
         "awesome",
         "awesome-ai",
@@ -2202,7 +2276,7 @@
         "osint-tools"
       ]
     },
-    "original_repository_sha": "dc9d21872c657a442fe220f8300b12539014d2f7",
+    "original_repository_sha": "f386b04317a683081bda5734172fb6476190843e",
     "enhanced_repository": "enhansome/enhansome-osint-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome OSINT MCP Servers with stars"
